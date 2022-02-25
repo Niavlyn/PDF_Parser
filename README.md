@@ -25,7 +25,9 @@ Avancement théorique du projet :
 -
 * Semaine 04 (24/01/2022) : Lancement du projet, mise en place des différents outils
 * Semaine 05 (31/01/2022) : Sprint 1
+* Semaine 06 (07/02/2022) : Sprint 2
 
 Suivi de l'avancement (rendus) :
 -
 * 07/02/2022 : Dépôt du Sprint 1
+* 28/02/2022 : Dépôt du Sprint 2
