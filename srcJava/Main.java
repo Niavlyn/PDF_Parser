@@ -14,29 +14,12 @@ import java.util.stream.Stream;
 
 public class Main {
     public static void main(String args[]) throws IOException {
-        //Récupération des chemins relatifs des dossiers nécessaires
-        File dossierMetaRel = new File("..\\Corpus_2022_meta");
-        File dossierTxtRel = new File("..\\Corpus_2022_txt");
-        File dossierFinalProdRel = new File("..\\FinalProduction");
 
-        //Récupération des chemins absolus
-        String dossierStringTxt = dossierTxtRel.getAbsolutePath().toString().replace("\\..", "");
-        File dossierTxt = new File(dossierStringTxt);
-        String dossierStringMeta = dossierMetaRel.getAbsolutePath().toString().replace("\\..", "");
-        File dossierMeta = new File(dossierStringMeta);
-        String dossierFinalProdAbsolu = dossierFinalProdRel.getAbsolutePath();
 
-        String test1 = dossierTxt.toString();
-        String test2 = test1.split("Corpus_2022_txt")[0];
-        test1 = test2 + "\\PDF_Parser\\Corpus_2022_txt";
-        dossierTxt = new File(test1);
-        System.out.println(dossierTxt);
+        File currentDirectory = new File(System.getProperty("user.dir"));
+        File dossierTxt = new File(currentDirectory + "/Corpus_2022_txt");
+        File dossierMeta = new File(currentDirectory + "/Corpus_2022_meta");
 
-        String test3 = dossierMeta.toString();
-        String test4 = test3.split("Corpus_2022_meta")[0];
-        test3 = test4 + "\\PDF_Parser\\Corpus_2022_meta";
-        dossierMeta = new File(test3);
-        System.out.println(dossierMeta);
 
         //Place dans un tableau l'ensemble des fichiers des dossiers
         //System.out.println(Arrays.toString(dossierTxt.list()));
@@ -62,9 +45,9 @@ public class Main {
 
 
         for(int i = 0 ; i < fichiersMeta.size() ; i++){
-            //System.out.println("fichier meta : " + fichiersMeta.get(i));
-            //System.out.println("fichier txt : " + fichiersTxt.get(i) + '\n');
-            Parser fichier = new Parser(fichiersTxt.get(i), fichiersMeta.get(i));
+            System.out.println("fichier meta : " + fichiersMeta.get(i));
+            System.out.println("fichier txt : " + fichiersTxt.get(i) + '\n');
+            //Parser fichier = new Parser(fichiersTxt.get(i), fichiersMeta.get(i));
 
             //Writer ecriture = new Writer(dossierFinalProdAbsolu, fichier.getFileName(), fichier.getTitle(), fichier.getAbstract(), fichier.getAuthors());
         }
