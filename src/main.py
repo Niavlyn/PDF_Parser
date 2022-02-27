@@ -48,20 +48,28 @@ def convertPdfToTxt(filePdf, fileTxt):
     command = 'pdf2txt.py -o ' + fileTxt + ' ' + filePdf
     os.system(command)
 
-def metadonnees(path):
-    with open(path, 'rb') as f:
+def metadonnees(path, pathPDF, nomFichier):
+    with open(pathPDF, 'rb') as f:
         pdf = PdfFileReader(f)
         info = pdf.getDocumentInfo()
-        number_of_pages = pdf.getNumPages()
 
-    print(info)
-    author = info.author
-    creator = info.creator
-    producer = info.producer
-    subject = info.subject
-    title = info.title
+    auteurs = info.author
+    if not auteurs:
+        auteurs = ''
+
+    titre = info.title
+    if not titre:
+        titre = ''
+
+    with open(path, 'w') as f:
+        f.write(nomFichier + '\n' + titre + '\n' + auteurs)
+
 
 for i in range(len(txtFiles)) :
      with open(txtFiles[i], 'w', encoding='utf-8') as f:
          convertPdfToTxt(pdfFiles[i], txtFiles[i])
-         #metadonnees(pdfFiles[i])
+         banana = pdfFiles[i].split(".pdf")[0]
+         banana = banana.split("/")[2]
+         nomFichier = banana
+         banana = "../Corpus_2022_meta/" + banana + "_meta.txt"
+         metadonnees(banana,pdfFiles[i], nomFichier)
