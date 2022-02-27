@@ -18,9 +18,13 @@ public class Main {
         File dossierMeta = new File(dossierStringMeta);
         String dossierFinalProdAbsolu = dossierFinalProdRel.getAbsolutePath();
 
+        System.out.println(dossierTxt.toString());
+        System.out.println(dossierMeta.toString());
+
         //Place dans un tableau l'ensemble des fichiers des dossiers
-        File listeFichiersTxt[] = dossierTxt.listFiles();
-        File listeFichiersMeta[] = dossierMeta.listFiles();
+        File[] listeFichiersTxt = dossierTxt.listFiles();
+        File[] listeFichiersMeta = dossierMeta.listFiles();
+
         
         //Création d'un tableau contenant les noms en Strng des fichiers
         ArrayList<String> fichiersTxt = new ArrayList<>();        
