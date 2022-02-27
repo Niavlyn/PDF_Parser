@@ -11,26 +11,8 @@ public class Parser {
     private static ArrayList<String> fileAbstract;
 
 
-    public Parser() {
-        reader("txtFiles/Boudin.txt");
-        reader("txtFiles/Boudin-Torres-2006.txt");
-        reader("txtFiles/Das_Martins.txt");
-        reader("txtFiles/Gonzalez_2018_Wisebe.txt");
-        reader("txtFiles/Iria_Juan-Manuel_Gerardo.txt");
-        reader("txtFiles/jing.txt");
-        reader("txtFiles/jing-cutepaste.txt");
-        reader("txtFiles/kessler94715.txt");
-        reader("txtFiles/kesslerMETICS-ICDIM2019.txt");
-        reader("txtFiles/mikheevJ02-3002.txt");
-        reader("txtFiles/miko.txt");
-        reader("txtFiles/Mikolov.txt");
-        reader("txtFiles/Nasr.txt");
-        reader("txtFiles/Torres.txt");
-        reader("txtFiles/Torres-moreno1998.txt");
-    }
-
-    public static void main(String[] args) {
-        Parser parser = new Parser();
+    public Parser(String filePath, String metaPath) {
+        reader(filePath);
     }
 
     public static void reader(String filePath) {
@@ -42,6 +24,9 @@ public class Parser {
         try {
             File file = new File(filePath);
             Scanner scanner = new Scanner(file);
+            //************************************************************************************************//
+            //RECUPERATION DU TITRE
+
             title = scanner.nextLine();
 
             if (Character.isUpperCase(title.charAt(0)) && !isAllUpper(title)) {
@@ -70,6 +55,19 @@ public class Parser {
             }
 
             System.out.println("TITRE : " + title);
+
+            //************************************************************************************************//
+            //RECUPERATION DES AUTEURS
+
+
+
+
+
+
+
+
+
+
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -87,5 +85,21 @@ public class Parser {
     private static boolean containsWord(String str, String word) {
         int i = str.indexOf(word);
         return i >= 0;
+    }
+
+    public static String getFileName() {
+        return fileName;
+    }
+
+    public static String getTitle() {
+        return title;
+    }
+
+    public static ArrayList<String> getAuthors() {
+        return authors;
+    }
+
+    public static ArrayList<String> getFileAbstract() {
+        return fileAbstract;
     }
 }
