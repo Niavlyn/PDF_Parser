@@ -1,7 +1,15 @@
 import java.io.File;
 import java.io.IOException;
 import java.io.Writer;
+import java.nio.file.DirectoryStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 
 public class Main {
@@ -18,13 +26,26 @@ public class Main {
         File dossierMeta = new File(dossierStringMeta);
         String dossierFinalProdAbsolu = dossierFinalProdRel.getAbsolutePath();
 
-        System.out.println(dossierTxt.toString());
-        System.out.println(dossierMeta.toString());
+        String test1 = dossierTxt.toString();
+        String test2 = test1.split("Corpus_2022_txt")[0];
+        test1 = test2 + "\\PDF_Parser\\Corpus_2022_txt";
+        dossierTxt = new File(test1);
+        System.out.println(dossierTxt);
+
+        String test3 = dossierMeta.toString();
+        String test4 = test3.split("Corpus_2022_meta")[0];
+        test3 = test4 + "\\PDF_Parser\\Corpus_2022_meta";
+        dossierMeta = new File(test3);
+        System.out.println(dossierMeta);
 
         //Place dans un tableau l'ensemble des fichiers des dossiers
+        //System.out.println(Arrays.toString(dossierTxt.list()));
+
+
+        //final Stream<Path> stream = Files.list(dirStream);
+
         File[] listeFichiersTxt = dossierTxt.listFiles();
         File[] listeFichiersMeta = dossierMeta.listFiles();
-
         
         //Création d'un tableau contenant les noms en Strng des fichiers
         ArrayList<String> fichiersTxt = new ArrayList<>();        
