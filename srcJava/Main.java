@@ -58,7 +58,7 @@ public class Main {
             int result = main.compareText(splitFichierTxtName);
             if(result != -1) {
                 Parser fichier = new Parser(main.fichiersTxt.get(i), main.fichiersMeta.get(result));
-                //Writer ecriture = new Writer(dossierFinalProdAbsolu, fichier.getFileName(), fichier.getTitle(), fichier.getAbstract(), fichier.getAuthors());
+                OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors());
             } else {
                 Parser fichier = new Parser(main.fichiersTxt.get(i), "null");
             }

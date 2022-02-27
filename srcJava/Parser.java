@@ -5,25 +5,27 @@ import java.util.Scanner;
 
 public class Parser {
 
-    private static String fileName;
-    private static String title;
-    private static String[] metaAuthorsTab;
-    private static String titleMeta;
+    private static String fileName = "";
+    private static String title = "";
+    private static String[] metaAuthorsTab = {""};
+    private static String titleMeta = "";
     private static String authors = "";
     private static String[] authorsTab;
-    private static String fileAbstract;
+    private static String fileAbstract = "";
 
 
     public Parser(String filePath, String metaPath) {
-        readerMeta(metaPath);
-        reader(filePath);
+        readerMeta(filePath,metaPath);
+        reader(filePath, metaPath);
         comparator(filePath);
+        reset();
     }
 
-    public static void reader(String filePath) {
+    public static void reader(String filePath, String fileMeta) {
 
         System.out.println("********************************************************\n\n");
         System.out.println("FILENAME " + filePath);
+        System.out.println("FILENAME META " + fileMeta);
         System.out.println("********************************************************");
 
         try {
@@ -67,51 +69,65 @@ public class Parser {
 
             //TODO Récupérer les auteurs
             //TODO Récupérer le résumé
-            String str ="";
+            String str = "";
             boolean foundAbstract = false;
-            while (scanner.hasNextLine() && !foundAbstract){
+            while (scanner.hasNextLine() && !foundAbstract) {
                 str = scanner.nextLine();
-                if(containsWord(str,"Abstract") || containsWord(str,"ABSTRACT")){
+                if (containsWord(str, "Abstract") || containsWord(str, "ABSTRACT")) {
                     foundAbstract = true;
                 }
             }
-            if(foundAbstract){
-                if(str.length() > 9){
+            if (foundAbstract) {
+                if (str.length() > 9) {
                     fileAbstract = str;
                 }
                 boolean foundIntroduction = false;
-                while (scanner.hasNextLine() && !foundIntroduction){
+                while (scanner.hasNextLine() && !foundIntroduction) {
                     str = scanner.nextLine();
-                    if (containsWord(str,"Introduction") || containsWord(str,"INTRODUCTION")){
+                    if (containsWord(str, "Introduction") || containsWord(str, "INTRODUCTION")) {
                         foundIntroduction = true;
-                    }else{
+                    } else {
                         fileAbstract = fileAbstract + str;
                     }
                 }
-                System.out.println("ABSTRACT : "+ fileAbstract);
-            }else{
+                if (fileAbstract.length() > 3000) {
+                    fileAbstract = "Le résumé n'a pas pu être trouvé.";
+                }
+
+
+                System.out.println("ABSTRACT : " + fileAbstract);
+            } else {
+                fileAbstract = "Le résumé n'a pas pu être trouvé.";
                 System.out.println("Impossible de trouver le résumé.");
             }
 
-
+            scanner.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    public static void readerMeta(String metaPath) {
-        File file = new File(metaPath);
-        try {
-            Scanner scanner = new Scanner(file);
-            fileName = scanner.nextLine();
-            if (scanner.hasNextLine())
-                titleMeta = scanner.nextLine();
-            if (scanner.hasNextLine()) {
-                String allAuthors = scanner.nextLine();
-                String[] metaAuthorsTab = allAuthors.split(";");
+    public static void readerMeta(String filePath,String metaPath) {
+        if (!metaPath.equals("null")) {
+            File file = new File(metaPath);
+            try {
+                Scanner scanner = new Scanner(file);
+                fileName = scanner.nextLine();
+                if (scanner.hasNextLine())
+                    titleMeta = scanner.nextLine();
+                if (scanner.hasNextLine()) {
+                    String allAuthors = scanner.nextLine();
+                    metaAuthorsTab = allAuthors.split(";");
+                }
+                scanner.close();
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
             }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.out.println("NOM DU FICHIER : " + fileName);
+        }else{
+            String splitFichierTxtName = " ";
+            splitFichierTxtName = filePath.split("Corpus_2022_txt")[1];
+            fileName = splitFichierTxtName.substring(1,splitFichierTxtName.length()-4);
         }
     }
 
@@ -123,7 +139,7 @@ public class Parser {
                 }
             }
         }
-
+        /*
         boolean useAuthorsTab = false;
         if (metaAuthorsTab.length == authorsTab.length) {
             int i = 0;
@@ -144,6 +160,17 @@ public class Parser {
                 authors = authors + s;
             }
         }
+        */
+        if (metaAuthorsTab.length > 0) {
+            for (String s : metaAuthorsTab) {
+                authors = authors + s;
+            }
+            System.out.println("AUTEURS : " + authors);
+        } else {
+            authors = "Aucun auteur n'a pu être trouvé.";
+            System.out.println(authors);
+        }
+
 
     }
 
@@ -156,6 +183,7 @@ public class Parser {
                     return true;
                 }
             }
+            scanner.close();
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
@@ -190,5 +218,14 @@ public class Parser {
 
     public static String getFileAbstract() {
         return fileAbstract;
+    }
+
+    private void reset() {
+        fileName = "";
+        fileAbstract = "";
+        authorsTab = new String[0];
+        authors = "";
+        metaAuthorsTab = new String[0];
+        title = "";
     }
 }
