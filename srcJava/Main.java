@@ -39,7 +39,7 @@ public class Main {
         }
 
 
-        for(int i = 0 ; i < main.fichiersMeta.size() ; i++){
+        for(int i = 0 ; i < main.fichiersTxt.size() ; i++){
             //System.out.println("fichier txt : " + main.fichiersTxt.get(i) + '\n');
             String splitFichierTxtName = " ";
             splitFichierTxtName = main.fichiersTxt.get(i).split("Corpus_2022_txt")[1];
