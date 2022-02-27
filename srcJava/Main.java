@@ -1,15 +1,6 @@
 import java.io.File;
 import java.io.IOException;
-import java.io.Writer;
-import java.nio.file.DirectoryStream;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 
 public class Main {
@@ -49,18 +40,19 @@ public class Main {
 
 
         for(int i = 0 ; i < main.fichiersMeta.size() ; i++){
-            System.out.println("fichier meta : " + main.fichiersMeta.get(i));
-            System.out.println("fichier txt : " + main.fichiersTxt.get(i) + '\n');
+            //System.out.println("fichier txt : " + main.fichiersTxt.get(i) + '\n');
             String splitFichierTxtName = " ";
             splitFichierTxtName = main.fichiersTxt.get(i).split("Corpus_2022_txt")[1];
             splitFichierTxtName = splitFichierTxtName.substring(1,splitFichierTxtName.length()-4);
 
             int result = main.compareText(splitFichierTxtName);
             if(result != -1) {
+                //System.out.println("fichier meta : " + main.fichiersMeta.get(result));
                 Parser fichier = new Parser(main.fichiersTxt.get(i), main.fichiersMeta.get(result));
                 OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors());
             } else {
                 Parser fichier = new Parser(main.fichiersTxt.get(i), "null");
+                OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors());
             }
         }
     }

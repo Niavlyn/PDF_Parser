@@ -5,23 +5,22 @@ import java.util.Scanner;
 
 public class Parser {
 
-    private static String fileName = "";
-    private static String title = "";
-    private static String[] metaAuthorsTab = {""};
-    private static String titleMeta = "";
-    private static String authors = "";
-    private static String[] authorsTab;
-    private static String fileAbstract = "";
+    private String fileName = "";
+    private String title = "";
+    private String[] metaAuthorsTab = {""};
+    private String titleMeta = "";
+    private String authors = "";
+    private String[] authorsTab;
+    private String fileAbstract = "";
 
 
     public Parser(String filePath, String metaPath) {
         readerMeta(filePath,metaPath);
         reader(filePath, metaPath);
         comparator(filePath);
-        reset();
     }
 
-    public static void reader(String filePath, String fileMeta) {
+    public void reader(String filePath, String fileMeta) {
 
         System.out.println("********************************************************\n\n");
         System.out.println("FILENAME " + filePath);
@@ -107,7 +106,7 @@ public class Parser {
         }
     }
 
-    public static void readerMeta(String filePath,String metaPath) {
+    public void readerMeta(String filePath,String metaPath) {
         if (!metaPath.equals("null")) {
             File file = new File(metaPath);
             try {
@@ -131,7 +130,7 @@ public class Parser {
         }
     }
 
-    public static void comparator(String filePath) {
+    public void comparator(String filePath) {
         if (titleMeta != null && !titleMeta.isEmpty()) {
             if (!title.equals(titleMeta)) {
                 if (isInTheText(filePath, titleMeta)) {
@@ -174,7 +173,7 @@ public class Parser {
 
     }
 
-    public static boolean isInTheText(String filePath, String word) {
+    public boolean isInTheText(String filePath, String word) {
         File file = new File(filePath);
         try {
             Scanner scanner = new Scanner(file);
@@ -190,7 +189,7 @@ public class Parser {
         return false;
     }
 
-    private static boolean isAllUpper(String s) {
+    private boolean isAllUpper(String s) {
         for (char c : s.toCharArray()) {
             if (Character.isLetter(c) && Character.isLowerCase(c)) {
                 return false;
@@ -199,33 +198,25 @@ public class Parser {
         return true;
     }
 
-    private static boolean containsWord(String str, String word) {
+    private boolean containsWord(String str, String word) {
         int i = str.indexOf(word);
         return i >= 0;
     }
 
-    public static String getFileName() {
+    public String getFileName() {
         return fileName;
     }
 
-    public static String getTitle() {
+    public String getTitle() {
         return title;
     }
 
-    public static String getAuthors() {
+    public String getAuthors() {
         return authors;
     }
 
-    public static String getFileAbstract() {
+    public String getFileAbstract() {
         return fileAbstract;
     }
 
-    private void reset() {
-        fileName = "";
-        fileAbstract = "";
-        authorsTab = new String[0];
-        authors = "";
-        metaAuthorsTab = new String[0];
-        title = "";
-    }
 }

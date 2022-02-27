@@ -9,7 +9,7 @@ public class OutputWriter {
     }
 
     private void writeInFile(String path, String nomFichier, String titre, String abstracts, String auteurs) {
-        System.out.println(path + " " + nomFichier + " " + titre + " " + abstracts + " " + auteurs);
+//        System.out.println(path + " " + nomFichier + " " + titre + " " + abstracts + " " + auteurs);
         try {
             FileWriter myWriter = new FileWriter(path + "/" + nomFichier);
             myWriter.write(nomFichier + "\n");
