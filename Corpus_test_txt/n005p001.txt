@@ -1,0 +1,1637 @@
+Vol. 5: 1–12, 2008
+doi: 10.3354/esr00103
+
+ENDANGERED SPECIES RESEARCH
+Endang Species Res
+
+Printed September 2008
+Published online July 1, 2008
+
+OPENPEN
+ ACCESS
+CCESS
+
+Overfishing and the disappearance of short-beaked
+common dolphins from western Greece
+
+Giovanni Bearzi1,*, Stefano Agazzi1, Joan Gonzalvo1, Marina Costa1,
+Silvia Bonizzoni1, Elena Politi1, Chiara Piroddi1, 2, Randall R. Reeves3
+
+1Tethys Research Institute, Viale G.B. Gadio 2, 20121 Milano, Italy
+2Fisheries Centre, University of British Columbia, 2202 Main Mall, Vancouver, British Columbia V6T 1Z4, Canada
+3Okapi Wildlife Associates, 27 Chandler Lane, Hudson, Québec J0P 1H0, Canada
+
+ABSTRACT: Once one of the most common cetaceans in the Mediterranean Sea, the short-beaked
+common dolphin has declined throughout the region since the 1960s and in 2003 this population was
+classified  as  Endangered  in  the  International  Union  for  Conservation  of  Nature  (IUCN)  Red  List.
+Here, we document the species’ precipitous decline in eastern Ionian Sea coastal waters across 13 yr.
+While 150 animals were present in the study area (1050 km2) in 1996, only 15 were observed in 2007.
+A 12 mo assessment of fishing effort and catch, together with circumstantial evidence, suggests that
+the  decline  was  caused  largely  by  prey  depletion  resulting  from  overfishing.  We  analyzed  the
+impacts of various fishing gear and estimated the degree of resource overlap between common dol-
+phins and local fisheries. The total biomass removed annually by 308 fishing boats in the study area
+averaged 3571 t, while that consumed by common dolphins was 17 t. Resource overlap between com-
+mon dolphins and fisheries — expressed as an average Pianka index of 0.5 — differed according to
+fishing gear, being higher for purse seiners (0.7) and beach seiners (0.4) and lower for bottom trawlers
+(0.1),  trammel  boats  (0.2)  and  longliners  (0.0).  Only  about  10  active  purse  seiners  (4%  of  the  total
+active fishing fleet) were responsible for 33% of the biomass removal, and likely had the greatest
+impact on prey of common dolphins. This study indicates a high risk of local disappearance of com-
+mon dolphins in the very near future, unless fishery management measures are implemented imme-
+diately. Purse seining should be the main management target.
+
+KEY WORDS:  Short-beaked common dolphin · Fishing · Prey depletion · Mediterranean Sea
+
+Resale or republication not permitted without written consent of the publisher
+
+INTRODUCTION
+
+Once  one  of  the  most  common  cetacean  species  in
+the Mediterranean Sea, the short-beaked common dol-
+phin  Delphinus  delphis has  declined  throughout  the
+region since the 1960s (Bearzi et al. 2003). In 2003, the
+Mediterranean  population  was  classified  as  Endan-
+gered  in  the  International  Union  for  Conservation  of
+Nature (IUCN) Red List of Threatened Species, based
+on  observed  declines  in  the  number  of  animals  and
+extent  of  occurrence,  as  well  as  deterioration  in  the
+quality  of  habitat  in  large  portions  of  the  Mediter-
+ranean.  In  2005,  Mediterranean  common  dolphins
+were listed in Appendix I and II of the Convention on
+the Conservation of Migratory Species (Bonn Conven-
+
+tion,  CMS).  While  it  would  be  difficult  to  imagine  a
+more favourable legal and international framework to
+support action in the region, conservation of common
+dolphins has remained ‘on paper’ (Bearzi 2007).
+
+Although much of the Mediterranean basin has not
+been  surveyed,  there  is  clear  evidence  of  population
+decline  in  portions  where  detailed  studies  have  been
+conducted, e.g. the northern Adriatic Sea (Bearzi et al.
+2004a)  and  the  Gulf  of  Vera  in  southern  Spain
+(Cañadas & Hammond 2007). Here, we document the
+precipitous,  ongoing  decline  of  common  dolphins  in
+eastern Ionian Sea coastal waters across 13 yr. Also, we
+show that the decline suggested previously for a core
+area of 480 km2 between 1997 and 2004 (Bearzi et al.
+2005, 2006) has occurred over a wider area (1050 km2)
+
+*Email: giovanni.bearzi@gmail.com
+
+© Inter-Research 2008 · www.int-res.com
+
+Survey  and  photo-identification  effort.  Surveys
+were conducted ad libitum from 4.7 to 5.8 m inflatable
+craft with rigid hulls powered by 50 to 100 HP 4-stroke
+outboard engines from 1995 to 2007. The survey cover-
+age totalled 34 801 km on effort and 908 survey days,
+from May to September each year (Table 1). Surveys
+were conducted at speeds between 28 and 36 km h–1
+under consistently good conditions: unimpaired visibil-
+ity, sea state ≤1 Douglas with no swell, and at least 2
+experienced  observers  scanning  the  sea  surface  (eye
+elevation of approximately 2 m). Such conditions char-
+acterize ‘on effort’ in Table 1.
+
+Photo-identification  of  individuals.  Colour  photo-
+graphs suitable for individual identification, based on
+long-term  natural  marks  on  the  dolphins’  dorsal  fins
+(Würsig & Würsig 1977, Neumann et al. 2002), were ob-
+tained on 356 d. On each encounter with a group of dol-
+phins, as many good photographs as possible were taken
+of all individuals present. Photo-identification was per-
+formed following Würsig & Jefferson (1990), with cam-
+eras equipped with 70 to 200 mm f2.8 zoom lenses, using
+100 ISO colour transparency film from 1995 to 2002, and
+digital photography from 2003 to 2007. Considering that
+digital  photography  substantially  improves  the  effi-
+
+2
+
+Endang Species Res 5: 1–12, 2008
+
+and a longer time interval (1995 to 2007). Bearzi et al.
+(2006) discussed  possible  reasons  for  the  observed
+declines  of  common  dolphins  and  other  megafauna
+that  prey  on  epipelagic  schooling  fish  and  concluded
+that  the  most  likely  cause  of  the  declines  was  prey
+depletion as a result of fishing pressure. Here, we pro-
+vide quantitative data on fishing effort and landings in
+the  Kalamos  area,  and  we  link  these  data  to  the  on-
+going  local  decline  of  common  dolphins  (and  other
+megafauna). Our 12 mo assessment is consistent with
+the  hypothesis  that  ecosystem  damage  has  been
+caused by unsustainable fishing (Stergiou et al. 1997,
+2007b).
+
+Eastern Ionian Sea waters surrounding the island of
+Kalamos have been included by the Hellenic Ministry of
+the Environment in the Natura 2000 network (‘Sites of
+Community Importance’) under the 9243 EEC ‘Habitats’
+Directive. In 2002 the Agreement on the Conservation of
+Cetaceans in the Black Sea, Mediterranean Sea and con-
+tiguous  Atlantic  area  (ACCOBAMS),  ratified  by
+Greece, identified the area of Kalamos as one where pi-
+lot conservation and management actions should be de-
+veloped and implemented immediately to preserve the
+habitat of common dolphins. In 2004, the Contracting
+Parties  to  ACCOBAMS  ‘welcomed’  a
+Conservation  Plan  for  Mediterranean
+common  dolphins 
+identified
+Kalamos as an Area of Conservation Im-
+portance (Bearzi et al. 2004b).
+
+that 
+
+The  study  presented  here  (1)  indi-
+cates that there is a high risk that com-
+mon  dolphins  will  disappear  from  the
+Kalamos  area  in  the  very  near  future
+and  (2)  identifies  fishery  management
+measures  that  must  be  implemented
+immediately  to  prevent  the  further
+decline of common dolphins and deteri-
+oration of the local ecosystem.
+
+MATERIALS AND METHODS
+
+Study  area.  The  study  area,  situated
+in eastern Ionian Sea coastal waters, in-
+cludes  the  Ionian  islands  of  Meganisi,
+Kalamos and Kastos and covers 1050 km2
+of  sea  surface  (Fig.  1).  The  sea  floor  is
+mostly  50  to  250  m  deep,  with  rocky
+coasts and shallows covered by seagrass
+meadows. Waters are transparent (Sec-
+chi  disk  readings  ranging  between  10
+and 30 m) and oligotrophic (Gotsis-Skre-
+tas  &  Ignatiades  2007),  and  river  and
+agricultural runoff is insignificant (Pitta
+et al. 1998).
+
+Fig. 1. Study area (delimited by bold line) with bathymetric contour lines and
+locations of fishing ports and other mooring/landing sites where local fishing
+fleets were monitored on a monthly basis from November 2006 to October 2007.
+The  location  of  the  study  area  relative  to  the  eastern  Mediterranean  basin  is
+shown in the inset
+
+Bearzi et al: Common dolphin disappearance in western Greece
+
+3
+
+Table  1.  Number  of  daily  surveys,  common  dolphin  encounters  and  km 
+surveyed ‘on effort’
+
+Year
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Subtotal
+
+15: 17
+14: 11
+
+Daily surveys: common dolphin encounters
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Total
+
+6: 3
+17: 15
+20: 16
+21: 18
+20: 15
+21: 12
+18: 10
+16: 3
+11: 3
+11: 2
+15: 3
+14: 0
+14: 1
+204: 101
+
+3: 2
+25: 18
+17: 10
+16: 7
+22: 13
+19: 16
+17: 10
+10: 6
+16: 2
+15: 2
+14: 5
+13: 1
+187: 92
+
+13: 6
+22: 11
+22: 14
+20: 13
+22: 21
+24: 18
+22: 7
+23: 5
+18: 4
+19: 3
+17: 0
+16: 0
+17: 0
+255: 102
+
+4: 0
+3: 1
+1: 0
+
+1: 1
+2: 0
+
+40: 30
+
+231
+313
+
+Km surveyed ‘on effort’
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+Total
+
+35
+608
+367
+541
+867
+465
+574
+1137
+670
+445
+679
+566
+6953
+
+247
+155
+3
+
+1
+50
+
+1000
+
+225
+413
+543
+623
+510
+504
+541
+501
+860
+298
+514
+642
+887
+7061
+
+566
+850
+432
+625
+716
+901
+962
+1075
+1359
+995
+940
+1079
+949
+11448
+
+8: 4
+17: 6
+22: 17
+24: 17
+22: 8
+21: 11
+17: 2
+11: 1
+20: 5
+11: 1
+16: 1
+18: 0
+15: 2
+222: 75
+
+378
+477
+576
+597
+689
+723
+500
+463
+936
+755
+883
+918
+444
+8339
+
+ciency of individual dolphin identification (Markowitz et
+al. 2003), transparencies were scanned at high resolution
+and turned into digital images for consistency of evalua-
+tion and analysis. Photos were then cropped around the
+dorsal fin and visible part of the body and selected using
+consistent criteria (i.e. entire dorsal fin visible, fin per-
+pendicular to camera, high sharpness and resolution, no
+water spray masking fin profile), based on recommenda-
+tions provided by Read et al. (2003). Following such se-
+lection,  the  catalogue  included  13 319  transparencies
+and 4290 digital photos, totalling 17 609 dorsal fin pho-
+tos. These images were then matched, and the identified
+animals were included in a database. Only individuals
+with distinctive dorsal fin profiles, bearing marks suit-
+able for reliable long-term identification from either side
+of the fin, were used for mark-recapture analyses. The
+characteristic white patch present on both sides of the fin
+of some animals could be used to confirm a match (Neu-
+mann et al. 2002, Bearzi et al. 2005) but not as a distinc-
+tive feature. Individuals with a single tiny nick or no nick
+on the dorsal fin’s trailing edge, and individuals judged
+to be recognizable only based on dorsal fin shape and/or
+
+27: 13
+59: 34
+104: 82
+96: 69
+80: 51
+88: 54
+77: 36
+69: 19
+59: 18
+61: 8
+66: 7
+63: 5
+59: 4
+908: 400
+
+temporary  scars  were  not  used  in  the
+analyses, as their inclusion could result
+in borderline or incorrect matches and
+thus violate one or more mark-recap-
+ture  assumptions.  Patterns  of  site  fi-
+delity  implied  by  photo-identification
+data  (Fig.  2,  where  information  from
+1993 and1994 is also shown) and indi-
+vidual movements indicated by recor-
+dings of boat position (used as a proxy
+for dolphin  position)  at  6  min  inter-
+vals during photo-identification follows
+(Fig.  3),  assisted  in the  selection  of
+the most appropriate model for mark-
+recapture analyses.
+
+1169
+1774
+2390
+2525
+2456
+2995
+2469
+2663
+4292
+2965
+2937
+3321
+2846
+34801
+
+Mark-recapture  analyses.  Mark-
+recapture methods rely on the number
+of  animals  marked  and  their  propor-
+tion  in  subsequent  samples  to  esti-
+mate population  parameters,  includ-
+ing abundance (Seber 1982). Since the
+1980s  these  methods  have  been  used
+widely  to  estimate  abundance  of  cer-
+tain cetacean species based on photo-
+graphic  records  of  naturally  marked
+individuals  (Hammond  1990,  Ham-
+mond  et  al.  1990,  Wilson  et  al.  1999).
+Pollock’s robust design (Pollock 1982)
+with  Huggins  estimator  has  been  the
+preferred model. Previous work in the
+Kalamos  area  showed  that  this  popu-
+lation  of  common  dolphins  could  be
+regarded  as  open  among  years  and
+closed within each annual sampling interval of 3 to 5
+mo  (Table  1),  based  on  a  high  degree  of  site  fidelity,
+individual movement patterns, and low rates of immi-
+gration (Bearzi et al. 2005). The programme Mark 4.3
+(http://www.warnercnr.colostate.edu/~gwhite/mark/
+mark.htm)  was  used  for  mark-recapture  abundance
+estimation.
+
+Monitoring fishing effort and landings. Prior to this
+study it had been difficult to document fishing pressure
+in the study area due to (1) poor reliability of the land-
+ing data (Watson & Pauly 2001) — a well-known prob-
+lem  in  the  wider  Mediterranean  and  in  the  Hellenic
+Seas  in  particular  (Stergiou  et  al.  1997,  1998,  Briand
+2000) — and  (2)  the  fact  that  local  fishermen  often
+deliberately misreport their catches with the intention
+of  reducing  taxation  or  avoiding  stricter  regulations
+(Bearzi  et  al.  2006).  Estimation  of  biomass  removal  is
+essential to assess the impact of fisheries (Pitcher et al.
+2002).  As  reliable  data  on  fishing  effort  and  fishery
+landings were unavailable, we incorporated in our dol-
+phin study a monitoring component aimed at obtaining
+direct information on fishing within the study area.
+
+4
+
+Endang Species Res 5: 1–12, 2008
+
+Fig.  2.  Pattern  of  site  fidelity  by  year  and  month  for  143  common  dolphins  photo-identified  in  the  study  area  between  1993
+and 2007. Each row represents the sighting history of 1 individual
+
+Fig.  3.  Movements  of  com-
+mon  dolphins  in  the  study
+area between 1997 and 2007
+
+Bearzi et al: Common dolphin disappearance in western Greece
+
+5
+
+In November 2006, we started a programme to mon-
+itor  the  local  fishing  fleet  in  all  16  ports  and  other
+mooring/landing sites (Fig. 1). All sites were monitored
+once  per  month  on  days  of  bad  sea  state  conditions
+and/or on Sundays, i.e. on days with a relatively high
+probability  that  the  whole  fishing  fleet  would  be
+moored or in port. A total of 324 fishing boats were cat-
+alogued.  Classification  of  fishing  boats  and  gear  was
+based on Nedelec & Prado (1990). The activity status of
+each boat was recorded visually every month based on
+fishing gear on board or near the boat’s mooring place,
+fishermen  working  on  board,  boat  conditions,  and
+direct inquiries. The local fishing fleet — i.e. the boats
+recorded as active in any given month during the study
+period — included 12 purse seiners (of which 11 were
+15 to 25 m and 1 was 12 m long), 24 beach seiners of
+8 to 12 m, 9 bottom trawlers of 20 to 25 m, 50 longliners
+(29 of 4 to 7 m and 21 of 7 to 10 m), and 213 trammel
+boats (98 of 4 to 7 m and 115 of 7 to 12 m). Boats shorter
+than  4  m  were  not  considered,  as  their  impact  was
+assumed negligible. For the same reason a total of 16
+boats 4 to 7 m long equipped with gas-powered lamps
+and  tridents/harpoons  were  also  excluded  from  the
+analyses. Some boats had multiple gears and switched
+from  one  fishing  method  to  another  depending  on
+seasonal  closures  (Kapantagakis  2007).  For  instance,
+most beach seiners operated as trammel boats during
+months  of  beach  seining  closure.  Therefore,  active
+boats  were  classified  according  to  the  gear  used  in
+each month of sampling (e.g. a boat could be scored as
+a purse seiner in September and as a bottom trawler in
+October,  depending  on  the  gear  used  during  those
+months).
+
+Landings of purse seiners, beach seiners and bottom
+trawlers were monitored between November 2006 and
+October 2007. A total of 26 landings were recorded for
+purse seiners (2.9 ± 1.9 mo–1, mean ± SD), 14 for beach
+seiners  (2.3  ± 3.78  mo–1),  and  16  for  bottom  trawlers
+(2.0 ± 1.31 mo–1). Total catch by species was recorded
+visually by trained researchers based on the number of
+full  boxes  landed  (boxes  were  routinely  divided  by
+species before landing). Full boxes were estimated to
+average  10  kg  irrespective  of  species  (an  assumption
+routinely  used  for  market  purposes  at  landing  sites,
+confirmed by direct observations). Days of activity per
+month  per  boat  for  purse  seiners,  beach  seiners  and
+bottom  trawlers  were  based  on  Kapantagakis  et  al.
+(2001),  also  taking  into  account  periods  of  seasonal
+fishing  closure.  Average  catch  for  trammel  boats  and
+longliners was estimated as 3.42 t yr–1 for boats 4 to 7 m
+long, and 6.31 t yr–1 for boats 8 to 11 m long (Stergiou
+et al. 2007c). Percentage catch contribution of the most
+abundant  species  for  longliners  and  trammel  boats
+operating in the Ionian Sea was based on Stergiou et
+al. (2007a). Discard rates were assumed to be 14% for
+
+purse  seiners  (Tsimenides  et  al.  1995 — a  value
+reported  as  likely  to  be  an  underestimate),  28%  for
+beach  seiners  (Stergiou  et  al.  1996),  39%  for  bottom
+trawlers (Machias et al. 2001) and 9.8% for netters and
+longliners (Stergiou et al. 2002, Tzanatos et al. 2007).
+Biomass  removed  annually  by  fisheries — calculated
+separately according to fishing gear—was the product
+of  average  daily  catch  per  boat,  days  of  activity  per
+month,  number  of  boats  recorded  as  active  in  each
+month of sampling, and months of fishing activity.
+
+Resource overlap. To assess the similarity of biomass
+composition between common dolphin prey and fish-
+ery  catches,  we  used  Pianka’s  niche  overlap  index
+(a measure  of  resource  overlap  between  2  species;
+Pianka 1973, Pusineri et al. 2004):
+
+P
+ij
+
+×
+
+P
+
+ik
+
+∑
+
+i
+
+α =
+
+∑
+
+(
+
+P
+ij
+
+) ×
+2
+
+i
+
+(
+
+P
+
+ik
+
+2
+)
+
+∑
+
+i
+
+where Pij is the percentage of prey item i of predator j,
+and Pik is the percentage of prey item i of predator k.
+The index ranges between 0 and 1, and the similarity is
+higher the closer the index is to 1.
+
+While  the  precise  diet  composition  of  common  dol-
+phins in the study area is not known, diet preferences
+were  inferred  from  (1)  stomach  contents  of  dead  ani-
+mals in the study area (Bearzi 2000) and in neritic habi-
+tat elsewhere (reviewed in Bearzi et al. 2003, Cañadas
+2006), (2) observations of common dolphin feeding be-
+haviour and diving patterns in the study area (Bearzi et
+al.  2005),  (3)  direct  observations  of  feeding  in  neritic
+Mediterranean  waters  (Mussi  &  Miragliuolo 2003,
+Cañadas 2006), and (4) analysis of fish scales sampled
+during  surface  feeding  by  common  dolphins  in  the
+study area (Agazzi et al. 2004, Bearzi et al. 2006). Based
+on this information, we assumed an average diet to be
+composed  of  80%  Clupeidae  and  Engraulidae,  10%
+Belonidae, Gadidae and small Carangidae, 5% Lolig-
+inidae, and 5% other families (Table 2). Average daily
+food consumption was estimated as 4.2 kg animal–1 us-
+ing IB = 0.123M0.8 (Innes et al. 1987), where IB is the in-
+gested  biomass  (kg  d–1)  and  M  the  body  mass  in  kg.
+Body mass of common dolphins in the central Mediter-
+ranean averages 82.5 kg according to Cagnolaro et al.
+(1983).  The  body  mass  of  juveniles  was  estimated  as
+50% of adult mass; nursing calves were not considered.
+
+RESULTS
+
+Population trends
+
+Mark-recapture estimates showed that common dol-
+phin  numbers  declined  significantly  and  almost
+steadily  between  1995  and  2007  (Fig.  4).  No  mark-
+
+6
+
+Endang Species Res 5: 1–12, 2008
+
+Table 2. Estimated percentage composition of catches by fishing gear and inferred diet composition of local common dolphins
+(see ‘Resource overlap’ section in ‘Materials and methods’)
+
+Beach
+seiners
+
+Purse
+seiners
+
+Bottom
+trawlers
+
+Trammel
+
+Longliners
+
+Common
+dolphins
+
+Clupeidae, Engraulidae
+Belonidae, Gadidae, small Carangidae
+Loliginidae
+Large Carangidae, all other Families
+
+26
+0
+4
+70
+
+34
+26
+2
+38
+
+0
+17
+15
+68
+
+13
+0
+0
+87
+
+0
+0
+0
+100
+
+80
+10
+5
+5
+
+recapture  estimates  could  be  obtained  in  2006  (5  en-
+counters)  and  2007  (4  encounters)  due  to  insufficient
+recapture events in different months. However, owing
+to the small group sizes and small number of encoun-
+ters,  all  animals  sighted  during  those  years  were
+photo-identified.  There  were  12  marked  animals  in
+2006 and 9 in 2007 (Fig. 4).
+
+As mark-recapture estimates relied on natural mark-
+ings  to  identify  individuals,  they  refer  exclusively  to
+the  population  of  marked  animals.  To  include  the
+unmarked  portion  and  estimate  total  abundance,  the
+proportion  of  unmarked 
+individuals  (which  also
+included  subadult  classes)  was  computed  based  on
+the number of photographs of marked and unmarked
+dorsal fins obtained daily (Williams et al. 1993, Bearzi
+et  al.  2008).  Based  on  1858  high-quality  dorsal  fin
+photos  taken  in  1997  (the  year  with  greatest  photo-
+identification effort), the mean proportion of unmarked
+animals in the population was 0.44 (95% CI = 0.382 to
+0.494,  n =  74).  By  adding  this  mean  proportion  of
+
+unmarked individuals to the mark-recapture estimate,
+we obtained estimates of total population size (Fig. 4).
+Even  though  mark-recapture  analyses  were  pre-
+cluded in 2006 and 2007 by insufficient recaptures in
+those years, encounters were so few (Table 1), groups
+so small (range 2 to 9), and photo-identification effort
+so  extensive  that  we  had  confidence  in  our  ability  to
+count  and  photograph  all  individuals  present  during
+the  sightings.  Direct  counts  of  total  animals  photo-
+graphed (18 individuals in 2006, 15 in 2007) were con-
+sistent  with  values  obtained  by  adding  the  estimated
+unmarked  animals  to  the  number  of  marked  animals
+(21  individuals  in  2006,  16  in  2007),  but  field  counts
+appeared to be the most accurate and were therefore
+used  to  complement  information  obtained  through
+mark-recapture (Fig. 4).
+
+The  observed  patterns  of  site  fidelity  (Fig.  2)  and
+dolphin  movement  (Fig.  3)  suggest  that  the  decline
+indicated by the mark-recapture analysis applies to the
+entire local population of common dolphins.
+
+Impact of fishing and resource overlap
+
+Landings by purse seiners averaged 706.2 kg (SD =
+967.91, n = 26, range 0 to 4030). Species landed were
+predominantly  horse  mackerel  Trachurus  trachurus
+(26.2% of the total catch), European pilchard Sardina
+pilchardus (23.1%), bogue Boops boops (15.8%), Euro-
+pean mackerel Scomber scombrus (11.2%), round sar-
+dinella Sardinella aurita (10.6%; sometimes discarded
+before  or  during  landing  operations  due  to  their  low
+market value), picarel Spicara smaris (7.5%), Atlantic
+bonito Sarda sarda (1.9%), European squid Loligo vul-
+garis (1.7%),  European  barracuda  Sphyraena  sphy-
+raena (1.0%)  and  skipjack  tuna  Katsuwonus  pelamis
+(0.8%). Landings by beach seiners averaged 125.6 kg
+(SD = 101.55, n = 14, range 29 to 410). Species landed
+were  predominantly  picarel  (56.1%),  European  pil-
+chard 
+(6.83%),  European  squid
+(3.58%), European barracuda (1.8%), striped red mul-
+let Mullus surmuletus (1.3%), greater amberjack Seri-
+ola  dumerili (0.9%),  European  mackerel  (0.6%)  and
+annular  seabream  Diplodus  annularis (0.6%).  Other
+
+(26.5%),  bogue 
+
+Fig.  4. Number  of  common  dolphins  in  the  study  area
+between  1995  and  2007,  estimated  through  photographic
+mark-recapture.  h:  total  number  of  marked  animals  photo-
+identified;  j:  mark-recapture  estimates;  d:  total  population
+estimates (marked and unmarked animals)
+
+Bearzi et al: Common dolphin disappearance in western Greece
+
+7
+
+species  caught  in  small  quantities  (0.4  to  0.1%)  in-
+cluded gilthead seabream Sparus aurata, Octopus spp.,
+salema  Sarpa  salpa,  saddled  seabream  Oblada  mela-
+nura, common pandora Pagellus erythrinus, European
+seabass  Dicentrarchus  labrax and  common  cuttlefish
+Sepia officinalis. Landings by bottom trawlers averaged
+495.3 kg (SD = 350.40, n = 16, range 195 to 1510). Spe-
+cies  landed  included  predominantly  European  hake
+(36.6%),  horse  mackerel
+Merluccius  merluccius
+(17.0%), European squid (14.9%), red shrimp Aristeus
+antennatus (11.4%), striped red mullet (7.7%), bogue
+(4.1%),  angler  Lophius  piscatorius (1.7%),  thornback
+ray Raja clavata (1.4%), common pandora (1.1%), silver
+scabbardfish Lepidopus caudatus (1.0%), spottail man-
+tis  shrimp  Squilla  mantis (0.6%),  European  seabass
+(0.5%),  and  Octopus spp.  (0.5%).  Other  species
+caught in  small  quantities  (0.4  to  0.1%)  included  pi-
+carel,  small-spotted  catshark  Scyliorhinus  canicula,
+common cuttlefish, gilthead seabream, flathead mullet
+Mugil cephalus, and common sole Solea solea.
+
+Estimates of the total biomass removed by the local
+fishing  fleet  between  November  2006  and  October
+2007 and a comparison of the relative impact of differ-
+ent  fishing  boats  are  shown  in  Table  3,  taking  into
+account days of inactivity and discards (see ‘Materials
+and  methods’).  The  estimated  total  biomass  removed
+by  local  fisheries  was  3571  t.  A  Pianka’s  index  of  0.5
+reflects  the  likely  present  overall  degree  of  resource
+overlap between common dolphins and fisheries in the
+study area (Table 2). Resource overlap differed accord-
+ing to fishing gear, being 0.7 for purse seiners, 0.4 for
+beach seiners, 0.1 for bottom trawlers, 0.2 for trammel
+
+Table 3. Composition of the fishing fleet operating in the study area and biomass
+removed annually
+
+Boat kind
+
+Boat length Mean no. Active
+of active months
+
+(m)
+
+Annual % of total
+biomass
+
+annual
+removal (t) biomass
+removal
+
+Purse seiner
+
+15–25
+
+Beach seiner
+
+Bottom trawler
+
+20–25
+
+Trammel
+
+12
+8–12
+
+4–5
+5–7
+7–10
+
+10–12
+
+< 7
+7–9
+9–10
+
+Longliner
+
+boats
+
+7.5
+1.0
+1.0
+1.0
+23.0
+6.0
+1.0
+22.8
+49.4
+15.5
+83.9
+1.3
+2.2
+15.3
+10.9
+4.5
+
+1166.5
+
+528.7
+
+797.8
+
+915.4
+
+162.7
+
+9.5
+6
+8
+4
+6
+8
+6
+12
+12
+6
+12
+6
+12
+12
+12
+12
+
+boats, and 0.0 for longliners (Fig. 5). The apparent lack
+of  resource  overlap  between  common  dolphins  and
+longliners  is  consistent  with  the  catch  composition
+observed in the Cyclades Islands (Stergiou et al. 2002)
+and  in  the  Patraikos  Gulf  (Tzanatos  et  al.  2006).  The
+biomass consumed by 15 common dolphins estimated
+to be present in the study area during the same time
+interval was about 17 t (Fig. 5).
+
+DISCUSSION
+
+Once common and relatively abundant in the area of
+Kalamos,  common  dolphins  have  declined  dramati-
+cally  over  the  past  decade.  While  approximately  150
+animals used the study area in 1996, only 15 were ob-
+served in 2007. Tuna and swordfish also have declined
+(Bearzi  et  al.  2006).  Large  tuna,  in  particular,  were
+commonly encountered in the early years of the study
+but were rarely seen after 2001. The decline of high-
+order marine predators that feed on epipelagic prey is
+consistent with the hypothesis that intensive exploita-
+tion of epipelagic fish stocks reduced the availability of
+key prey, making this coastal habitat less able to sus-
+tain populations of large predators (Bearzi et al. 2006).
+Other factors that might have played a significant role
+include unrecognized oceanic changes, tissue contam-
+ination by xenobiotic chemicals and incidental mortal-
+ity  in  fishing  gear,  but  only  the  last  is  likely  to  have
+been relevant. A local worker reported that 5 common
+dolphins  with  mutilations  were  found  stranded  near
+Paleros  between  December  2004  and  April  2005.  Of
+those,  only  1  animal  could  be  exam-
+ined and based on mutilation of its tail
+flukes,  it  likely  died  in  fishing  gear
+(Bearzi  2006).  No  other  reports  were
+received  of  common  dolphin  bycatch
+during the entire 15 yr study (1993 to
+2007)  or  during  the  12  mo  of  fishery
+monitoring. Also, floating carcasses of
+common  dolphins  (possibly  indicative
+of bycatch) were never observed over
+a  total  of  1163  d  spent  at  sea  within
+and around the study area since 1991,
+totalling > 67 000 km of navigation. By-
+catch is an important cause of mortal-
+ity of common dolphins in some parts
+of the world (Tregenza et al. 1997, Tre-
+genza & Collet 1998, Julian & Beeson
+1998)  and  it  may  have  contributed  to
+the  observed  decline  in  common  dol-
+phins  around  Kalamos.  However,  we
+consider  it  unlikely  that  bycatch  was
+the sole or even the main cause of the
+decline.
+
+22.3
+
+25.6
+
+14.8
+
+32.7
+
+4.6
+
+8
+
+Endang Species Res 5: 1–12, 2008
+
+Fig. 5. Estimate of total biomass removed by common dolphins and fisheries in the last year of the study. The darker part of the
+fisheries bars shows removal of species representing key prey for common dolphins, as suggested by the index of resource overlap
+
+As an alternative hypothesis, it is necessary to con-
+sider  the  possibility  that  the  observed  trends  were  a
+consequence of emigration or long-range movements.
+However,  surveys  outside  the  study  area  have  pro-
+vided no evidence to support the suggestion that com-
+mon dolphins have shifted their distribution away from
+the  Kalamos  area  (Bearzi  et  al.  2005).  This  area  has
+been one of the few remaining pockets of high-density
+occurrence in the central and eastern Mediterranean,
+and there are few reports of common dolphins in sur-
+rounding  areas.  Dedicated  cetacean  surveys  con-
+ducted by the Tethys Research Institute in the Ionian
+Sea  between  1991  and  2007,  covering  more  than
+8200 km outside the Kalamos study area, produced no
+sightings  of  common  dolphins.  Notwithstanding  sub-
+stantial  dedicated  effort  by  several  research  groups,
+only 3 sightings have been reported to date from east-
+ern Ionian Sea waters outside the study area (1 in each
+of 1992, 1995 and 1998; Angelici & Marini 1992, Politi
+et  al.  1992,  Frantzis  et  al.  2003,  Gannier  2005).  Be-
+tween  1999  and  2007,  common  dolphins  were  never
+seen  north,  west  or  south  of  the  study  area  during
+cetacean  surveys  totalling  tens  of  thousands  of  kilo-
+metres of dedicated effort and covering large portions
+of the eastern Ionian Sea, as well as waters west of the
+Peloponnese  (Frantzis  et  al.  2003,  Lacey  et  al.  2005,
+IFAW 2007, A. Frantzis pers. comm.). More generally,
+common dolphins appear to be rare in, or absent from,
+the adjacent central Mediterranean areas explored so
+far,  including  the  Hellenic  Trench,  other  neritic  and
+pelagic portions of the Ionian Sea, and the Adriatic Sea
+
+(Notarbartolo di Sciara et al. 1993, Bearzi et al. 2003,
+Frantzis  et  al.  2003,  Gannier  2005,  Lacey  et  al.  2005,
+IFAW 2007), the only exception being the inner Gulf of
+Corinth,  where  a  few  common  dolphins  remain
+(Frantzis  &  Herzing  2002).  Recent  genetic  evidence
+(Natoli et al. 2008) indicates a relatively high degree of
+differentiation  among  common  dolphins  in  the  Medi-
+terranean  and  shows  that  common  dolphins  in  the
+eastern part of the basin, including the Ionian Sea, are
+largely  isolated  from  the  western  Mediterranean
+population.
+
+Prey depletion caused by overfishing is thought to be
+one of the main reasons behind the overall decline of
+Mediterranean  common  dolphins  (Bearzi  et  al.  2003,
+2004a,  Cañadas  &  Hammond  2007).  The  declines  in
+fish  stocks  and  loss  of  marine  biodiversity  caused  by
+fishing  pressure  are  a  growing  concern  worldwide
+(Pauly  et  al.  1998,  2002,  Jackson  et  al.  2001,  Pitcher
+2001,  Csirke  2005,  Worm  et  al.  2006).  Unsustainable
+fishing  has  been  implicated  in  dramatic  ecological
+changes in the Mediterranean Sea (Sala 2004), where
+it has caused the decline of many fish stocks (Caddy &
+Griffiths 1990, De Walle et al. 1993, Stanners & Bour-
+deau  1995,  Caddy  1997,  Garcia  et  al.  2005).  Some  of
+the  Mediterranean  fish  stocks  that  have  been  over-
+exploited  include  important  prey  species  of  common
+dolphins (Lleonart 2005).
+
+While the impact of fishing remains to be assessed at
+the  regional  scale,  there  is  ample  and  growing  evi-
+dence  of  overfishing  in  the  Hellenic  Seas,  including
+the eastern Ionian Sea. Around the island of Kalamos,
+
+Bearzi et al: Common dolphin disappearance in western Greece
+
+9
+
+total  landings  have  decreased  since  the  mid  1980s
+(Papaconstantinou et al. 1985, 1988, Papaconstantinou
+& Stergiou 1995, Stergiou et al. 1997). European Com-
+mission (EC) figures indicate that catch per day of both
+demersal and pelagic resources has declined steeply in
+the Hellenic Ionian Sea over the last decade (EC 2004).
+In  the  eastern  Ionian  Sea,  in  particular,  purse  seine
+catch per day of both anchovies and sardines declined
+since  the  mid  1990s  (EC  2004),  especially  for  vessels
+larger than 15 m, which account for the majority of the
+catch  of  small  pelagic  fish  species  (Stergiou  et  al.
+2007b).  The  long-term  increasing  trends  in  Hellenic
+marine landings from 1964 to 1994, attributed to fleet
+modernization  and  geographic  expansion  of  the  fish-
+eries  over  this  period,  have  been  followed  since  the
+mid 1990s by rapidly declining trends in landings and
+yields,  suggesting  that  the  fishing  has  been  overly
+intense, i.e. unsustainable (Stergiou et al. 1997, 2007b,
+Stergiou 2005).
+
+Overlap  between  dolphin  prey  species  and  fishery
+target species — as indicated by the Pianka’s index —
+does not prove direct competition (Briand 2004). How-
+ever, it is reasonable to infer competitive effects when
+key prey becomes scarce and remains subject to heavy
+fishing  pressure  (Trites  et  al.  1997,  Kaschner  &  Pauly
+2004, Pusineri et al. 2004). Around Kalamos, the poten-
+tial for exploitative competition (Keddy 1989) between
+high-order  predators  such  as  common  dolphins  and
+local fisheries targeting their prey is apparent (Fig. 5).
+Overfishing and destructive fishing methods affect not
+only top predators, but also the fishery and in turn the
+fishing  communities.  Though  it  was  not  possible  to
+quantify  this  aspect  as  part  of  the  present  study  (cf.
+Saenz-Arroyo  et  al.  2005),  local  artisanal  fishermen
+consistently  lamented  the  declines  in  catches  and  re-
+ported to our research team that the local marine eco-
+system had become less productive in recent decades.
+The  waters  around  Kalamos  are  an  important
+spawning area for European pilchard (Somarakis et al.
+2000, 2006a,b, Machias et al. 2007) and hake (Politou
+et al. 2006, Politou 2007), making this Natura 2000 Site
+of Community Importance a candidate for special pro-
+tection  based  on  EC  Regulations  for  the  sustainable
+exploitation of fishery resources in the Mediterranean
+(EC 2006). In addition to common dolphins, the area is
+home  to  species  included  in  Annex  II  to  the  Habitats
+Directive, including a resident community of common
+bottlenose  dolphins  Tursiops  truncatus and  endan-
+gered  species  such  as  the  Mediterranean  monk  seal
+Monachus  monachus and  the  loggerhead  sea  turtle
+Caretta caretta.
+
+In view of the evidence provided here, and consider-
+ing  the  existing  political  and  legal  commitments  to
+conserve  cetaceans  and  preserve  marine  biodiversity
+(see  ‘Introduction’)  (Owen  2004),  relevant  local,  na-
+
+tional and regional governmental bodies are obliged to
+take action to reduce fishing pressure and limit the use
+of fishing gears that can have unintended harmful ef-
+fects on the marine environment. Fishery management
+measures are urgently needed to reduce current over-
+exploitation and allow for the recovery of endangered
+marine megafauna. Such measures should include the
+following: (1) an immediate moratorium on purse sein-
+ing, as advocated by the large local community of arti-
+sanal  fishermen;  (2)  restrictions  on  bottom  trawling;
+(3) strict enforcement and appropriate penalties for il-
+legal fishing; and (4) full implementation of the Coun-
+cil  Regulation  1967/2006,  which  also  demands  a  ban
+on  beach  seining  by  May  31,  2010  (beach  seining  is
+considered harmful to fish stocks and habitats and has
+been  banned  in  most  EU  Countries).  As  EC  funding
+tools  exist  to  compensate  the  affected  fisheries,  this
+may  be  a  ‘win-win’  situation,  where  existing  regula-
+tions can be effectively implemented to solve a specific
+conservation problem, with the added value of protect-
+ing marine biodiversity, ensuring continued ecosystem
+services,  preserving  artisanal  fisheries,  and  bringing
+long-term benefits to human society.
+
+Acknowledgements.  This  work  was  supported  in  part  by  a
+Pew  Marine  Conservation  Fellowship  (a  programme  of  the
+Pew  Institute  for  Ocean  Science),  by  OceanCare,  by  The
+Whale and Dolphin Conservation Society, by the UNEP/CMS
+Agreement  on  the  Conservation  of  Cetaceans  of  the  Black
+Sea,  Mediterranean  Sea  and  Contiguous  Atlantic  Area,  and
+by  UNEP’s  Regional  Activity  Centre  for  Specially  Protected
+Areas. Thanks to S. Bruno, S. Ferretti, A. Frantzis, A. Natoli,
+A. Petroselli and many other collaborators for contributing to
+field data collection and data analysis. Our gratitude also goes
+to all the volunteers who made this research possible through
+their  financial  support  and  help  in  the  field.  A.  Frantzis,  T.
+Lewis,  D.  Moutopoulos,  G.  Paximadis,  E.  Tryfon  and  A.  I.
+Tsikliras contributed relevant information. Constructive com-
+ments  were  provided  by  C.  M.  Fortuna,  G.  Notarbartolo  di
+Sciara,  D.  Pauly  and  2  anonymous  reviewers.  R.  Gramolini
+developed  a  dedicated  tool  to  ease  ArcView  GIS  analyses.
+The Milan Civic Aquarium and Hydrobiological Station pro-
+vided  logistical  support.  The  work  presented  here  was  con-
+ducted  under  research  permits  issued  by  the  Hellenic  Min-
+istry  of  Agriculture,  General  Directorate  of  Development  &
+Protection of Forests and Natural Environment, Directorate of
+Aesthetic Forests, Woodland and Hunting.
+
+LITERATURE CITED
+
+Agazzi S, Bearzi G, Politi E (2004) Short-beaked common dol-
+phin prey species in the Eastern Ionian Sea: insight from
+fish  scales  sampled  during  surface  foraging. Eur  Res
+Cetaceans 15:351–353
+
+Angelici FM,  Marini L (1992)  Sighting  of  Delphinus  delphis
+(Cetacea,  Odontoceti)  in  the  Otranto  Channel  (southern
+Adriatic Sea and northern Ionian Sea). Hystrix 4:91–93
+Bearzi G (2000) First report of a common dolphin (Delphinus
+delphis)  death  following  penetration  of  a  biopsy  dart.
+J Cetacean Res Manag 2:217–221
+
+10
+
+Endang Species Res 5: 1–12, 2008
+
+Bearzi G (2006) Preliminary report on the impact of fishing on
+common dolphins in the area of Kalamos, Greece (eastern
+Ionian Sea). Report 4th Meeting of ACCOBAMS Scientific
+Committee, Monaco, 5–8 November 2006. SC4/Inf09
+Bearzi G (2007) Marine conservation on paper. Conserv Biol
+
+21:1–3
+
+Bearzi G,  Reeves RR,  Notarbartolo  di  Sciara G,  Politi E,
+Cañadas A, Frantzis A, Mussi B (2003) Ecology, status and
+conservation  of  short-beaked  common  dolphins  (Delphi-
+nus  delphis)  in  the  Mediterranean  Sea. Mammal  Rev
+33:224–252
+
+Bearzi G, Holcer D, Notarbartolo di Sciara G (2004a) The role
+of  historical  dolphin  takes  and  habitat  degradation  in
+shaping the present status of northern Adriatic cetaceans.
+Aquat Conserv 14:363–379
+
+Bearzi G,  Notarbartolo  di  Sciara G,  Reeves RR,  Cañadas A,
+Frantzis A (2004b)  Conservation  Plan  for  short-beaked
+common 
+Sea.
+ACCOBAMS,  Monaco.  Available  at:  http://www.
+accobams.org/2006.php/documents/show/47
+
+the  Mediterranean 
+
+dolphins 
+
+in 
+
+Bearzi G,  Politi E,  Agazzi S,  Bruno S,  Costa M,  Bonizzoni S
+(2005) Occurrence and present status of coastal dolphins
+(Delphinus delphis and Tursiops truncatus) in the eastern
+Ionian Sea. Aquat Conserv 15:243–257
+
+Bearzi G, Politi E, Agazzi S, Azzellino A (2006) Prey depletion
+caused  by  overfishing  and  the  decline  of  marine  mega-
+fauna  in  eastern  Ionian  Sea  coastal  waters  (central
+Mediterranean). Biol Conserv 127:373–382
+
+Bearzi G, Agazzi S, Bonizzoni S, Costa M, Azzellino A (2008)
+Dolphins  in  a  bottle:  abundance,  residency  patterns  and
+conservation  of  common  bottlenose  dolphins  Tursiops
+truncatus in the semi-closed eutrophic Amvrakikos Gulf,
+Greece. Aquat Conserv 18:130–146
+
+Briand F (2000) Fishing down the Mediterranean food webs?
+CIESM  Workshop  Series.  Kerkyra,  26–30  July  2000.
+CIESM, Monaco
+
+Briand F (2004) Investigating the roles of cetaceans in marine
+
+ecosystems. CIESM Workshop Monographs 25
+
+Caddy JF (1997) Mediterranean and Black Sea: FAO Statisti-
+cal  Area  37.  FAO  Marine  Resources  Service,  Fishery
+Resources Division. FAO Fish Circ 920 FAO, Rome
+
+Caddy JF,  Griffiths RC (1990)  Recent  trends  in  the  fisheries
+and environment in the General Fisheries Council for the
+Mediterranean  (GFCM)  area.  Food  Agricult  Org  Rome
+Studies Rev 63:1–71
+
+Cagnolaro L,  Di  Natale A,  Notarbartolo  di  Sciara G (1983)
+Cetacei. Guide per il riconoscimento delle specie animali
+delle acque lagunari e costiere. Consiglio Nazionale delle
+Ricerche AQ/1/224.9
+
+Cañadas A (2006)  Towards  conservation  of  dolphins  in  the
+Alborán  Sea.  PhD  thesis,  Universidad  Autónoma  de
+Madrid
+
+Cañadas A,  Hammond PS (2008)  Abundance  and  habitat
+preferences  of  short-beaked  common  dolphins  (Delphi-
+nus delphis)  in  the  South-western  Mediterranean:  impli-
+cations for conservation. Endang Species Res 4:309–331
+Csirke J (2005) Global production and state of marine fishery
+resources. In: Review of the state of world marine fishery
+resources. FAO Fisheries Technical Paper 457, FAO UN,
+Rome, p 1–9 
+
+De  Walle FB,  Nikolopoulou-Tamvakli M,  Heinen WJ (1993)
+Environmental condition of the Mediterranean Sea: Euro-
+pean Community Countries. Kluwer Academic Publishers,
+Dordrecht
+
+EC (2004)  European  Union  Mediterranean  fisheries  and
+exploited  resources.  Report  of  the  Subgroup  on  the
+Mediterranean Sea (SGMED) of the Scientific, Technical
+
+and  Economic  Committee 
+SEC(2004)772
+
+for  Fisheries 
+
+(STECF).
+
+EC (2006)  Corrigendum  to  Council  Regulation  (EC)  No
+1967/2006 of 21 December 2006 concerning management
+measures  for  the  sustainable  exploitation  of  fishery
+resources in the Mediterranean Sea, amending Regulation
+(EEC)  No  2847/93  and  repealing  Regulation  (EC)  No
+1626/94. Official J EU L 36:6–30
+
+Frantzis A, Herzing DL (2002) Mixed-species associations of
+striped  dolphins  (Stenella  coeruleoalba),  short-beaked
+common  dolphins  (Delphinus  delphis),  and  Risso’s  dol-
+phins  (Grampus  griseus)  in  the  Gulf  of  Corinth  (Greece,
+Mediterranean Sea). Aquat Mamm 28:188–197
+
+Frantzis A,  Alexiadou P,  Paximadis G,  Politi E,  Gannier A,
+Corsini-Foka M (2003) Current knowledge of the cetacean
+fauna of the Greek Seas. J Cetacean Res Manag 5:219–232
+Gannier A (2005)  Summer  distribution  and  relative  abun-
+dance of delphinids in the Mediterranean Sea. Rev Ecol-
+Terre Vie 60:223–238
+
+Garcia SM,  de  Leiva  Moreno I,  Grainger R (2005)  Global
+trends in the state of marine fishery resources 1974–2004.
+In: Review of the state of world marine fishery resources.
+FAO  Fisheries  Technical  Paper  457.  FAO  UN.  Rome,
+p 10–14
+
+Gotsis-Skretas O,  Ignatiades L (2007)  The  distribution  of
+chlorophyll a in the Aegean and Ionian Sea. In: Papacon-
+stantinou C, Zenetos A, Vassilopoulou V, Tserpes G (eds)
+State  of  Hellenic  fisheries.  Hellenic  Center  Mar  Res,
+Athens, p 24–27
+
+Hammond PS (1990)  Capturing  whales  on  film:  estimating
+cetacean population parameters from individual recogni-
+tion data. Mammal Rev 20:17–22
+
+Hammond PS,  Mizroch SA,  Donovan GP (1990)  Individual
+recognition  of  cetaceans:  use  of  photo-identification  and
+other techniques to estimate population parameters. Rep
+Int Whal Commn, Special Issue 12
+
+IFAW  (International  Fund  for  Animal  Welfare) (2007)  Some
+results of cetacean surveys between 2003 and 2007 in the
+Mediterranean’s Western and Eastern basins. Report 3rd
+Meeting of the Parties to ACCOBAMS. Dubrovnik, 22–25
+October 2007 MOP3/Inf16
+
+Innes S, Lavigne DM, Earle WM, Kovacs KM (1987) Feeding
+
+rates of seals and whales. J Anim Ecol 56:115–130
+
+Jackson JBC, Kirby MX, Berger WH, Bjorndal KA and others
+(2001)  Historical  overfishing  and  the  recent  collapse  of
+coastal ecosystems. Science 293:629–638
+
+Julian F,  Beeson M (1998)  Estimates  of  marine  mammal,
+turtle,  and  seabird  mortality  for  two  California  gillnet
+fisheries: 1990–95. Fish Bull (Wash DC) 96:271–284
+
+Kapantagakis A (2007)  Management  and  legislation  in  Hel-
+lenic  fisheries.  In:  Papaconstantinou  C,  Zenetos  A,  Vas-
+silopoulou  V,  Tserpes  G  (eds)  State  of  Hellenic  fisheries.
+Hellenic Center Mar Res, Athens, p 151–158
+
+Kapantagakis A,  Machias A,  Stergiou KI,  Somarakis S and
+others (2001)  Patterns  and  propensities  in  Greek  fishing
+effort and catches. Final Report of Project PAPIFEC, EU-
+DG XIV, IMBC and Aristotle University, Thessaloniki
+Kaschner K,  Pauly D (2004)  Competition  between  marine
+mammals and fisheries: food for thought. Humane Society,
+Washington, DC
+
+Keddy PA (1989) Competition. Chapman & Hall, London
+Lacey C, Lewis T, Moscrop A (2005) Sightings made during
+visual surveys of the Mediterranean Sea in 2003 and 2004,
+including  an  unusual  encounter  with  rough-toothed  dol-
+phins  (Steno  bredanensis)  in  the  Ionian  Sea.  In:  Evans
+PGH, Ridoux V (eds) Proc 19th Annu Conf Euro Cetacean
+Soc, La Rochelle, 2–7 April 2005 (on CD)
+
+Bearzi et al: Common dolphin disappearance in western Greece
+
+11
+
+Lleonart J (2005) Mediterranean and Black Sea. In: Review of
+the state of world marine fishery resources. FAO Fisheries
+Technical Paper 457. FAO UN, Rome, p 49–64
+
+Machias A, Vassilopoulou V, Vatsos D, Bekas P, Kallianiotis A,
+Papaconstantinou C,  Tsimenides N (2001)  Bottom  trawl
+discards in the northeastern Mediterranean Sea. Fish Res
+53:181–195
+
+Machias A,  Giannoulaki M,  Somarakis S,  Siapatis A (2007)
+Small  pelagics  fish.  In:  Papaconstantinou  C,  Zenetos  A,
+Vassilopoulou  V,  Tserpes  G  (eds)  State  of  Hellenic
+fisheries. Hellenic Center Mar Res, Athens, p 192–207
+Markowitz TM, Harling AD, Würsig B (2003) Digital photog-
+raphy improves efficiency of individual dolphin identifica-
+tion. Mar Mamm Sci 19:217–223
+
+Mussi B, Miragliuolo A (2003) I cetacei della costa nord occi-
+dentale  dell’isola  d’Ischia  (Canyon  di  Cuma).  In:  Gambi
+MC,  De  Lauro  M,  Jannuzzi  F  (eds)  Ambiente  marino  e
+costiero  e  territorio  delle  isole  Flegree  (Ischia,  Procida  e
+Vivara - Golfo di Napoli): risultati di uno studio multidisci-
+plinare.  Memorie  dell’Accademia  di  Scienze  Fisiche  e
+Matematiche, Società Italiana di Scienze, Lettere e Arti in
+Napoli. Liguori Editore, Napoli, p 213–232
+
+Natoli A, Cañadas A, Vaquero C, Politi E, Fernandez-Navarro
+P,  Hoelzel AR (2008)  Conservation  genetics  of  the  short-
+beaked  common  dolphin  (Delphinus  delphis)  in  the
+Mediterranean  Sea  and  in  the  eastern  North  Atlantic
+Ocean. Conserv Genet doi:10.1007/s10592-007-9481-1
+Nedelec C, Prado J (1990) Definition and classification of fish-
+ing  gear  categories.  FAO  Fisheries  Technical  Paper  222
+(Rev. I). FAO UN, Rome
+
+Neumann DR, Leitenberger A, Orams MB (2002) Photo-iden-
+tification  of  short-beaked  common  dolphins  (Delphinus
+delphis) in north-east New Zealand: a photo-catalogue of
+recognisable 
+individuals. New  Zeal  J  Mar  Freshw
+36:593–604
+
+Notarbartolo di Sciara G, Venturino MC, Zanardelli M, Bearzi
+G, Borsani FJ, Cavalloni B (1993) Cetaceans in the central
+Mediterranean Sea: distribution and sighting frequencies.
+Ital J Zool (Modena) 60:131–138
+
+Owen D (2004) Legal instruments of relevance to the conser-
+vation of common dolphins in the Mediterranean Sea. In:
+Bearzi  G,  Notarbartolo  di  Sciara  G,  Reeves  RR,  Cañadas
+A,  Frantzis  A  (eds)  Conservation  Plan  for  short-beaked
+common 
+Sea.
+ACCOBAMS,  Monaco,  p  61–85.  Available  at:  http://
+www.accobams.org/2006.php/documents/show/47
+
+the  Mediterranean 
+
+dolphins 
+
+in 
+
+Papaconstantinou C, Stergiou K (1995) Biology and fishery of
+hake,  Merluccius  merluccius L.,  1758,  in  the  eastern
+Mediterranean.  In:  Alheit  J,  Pitcher  TJ  (eds)  Hake:  fish-
+eries products and markets. Fish and Fisheries Series 15.
+Chapman & Hall, London, p 149–180
+
+Papaconstantinou C,  Caragitsou H,  Panos T (1985)  Prelimi-
+nary utilization of trawl survey data for hake (M. merluc-
+cius)  population  dynamics  from  the  Western  Greek
+waters. FAO Fish Rep 345:87–92
+
+Papaconstantinou C, Mytilineou C, Panos T (1988) Aspects of
+the  life  history  and  fishery  of  the  red  pandora,  Pagellus
+erythrinus (Sparidae),  off  western  Greece. Cybium 12:
+267–280
+
+Pauly D,  Christensen V,  Dalsgaard J,  Froese R,  Torres F Jr
+(1998)  Fishing  down  marine  food  webs. Science 279:
+860–863
+
+Pauly D,  Christensen V,  Guénette S,  Pitcher TJ,  Sumaila
+UR, Walters CJ (2002)  Towards  sustainability  in  world
+fisheries. Nature 418:689–695
+
+Pianka ER (1973) The structure of lizard communities. Annu
+
+Rev Ecol Syst 4:53–74
+
+Pitcher TJ (2001)  Fisheries  managed  to  rebuild  ecosystems?
+Reconstructing  the  past  to  salvage  the  future. Ecol  Appl
+11:601–617
+
+Pitcher TJ,  Watson R,  Forrest R,  Valtysson HP,  Guenette S
+(2002)  Estimating  illegal  and  unreported  catches  from
+marine  ecosystems:  a  basis  for  change. Fish  Fish 3:
+317–339
+
+Pitta P,  Tsapakis M,  Zivanovic S,  Karakassis I 1(1998)  Sea-
+sonal variability of water column biogeochemistry in three
+coastal areas in the Ionian and Aegean Seas. Rap Commn
+Int Mer Médit 35:284–285
+
+Politi E, Bearzi M, Notarbartolo di Sciara G, Cussino E, Gnone
+G (1992)  Distribution  and  frequency  of  cetaceans  in  the
+waters  adjacent  to  the  Greek  Ionian  islands. Eur  Res
+Cetaceans 6:75–78
+
+Politou CY (2007)  Current  state  of  demersal  fisheries
+resources.  In:  Papaconstantinou  C,  Zenetos  A,  Vas-
+silopoulou  V,  Tserpes  G  (eds)  State  of  Hellenic  fisheries.
+Hellenic Center Mar Res, Athens, p 183–191
+
+Politou CY, Chilari A, Dokos J, Kallianiotis A, Tserpes G, Peri-
+steraki P (2006) Identification of the nurseries of hake and
+deep-water pink shrimp in the Greek waters using trawl
+survey  data.  Working  paper,  STECF/SGMED-06-01  sub-
+group meeting on Sensitive and Essential Fish Habitats in
+the Mediterranean, Rome, 6–10 March 2006
+
+Pollock KH (1982)  A  capture-recapture  design  robust  to
+unequal probability of capture. J Wildl Manag 46:757–760
+Pusineri C,  Meynier L,  Spitz J,  Ridoux V (2004)  Study  of
+dietary overlap between small cetaceans and fisheries in
+the  Bay  of  Biscay  from  stomach  content  analysis.  In:
+Briand  F  (ed)  Investigating  the  roles  of  cetaceans  in
+marine  ecosystems.  CIESM  Workshop  Monograph  25.
+CIESM, Monaco, p 59–66
+
+Read AJ, Urian KW, Wilson B, Waples DM (2003) Abundance
+of bottlenose dolphins in the bays, sounds and estuaries of
+North Carolina. Mar Mamm Sci 19:59–73
+
+Saenz-Arroyo A,  Roberts CM,  Torre J,  Carino-Olvera M,
+Enriquez-Andrade RR (2005)  Rapidly  shifting  environ-
+mental baselines among fishers of the Gulf of California.
+P Roy Soc B-Biol Sci 272:1957–1962
+
+Sala E (2004) The past and present topology and structure of
+Mediterranean  subtidal  rocky-shore  food  webs. Eco-
+systems (N Y, Print) 7:333–340
+
+Seber GAF (1982)  The  estimation  of  animal  abundance  and
+
+related parameters, 2nd edn. MacMillan, New York
+
+Somarakis S,  Machias A,  Koutsikopoulos C,  Maraveya E,
+Giannoulaki M,  Tsimenides N (2000)  Distribution  of
+anchovy and its spawning grounds off the central Aegean
+and  Ionian  Seas.  Proc  6th  Panhellenic  Symp  Oceanogr
+Fisheries 2:94–98 (in Greek)
+
+Somarakis S,  Ganias K,  Siapatis A,  Koutsikopoulos C,
+Machias A, Papaconstantinou C (2006a) Spawning habitat
+and daily egg production of sardine (Sardina pilchardus)
+in the eastern Mediterranean. Fish Oceanogr 15:281–292
+Somarakis S, Tsianis DE, Machias A, Stergiou KI (2006b) An
+overview of biological data related to anchovy and sardine
+stocks in Greek waters. In: Palomares MLD, Stergiou KI,
+Pauly  D  (eds)  Fishes  in  databases  and  ecosystems.  Fish-
+eries  Centre  Research  Reports  14(4).  Fisheries  Centre,
+University of British Columbia, Vancouver, p 56–64
+
+Stanners D,  Bourdeau P (1995)  Europe’s  environment:  the
+Dobris  Assessment.  European  Environment  Agency,
+Copenhagen
+
+Stergiou KI (2005)  Fisheries  impact  on  trophic  levels:  long-
+term  trends  in  Hellenic  waters.  In:  Papathanassiou  E,
+Zenetos A (eds) State of the Hellenic marine environment.
+Hellenic Center Mar Res, Athens, p 326–329
+
+12
+
+Endang Species Res 5: 1–12, 2008
+
+Stergiou KI, Petrakis G, Politou CY (1996) Small-scale fishery
+in the South Euboikos Gulf (Greece): species composition
+and gear competition. Fish Res 26:325–336
+
+Stergiou KI,  Christou ED,  Georgopoulos D,  Zenetos A,  Sou-
+vermezoglou C (1997) The Hellenic seas: physics, chem-
+istry, biology and fisheries. Oceanogr Mar Biol 35:415–538
+Stergiou KI,  Economou A,  Papaconstantinou C,  Tsimenides
+N, Kavadas S (1998) Estimates of discards in the Hellenic
+commercial  trawl  fishery.  Rap  Commn  Int  Expl  Sci  mer
+Méd 35:490–491
+
+Stergiou KI,  Moutopoulos DK,  Erzini K (2002)  Gill  net  and
+longlines fisheries in Cyclades waters (Aegean Sea): spe-
+cies composition and gear competition. Fish Res 57:25–37
+Stergiou KI, Machias A, Somarakis S, Kapantagakis A (2007a)
+Multivariate  analysis  of  fisheries  catch  per  day  in  Greek
+waters.  In:  Zeller  D,  Pauly  D  (eds)  Reconstruction  of
+marine  fisheries  catches  for  key  countries  and  regions
+(1950–2005).  Fisheries  Centre  Research  Reports  Vol.
+15(2).  Fisheries  Centre,  University  of  British  Columbia,
+Vancouver, p 139–148
+
+Stergiou KI,  Moutopoulos DK,  Tsikliras AC (2007b)  Spatial
+and temporal variability in Hellenic marine fisheries land-
+ings. In: Papaconstantinou C, Zenetos A, Vassilopoulou V,
+Tserpes  G  (eds)  State  of  Hellenic  fisheries.  Hellenic
+Center Mar Res, Athens, p 141–150
+
+Stergiou KI, Moutopoulos DK, Tsikliras AC, Papaconstantinou
+C (2007c) Hellenic marine fisheries: a general perspective
+from  the  National  Statistical  Service  data.  In:  Papacon-
+stantinou C, Zenetos A, Vassilopoulou V, Tserpes G (eds)
+State  of  Hellenic  fisheries.  Hellenic  Center  Mar  Res,
+Athens, p 132–140
+
+Tregenza NJC,  Collet A (1998)  Common  dolphin  Delphinus
+delphis bycatch in pelagic trawl and other fisheries in the
+northeast Atlantic. Rep Int Whal Commn 48:453–459
+Tregenza NJC,  Berrow SD,  Hammond PS,  Leaper R (1997)
+Common dolphin, Delphinus delphis L., bycatch in bottom
+
+set  gillnets  in  the  Celtic  Sea.  Rep  int  Whal  Commn
+47:835–839
+
+Trites AW,  Christensen V,  Pauly D (1997)  Competition
+between  fisheries  and  marine  mammals  for  prey  and
+primary  production  in  the  Pacific  Ocean. J  NW  Atlantic
+Fish Sci 22:173–187
+
+Tsimenides N,  Economou A,  Stergiou KI,  Papaconstantinou
+C, Walsh M, Bagicos G (1995) Estimates of discards in Hel-
+lenic  commercial  fisheries.  Report  MED92/018,  Fishing
+News Publications, Athens 
+
+Tzanatos E, Somarakis S, Tserpes G, Koutsikopoulos C (2006)
+Identifying and classifying small-scale fisheries métiers in
+the  Mediterranean:  a  case  study  in  the  Patraikos  Gulf,
+Greece. Fish Res 81:158–168
+
+Tzanatos E, Somarakis S, Tserpes G, Koutsikopoulos C (2007)
+Discarding practices in a Mediterranean small-scale fish-
+ing  fleet  (Patraikos  Gulf,  Greece). Fish  Manag  Ecol
+14:277–285
+
+Watson R,  Pauly D (2001)  Systematic  distortions  in  world
+
+fishery catch trends. Nature 414:534–536
+
+Williams JA,  Dawson SM,  Slooten E (1993)  The  abundance
+and distribution of bottlenosed dolphins (Tursiops trunca-
+tus)  in  Doubtful  Sound,  New  Zealand. Can  J  Zool
+71:2080–2088
+
+Wilson B,  Hammond PH,  Thompson PM (1999)  Estimating
+size and assessing trends in a coastal bottlenose dolphin
+population. Ecol Appl 9:288–300
+
+Worm B, Barbier EB, Beaumont N, Duffy JE and others (2006)
+Impacts of biodiversity loss on ocean ecosystem services.
+Science 314:787–790
+
+Würsig B, Jefferson TA (1990) Methods of photo-identification
+for  small  cetaceans. Rep  Int  Whaling  Comm 12(Special
+Issue):43–52
+
+Würsig B, Würsig M (1977) The photographic determination
+of  group  size,  composition,  and  stability  of  coastal  por-
+poises (Tursiops truncatus). Science 198:755–756
+
+Editorial responsibility: Rebecca Lewison,
+San Diego, California, USA
+
+Submitted: January 2, 2008; Accepted: May 1, 2008
+Proofs received from author(s): June 25, 2008
+
+

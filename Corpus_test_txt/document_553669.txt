@@ -1,0 +1,900 @@
+Understanding carotenoid losses in orange-fleshed sweet potato in 
+drying and storage 
+
+Bechoff, A.1*, Tomlins, K.I.1 , Dhuique-Mayer, C.2 , Dufour, D.2&3 and 
+Westby A.1 
+
+1.Natural Resources Institute (NRI), University of Greenwich, Chatham, Kent ME4 4TB, 
+
+United Kingdom 
+
+2.Centre International de Recherche Agronomique pour le Developpment (CIRAD) UMR 
+
+Qualisud, TA B-95/16, 73 av. J.F. Breton 34398, Montpellier Cedex 5, France 
+
+3.International Center for Topical Agriculture, CIAT, AA6713, Cali, Colombia. 
+ 
+*To whom correspondence should be addressed: a.bechoff@gre.ac.uk 
+ 
+ 
+ABSTRACT 
+Biofortified  orange-fleshed  sweet  potato  (OFSP)  is  being  promoted  to  tackle  vitamin  A 
+deficiency, a serious public health problem affecting children and pregnant/lactating women 
+in  sub-Saharan  Africa.    The  aim  of  the  study  was  to  quantify  and  understand  the  factors 
+influencing  provitamin  A  losses  in  OFSP  dried  chips.  Losses  were  determined  after  drying 
+and  storage.  A  preliminary  pilot-scale  study  demonstrated  that  carotenoid  levels  were  not 
+significantly different after either solar or sun drying. Field conditions using locally-promoted 
+varieties  in  Uganda  and  Mozambique  showed  losses  associated  with  drying  were  less  than 
+40%.  Flour  made  from  OFSP  could  therefore  be  a  significant  source  of  provitamin  A.    In 
+contrast,  storage  of  chips  at  room  temperature  in  Uganda  for  four  months  resulted  in  high 
+losses of pro-vitamin A (ca. 70% loss from the initial dried product). Low-cost pretreatments, 
+such  as  blanching,  antioxidants  and  salting,  did  not  improve  carotenoid  retention  during 
+storage.  To  understand  the  cause  of  the  losses,  dried  sweet  potato  chips  were  stored  under 
+controlled  conditions  of  temperature  (10;  20;  30;  or  40ºC),  aw  (0.1;  0.3;  0.5  or  0.7)  and 
+oxygen  (0  [under  nitrogen];  2.5;  10  or  21%  [air]).  Losses  in  provitamin  A  were  the  least 
+during storage at the lowest temperature and oxygen level and at the highest humidity level.  
+Enzymatic  catabolism  of  β-carotene  in  the  flour  was  considered  unlikely  because  of  low 
+peroxidase activities at low water activities and the loss of peroxidase activity during storage.  
+ 
+Keywords: orange-fleshed sweet potato, carotenoid degradation, drying, storage 
+ 
+ 
+INTRODUCTION  
+Carotenoids  are  organic  pigments  found  in  plants  that  play  an  important  role  as  vitamin  A 
+precursors in the human diet. In contrast to most plant foods, 80% of the carotenoid content 
+of orange-fleshed sweet potato (OFSP) is trans-β-carotene (Bechoff et al., 2009a; Bengsston, 
+et al., 2008).  Such varieties could contribute to tackling vitamin A deficiency, a main public 
+health issue in the developing world (Bechoff et al., 2009a; Bengsston et al., 2008).  Sweet 
+potato  is  a  very  valuable  crop  widely  consumed  in  sub-Saharan  Africa  (Woolfe  1992).  Sun 
+drying of sweet potatoes is a traditional practice. Roots are either sliced or crushed and then 
+dried on rocks.   These  are  stored in granaries; re-hydrated and boiled to be eaten like fresh 
+roots,  or  milled  into  flour.  There  are  efforts  through  the  HarvestPlus  Challenge  Program  to 
+promote the use of orange-fleshed varieties with high β-carotene content. In order to tackle 
+
+ 
+
+ 
+
+1
+
+ 
+
+vitamin  A  deficiency  in  sub-Saharan  African  by  increased  consumption  of  OFSP,  CIP  and 
+HarvestPlus Challenge Program have launched trials to incorporate OFSP in various recipes 
+of African foodstuffs (Namanda et al., 2005; Owori et al., 2007). Food processing, drying and 
+storage  have  been  previously  reported  to  have  a  major  effect  on  pro-vitamin  A  retention 
+because  of  the  nature  of  unsaturated,  unstable  provitamin  A  carotenoids  that  are  easily 
+degraded by  light,  oxygen, ultra-violet and heating leading, to significant  losses (Rodriguez 
+Amaya  1997).  It  is  therefore  essential  to  optimise  Orange  Flesh  Sweet  potato  (OFSP) 
+processing in order to achieve products with high nutritional quality. Few data are found on 
+carotenoid  retention  from  sweet  potato  after  drying  and  storage  and  the  effect  of  direct  sun 
+drying compared to solar drying.  
+ 
+MATERIALS AND METHODS 
+Sweet potato varieties were obtained from partner farmers in Uganda and from Namulongue 
+Agricultural Research Station of National Agricultural Research Organisation in Uganda and 
+farmers  partners  with  World  Vision  International  in  Mozambique.  For  preliminary  trials  in 
+France, roots were of an imported American variety (Rubina®, Agrexco). 
+ 
+Roots were chipped using hand rotary disc chipper or sliced by hand. Dryers used were hot 
+air dryer and greenhouse fan-operated solar dryer in France; tunnel and tent dryers in Uganda 
+and tunnel dryer, shade in Mozambique. Open air sun dryers were used as a comparison with 
+other dryers in each location. Chips were dried up to 10% moisture in average. After drying, 
+chips were stored using locally bought polythene or propylene bags or traditional bags made 
+of jute. 
+ 
+Total  carotenoids  content  was  determined  on  sweet  potatoes  grown  in  Uganda  and 
+Mozambique by visible spectrophotometry (UV-visible spectrophotometer) using the method 
+of  Rodriguez-Amaya  and  Kimura  (2004).  For  preliminary  trials  in  France,  the  method  of 
+Dhuique-Mayer  et  al.  (2005)  was  used.  Trans-β-carotene  content  was  measured  by  HPLC 
+using  the  analysis  method  of  Dhuique  Mayer  et  al.  (2005)  on  preliminary  samples  (OFSP 
+from USA) and samples stored in controlled conditions. Samples were extracted in duplicate 
+or triplicate. Readings were made at a wavelength of 450nm.  
+ 
+Losses  (%)  in  total  carotenoid  (or  trans-β-carotene)  content  were  calculated  following  the 
+equation (1):  
+ 
+C
+%
+ 
+C
+ 
+Where:  C:  Carotenoid  content  after  drying  (or  storage)  expressed  in  μg.g-1  dry  weight;  C0: 
+Carotenoid content before drying (or storage) expressed in μg.g-1. 
+ 
+Carotenoid degradation followed a first order degradation during storage (Equation 2). 
+ 
+ln
+ 
+ 
+Where: k: constant degradation (day-1); t: storage time (days). 
+ 
+The  carotenoid  degradation  at  various  temperatures  was  modelled  using  the  Arrhenius 
+equation (3). 
+ 
+ 
+k
+
+1
+−=
+ 
+
+C
+C
+
+−=
+ 
+
+loss
+
+(2) 
+
+(1) 
+
+Ea
+RT
+
+t
+k
+
+ 
+
+ 
+
+−
+
+0
+
+0
+
+ek
+∞=
+
+ 
+
+2
+
+ 
+
+ 
+
+(3) 
+
+ 
+ 
+Where:  Ea:  activation  energy  (kJ.mol-1);  R:  gas  constant  =  8.314  J  ·  K−1.mol−1.  In  order  to 
+validate the Arrhenius carotenoid degradation model in laboratory conditions, dried samples 
+(Ejumula  variety)  were  stored  for  88  or  125  days  at  ambient  room  temperature  (recorded 
+temperature). 
+ 
+Statistical  analyses  on  the  analysis  of  variance  were  performed  using  SPSS  14.0  or  15.0. 
+Significant  differences  per  variety  between  samples  (p<0.05)  were  given  by  Tukey  test  and 
+are indicated by different letters in the same column (a, b, c).   
+ 
+RESULTS AND DISCUSSION 
+ 
+Preliminary trials 
+ 
+ Losses  in  total  carotenoid  content  and  trans-β-carotene  content  using  different  dryers  are 
+reported in Table 1.  
+ 
+Table  1.  Comparison  of  losses  of  total  carotenoids  and  trans-β-carotene  after  drying  sweet 
+potato by three different dryers 
+ 
+
+Drying time 
+(h) 
+
+Spectrophotometer 
+Total carotenoids 
+(ug/g) 
+372±9a 
+
+Total 
+carotenoid loss 
+(%) 
+- 
+
+HPLC 
+trans- 
+β-carotene (ug/g) 
+293±13a 
+
+trans- 
+β-carotene 
+loss (%) 
+- 
+
+324±17b 
+
+294±17bc 
+
+247±23b* 
+
+226±17bc* 
+
+13 
+
+21 
+
+33 
+
+16 
+
+23 
+
+34 
+
+Sun dried 
+
+250±8c 
+
+193±15c 
+
+Mean±standard deviation of duplicate* or triplicate extraction. 
+ 
+No significant difference was observed between drying by greenhouse solar dryer and direct 
+sun  in  term  of  β-carotene  and  total  carotenoids.  Cross  flow  drying  (hot  air  drying) 
+significantly retained a higher content of β-carotenes and total carotenoids than sun-drying. 
+ 
+Field work in Uganda 
+ 
+On both varieties grown in Uganda (Ejumula and Kakamega analysed jointly), no significant 
+difference  was  observed  between  retention  of  carotenoids  in  tent,  tunnel  or  sun  dryers  with 
+total carotenoid losses of 9.0; 9.2 and 8.7% respectively. This is contradictory to studies that 
+reported  that  sun  drying  was  more  damaging  than  solar  drying  (Rodriguez  Amaya  1997, 
+Mulokozi and Svanberg 2003) but agreed with levels of loss in the recent study by Bengsston 
+et al. (2008) working on Ugandan OFSP.  
+ 
+Carotenoid losses were high during storage as opposed to after drying (Table 2).  
+ 
+ 
+
+Treatment 
+
+Fresh 
+
+Hot air dried 
+
+Solar dried 
+
+- 
+
+2 
+
+8 
+
+8 
+
+ 
+
+3
+
+ 
+Table  2:  Total  carotenoids  losses  during  the  storage  of  OFSP  dried  chips  at  ambient 
+temperature in polyethylene (PE) bags for 4 months (125 days). 
+
+Ejumula 
+
+88.4 
+
+64.2(1.0)b 
+
+67.9 
+
+79.9 
+
+Cultivar 
+
+Treatment 
+
+Sealed clear PE bag 
+in black PE bag 
+Black PE bag with 
+simple knot 
+Sealed clear PE bag 
+Sealed clear PE bag 
+in black PE bag 
+Black PE bag with 
+simple knot 
+Sealed clear PE bag 
+
+Kakamega 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dry 
+matter 
+content* 
+(%) 
+
+Total 
+carotenoid 
+content ** 
+(μg.g-1 db) 
+
+Loss in 
+storage 
+(%) 
+
+Overall 
+loss 
+(%) 
+
+88.4 
+
+88.1 
+
+88.8 
+
+88.7 
+
+88.0 
+
+58.2(4.6)b 
+
+69.5(5.7)b 
+
+18.0(0.5)b 
+
+19.0(1.0)b 
+
+18.5(1.0)b 
+
+70.9 
+
+65.2 
+
+65.7 
+
+63.7 
+
+64.7 
+
+81.8 
+
+78.3 
+
+77.2 
+
+75.8 
+
+76.5 
+
+*Mean; standard deviation is not given because <1% on triplicate extraction 
+**Mean (standard deviation) on triplicate extractions. Values in the same column (same 
+cultivar) followed with different letters are significantly different; ANOVA two ways Tukey 
+test.  
+ 
+Dried  chips  stored  for  4  months  had  important  losses  for  both  varieties  (Ejumula  and 
+Kakamega) with an average of 67%.  Samples of dried sweet potato stored in clear polythene 
+bags  placed  under  the  window  did  not  demonstrate  any  difference  in  terms  of  loss  in 
+carotenoids as compared with opaque (black bag) that was either sealed or tied with simple 
+knot.  This  agreed  with  results  from  Vasquez-Caicedo  et  al.  (2007)  about  the  impact  of 
+packaging and storage on pro-vitamin A retention of mango puree.  
+ 
+Field work in Mozambique 
+ 
+Shade drying significantly retained more total carotenoids compared to sun and solar drying 
+in Mozambique with 3.3%, 10.0% and 12.2% respectively for MGCL01 and Resisto varieties 
+analysed jointly. 
+ 
+Carotenoid losses were high during storage in accordance with results in Uganda (Table 3).  
+ 
+Table 3. Total carotenoids losses after drying in Mozambique on two varieties in dry weather 
+  
+  
+MGCL01  86.6% 
+Resisto 
+76.8% 
+ 
+Chipping did not have an effect but variety had (ANOVA; p<0.05).  
+ 
+Effect of pre-treatment 
+ 
+The effect of pre-drying treatment by different chemicals was tested (Figure 1). 
+ 
+
+thick 
+88.2% 
+79.3% 
+
+slices 
+89.7% 
+81.9% 
+
+thin 
+
+ 
+
+4
+
+Figure 1. Total carotenoids losses after pre-treatment on dried and stored Ejumula variety for 
+4 and 6 months  
+
+4 months
+
+6 months
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+ 
+
+)
+1
+-
+g
+
+.
+
+S
+T
+B
+A
+
+ 
+l
+
+o
+m
+u
+(
+ 
+y
+t
+i
+v
+i
+t
+c
+a
+ 
+D
+O
+P
+
+4000
+
+3500
+
+3000
+
+2500
+
+2000
+
+1500
+
+1000
+
+500
+
+0
+
+U
+
+M
+
+C
+
+A
+
+S
+
+S+C
+
+S+A M+C
+
+W
+
+ 
+
+Where:  U:  untreated;  M:  0.5%  sodium  metabisulphite;  C:  0.5%  citric  acid;  A:  1%  ascorbic 
+acid; S: 1% salt; W: deionised water. 
+
+Pre-treatment  did  not  reduce  carotenoid  loss.  After  four  months  of  storage,  deionised  water 
+treated samples had lower total carotenoid content than untreated that had lower carotenoid 
+content  than  untreated  ones.  After  six  months  of  storage,  there  was  no  difference  between 
+samples. 
+ 
+Effect of enzymes 
+The effect of enzymatic activity (peroxidase) on carotenoid degradation was tested (Figure 2).  
+ 
+Figure 2. Peroxidase activity related to water activity (adjusted with glycerol concentration). 
+Peroxidase activity (μg ABTS.g-1 sweet potato on a fresh basis*)  
+
+pH 6
+
+pH 7.4
+
+aw >1
+
+aw =0.995
+
+ aw=0.906
+
+ 
+
+*mean of 3 measurements (error bars refer to standard deviation). 
+ 
+Peroxidase activity decreased with water activity (Figure 2) and with storage time (data not 
+shown). Globally the effect of peroxidase on carotenoid degradation was unlikely.  
+ 
+ 
+ 
+ 
+
+ 
+
+5
+
+Storage study under controlled conditions 
+ 
+The  effect  of  temperature,  water  activity  (aw)  and  oxygen  was  measured  on  Ejumula  chips 
+stored under controlled conditions of temperature (10; 20; 30; or 40ºC), aw (0.1; 0.3; 0.5 or 
+0.7) and oxygen (0 [under nitrogen]; 2.5; 10 or 21% [air]) (Figure 3).  
+ 
+ 
+
+A 
+
+/
+
+0
+C
+C
+n
+L
+
+ 
+
+/
+
+0
+C
+C
+n
+L
+
+ 
+
+/
+
+0
+C
+C
+n
+L
+
+ 
+
+0.0
+
+-0.5
+
+-1.0
+
+-1.5
+
+-2.0
+
+-2.5
+
+-3.0
+
+0.0
+
+-0.5
+
+-1.0
+
+-1.5
+
+-2.0
+
+-2.5
+
+-3.0
+
+0.0
+
+-0.5
+
+-1.0
+
+-1.5
+
+-2.0
+
+-2.5
+
+-3.0
+
+10ºC
+
+20ºC
+
+30ºC
+
+40ºC
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Storage time (days)
+
+B 
+
+ 
+
+NaCl (0.76)
+
+NaBr (0.51)
+
+MgCl2 (0.30)
+LiCl (0.13)
+
+0
+
+20
+
+40
+
+60
+
+80
+
+1
+
+00
+
+Storage time (days)
+
+C 
+
+  
+
+N2
+
+2.5%O2
+
+10% O2
+
+Air
+
+60
+
+0
+
+20
+
+40
+
+80
+
+1
+
+00
+
+Storage time (days)
+
+  
+Figure 3. Trans-β-carotene degradation kinetics influenced by temperature between 10-40ºC 
+(A); and water activity (B) and oxygen (C) at 40ºC on a fresh matter basis. 
+ 
+Losses in provitamin A were the least during storage at the lowest temperature and oxygen 
+level and at the highest humidity level.   
+ 
+
+ 
+
+6
+
+Carotenoid degradation influenced by temperature was validated using the Arrhenius model 
+(Table 4) 
+ 
+Table 4. Validation of Arrhenius model for a sample of dried Ejumula sweet potato chips 
+stored under ambient anisotherm conditions during 88 days in the UKa  and during 125 days 
+in Ugandab on a fresh weight basis. Oxygen level 21% (air). 
+
+ 
+
+ 
+
+  
+
+ 
+Storage 
+time 
+(days) 
+
+Initial 
+
+ 
+(μg.g-1)c 
+
+Final 
+
+Experimentalc 
+(μg.g-1) 
+
+Predicted by 
+Arrhenius model 
+(μg.g-1) 
+
+Sample 
+stored 
+in UKa 
+
+Trans-β-
+carotene 
+ 
+Total 
+carotenoids 
+
+88 
+
+181.2 (5.9) 
+
+74.6 (5.1) 
+
+250.3 (1.1) 
+
+94.4 (1.1) 
+
+72.0 
+
+90.3 
+
+ 
+Differen
+ce 
+(%) 
+
+3.5 
+
+4.3 
+
+9.3 
+
+125 
+
+46.6 
+
+51.4 (1.5) 
+
+219.6 (1.6) 
+
+Total 
+carotenoids 
+
+Sample 
+stored 
+in 
+Ugandab 
+a This present study (Calculated aw: 0.460 (0.012) from chips dry matter (90.4 (0.3) g/100g) 
+b Bechoff et al. (2009b) (aw from BET model: aw: 0.400 (0.255); range: [0.22-0.58] from chips dry matter 90.5 
+(3.5)g/100g; range ([88-92.9g/100g]). cMean of triplicate (standard deviation). 
+ 
+For  the  total  carotenoids  and  trans  β-carotene  under  anisothermic  conditions,  the  difference 
+between  the  experimental  value  and  value  predicted  by  the  model  was  4.3%  and  3.5% 
+respectively.  The  robustness  of  the  model  was  further  tested  by  using  it  to  predict  the 
+carotenoid content a a dried sweet potato sample (Ejumula) that had been stored in Uganda at 
+ambient temperature in LPDE bags (permeable to oxygen) for 125 days in Uganda (Bechoff 
+et  al.,  2009b).   Similarly,  the  model  was  also  accurate  in  it  predictions  where  for  total 
+carotenoids under anisothermic conditions with a difference between the experimental value 
+and model of 9.3%. Therefore it can be concluded that the model developed under samples 
+stored under controlled laboratory conditions was robust enough to apply to samples stored 
+under field conditions in Uganda and elsewhere. 
+ 
+CONCLUSIONS 
+ 
+The major conclusions from this work were: 
+
+•  There were few carotenoid losses after drying of OFSP 
+•  There were high carotenoid losses after storage of OFSP 
+•  The chip size and pre-treatment failed to reduce carotenoid degradation in storage. 
+•  The  enzymatic  degradation  was  unlikely  because  peroxidase  activity  was  low  or 
+
+negligible after storage and at low water activities. 
+
+•  Oxygen and temperature strongly influenced carotenoid degradation.  
+• 
+
+In conclusion, there was no low-cost solution to preserve provitamin A. Further work 
+should focus on special packaging (eg. vacuum) and low temperature for storage  
+
+ACKNOWLEDGEMENTS 
+This work was funded by a grant made to the Natural Resources Institute by the HarvestPlus 
+Challenge  Program.    Aurelie  Bechoff  was  also  supported  by  CIRAD-DESI  support  to  PhD 
+students. 
+ 
+
+ 
+
+ 
+
+7
+
+REFERENCES 
+Bechoff  A.;  Dufour  D.;  Dhuique-Mayer  C.;  Marouzé  C.;  Reynes,  M.  ;  Westby,  A.  2009a. 
+Effect of hot air, solar and sun drying treatments on provitamin A retention of orange-fleshed 
+sweet potato. Journal of Food Engineering, 92, (2), 164-171. 
+ 
+Bechoff, A.; Westby, A.; Owori, C.; Menya, G.; Dhuique-Mayer, C.; Dufour D.; Tomlins K. 
+2009b. Effect of drying and storage on the degradation of carotenoids in orange-fleshed sweet 
+potato  varieties.  Journal  of  the  Science  of  Food  and  Agriculture.  submitted  Manuscript  ID: 
+JSFA-09-0658.  
+ 
+Bengtsson, A.; Namutebi, A.; Larsson Alminger, M. ; Svanberg, U. 2008. Effects of various 
+traditional  processing  methods  on  the  all-trans-β-carotene  content  of  orange-fleshed  sweet 
+potato. Journal of Food Composition and Analysis 21, 134-143. 
+ 
+Dhuique-Mayer, C.; Caris-Veyrat, C.; Ollitrault P.; Curk, F. ;Amiot, M.J. 2005. Varietal and 
+interspecific influence on micronutrient content in citrus from the Mediterranean area. Journal 
+of Agricultural and Food Chemistry 53, 2140-2145. 
+ 
+Mulokozi, G. and Svanberg, U. 2003. Effect of traditional open sun-drying and solar cabinet 
+drying on carotene content and Vitamin A activity of green leafy vegetables. Plant Foods for 
+Human Nutrition 58, 1–15. 
+ 
+Namanda,  S.  2005.  Experiences  in  Quality  on-farm  sweetpotato  processing.  Severe 
+Agricultural  and  Animal  Production  Research  Institute  Publisher.  NARO-CIP-INIBAP. 
+Uganda.  
+ 
+Owori, C. B.; Lemaga, R.O.M.; Mwanga, R.; Namutebi, A ; Kapinga, R. 2007. Sweetpotato 
+recipe book: sweetpotato processed products from Eastern and Central Africa. African Crop 
+Science Society, Kampala, Uganda. 93pp. 
+ 
+Rodriguez  Amaya  D.B.  1997.  Carotenoids  and  Food  Preparation:  the  Retention  of  Pro-
+vitamin A Carotenoids in Prepared, Processed and Stored Foods. USAID.OMNI Project.  
+ 
+Rodriguez  Amaya  D.B.;  Kimura  M.  2004.  HarvestPlus  handbook  for  carotenoid  analysis. 
+Copyright HarvestPlus. 63pp. 
+ 
+Vasquez-Caicedo, A.L.; Schilling, S.; Carle, R. ; Neitdhart, S. 2007. Impact of packaging and 
+storage conditions on colour and β-carotene retention of pasteurised mango puree. European 
+Food Research Technology 224, 581-590. 
+ 
+Woolfe, J. A. (1992). Sweet Potato. an Untapped Food Source. Cambridge University Press. 
+United Kingdom. 
+
+  
+ 
+
+ 
+
+8
+
+

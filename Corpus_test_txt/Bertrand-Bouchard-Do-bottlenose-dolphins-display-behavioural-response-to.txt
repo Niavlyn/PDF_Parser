@@ -1,0 +1,977 @@
+Applied Animal Behaviour Science 194 (2017) 120–126
+
+Contents lists available at ScienceDirect
+
+Applied Animal Behaviour Science
+
+journal homepage: www.elsevier.com/locate/applanim
+
+Research Paper
+Do bottlenose dolphins display behavioural response to ﬁsh taste?
+Bertrand Boucharda,b, Thomas J. Lisneya,b, Sylvie Campagnaa,c, Aurélie Célériera,b,⁎
+a CEFE UMR 5175, CNRS – Université de Montpellier – Université Paul-Valéry Montpellier – EPHE – 1919 route de Mende, 34293 Montpellier Cedex 5, France
+b Université de Montpellier, 2 Place Eugène Bataillon, 34090 Montpellier, France
+c Université de Nîmes, Département Sciences et Arts, Rue du Docteur Georges Salan, 30021 Nîmes Cedex 1, France
+
+MARK
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Sensory stimulation
+Toothed whales
+Taste
+Enrichment
+Spontaneous behaviour
+Chemoreception
+
+The chemosensory abilities (i.e. taste, smell and trigeminal perception) of odontocete cetaceans are still widely
+unknown. However, a better understanding of their potential use of these senses would not only improve our
+knowledge of their behavioural ecology, but also allow us to develop behavioural enrichment strategies for
+captive odontocetes using sensory stimulation. While studies on taste bud anatomy and taste receptor genes in
+these animals have provided useful information, ultimately behavioural experiments are crucial to assess
+whether odontocetes use their sense of taste in water. Go/no go and conditioning experiments in bottlenose
+dolphins (Tursiops truncatus) have previously shown that they can perceive basic tastes, but it is still unclear
+whether they are able to detect food-related chemical mixtures. We thus designed a spontaneous choice
+experiment using ﬂoating taste diﬀusers in order to test whether captive bottlenose dolphins could detect and
+display attraction behaviours towards a natural ﬁsh taste stimulus. Four dolphins, two adult males and two
+juvenile females, were involved in the experiment. Our results show that the juvenile females interacted with the
+ﬁsh taste diﬀuser signiﬁcantly more than with the control. However, the adult males did not seem to make a
+clear choice. Also, the juvenile females showed a signiﬁcantly greater level of motivation towards the test,
+spending more time interacting with the diﬀusers and holding them in their open mouth more often than the
+adult males. These ﬁndings corroborate previous behavioural studies suggesting that taste perception is
+functional in bottlenose dolphins, at least in young individuals. They also suggest that the taste of their natural
+prey could be attractive to them. Finally, the methodology used in this study proved to be easy to implement in
+captive odontocetes and will allow for investigating further their use of taste in feeding and social contexts
+without the need for conditioning experiments that require long periods of training. This experimental design
+could also be included in behavioural enrichment initiatives in captive marine mammals.
+
+1. Introduction
+
+their environment
+
+Animals gain information about
+
+through a
+variety of diﬀerent sensory modalities. In captive animals, knowledge
+of a species’ sensory capabilities is important for a number of reasons.
+Various sensory stimuli (or a lack thereof) can act as signiﬁcant
+stressors for captive animals (Morgan and Tromborg, 2007). In addi-
+tion, sensory enrichment using biologically relevant stimuli may be
+used to stimulate ‘natural’ behavioural expression in captive animals
+(Mills et al., 2010; Wells, 2009), and it may be possible to incorporate
+natural sensory stimuli into cognitive enrichment strategies.
+
+Various species of toothed whale (odontocetes), such as beluga
+whales (Delphinapterus leucas), killer whales (Orcinus orca), and, in
+particular, bottlenose dolphins (Tursiops truncatus), are held in captivity
+in zoos and aquariums around the world (Clark et al., 2013). While we
+are accumulating increasingly detailed knowledge about the sensory
+
+systems of these animals, in particular audition and vision (see Kremers
+et al., 2016a; for a recent review) very little is known about the
+chemical senses (taste, smell and trigeminal perception) in odontocetes.
+In terrestrial mammals, these senses are involved in a wide range of
+biological functions such as foraging, reproduction and orientation.
+This is also true for many marine vertebrates including ﬁsh, turtles,
+birds and pinnipeds (Grassman and Owens, 1987; Hara, 1994; Nevitt
+et al., 2004; Pitcher et al., 2011; Stoﬀel et al., 2015).
+
+In contrast, odontocetes are thought to have very limited chemo-
+sensory abilities (Lowell and Flanigan, 1980). For example, these
+animals lack the canonical neuroanatomical structures necessary for
+olfaction as found in other vertebrates, e.g., olfactory epithelium, bulbs,
+nerves and tract (Jacobs et al., 1971; Oelschläger and Buhl, 2008),
+although these structures may be present embryonically (Oelschläger
+and Buhl, 2008). In addition, odontocetes also appear to have a poor
+sense of taste. Juveniles possess small numbers of taste buds, which
+
+⁎
+
+Corresponding author at: CEFE UMR 5175, CNRS – Université de Montpellier – Université Paul-Valéry Montpellier – EPHE – 1919 route de Mende, 34293 Montpellier cedex 5, France.
+E-mail address: aurelie.celerier@cefe.cnrs.fr (A. Célérier).
+
+http://dx.doi.org/10.1016/j.applanim.2017.05.013
+Received 3 January 2017; Received in revised form 6 April 2017; Accepted 8 May 2017
+
+Available online 15 May 2017
+0168-1591/ © 2017 Elsevier B.V. All rights reserved.
+
+B. Bouchard et al.
+
+Applied Animal Behaviour Science 194 (2017) 120–126
+
+diminish in number or even totally disappear in adults (Behrmann,
+1988; Komatsu and Yamasaki, 1980; Kuznetzov, 1990; Li, 1983; Shindo
+et al., 2008; Werth, 2004; Yoshimura and Kobayashi, 1997). Moreover,
+they usually swallow their food whole (Perrin et al., 2009) and appear
+to lack functional taste receptor genes for four of the ﬁve basic
+vertebrate tastes (sweet, bitter, umami, sour, and salt; odontocetes
+only have functional salt taste receptor genes) (Feng et al., 2014; Liu
+et al., 2016; Zhu et al., 2014). Because these animals are thought to
+have such limited chemosensory abilities, very few studies have focused
+on this sensory system in comparison to the large number of studies
+performed on other modalities like audition or vision (e.g., Supin et al.,
+2001; Thomas et al., 1992; Thomas and Kastelein, 1990)
+
+The extent to which odontocetes can perceive chemical signals,
+however, is still controversial. For example, while most of the taste
+receptor genes (except those implicated in salt taste) are pseudogenized
+in the bottlenose dolphin (Feng et al., 2014), this species has a well-
+developed gustatory thalamus (Kruger, 1959). Behavioural observa-
+tions have suggested that bottlenose dolphins, as well as other dolphin
+species, have taste preferences and can potentially perceive chemical
+signals from congeners’ secretions including faeces, urine and blood
+(Dudzinski et al., 2009; Gubbins, 2002; Muraco and Kuczaj, 2015;
+Norris et al., 1994). Indeed, in bottlenose dolphins, some of these
+biological secretions (urine and faeces) can induce an autonomous
+physiological response (such as an increase in heart rate, respiratory
+rate and skin conductivity) when they are irrigated as dilute solutions in
+the oral cavity (Kuznetzov, 1990).
+
+Concerning the perception of the ﬁve basic tastes, experiments using
+go/no go operant conditioning in bottlenose dolphins indicate that
+these dolphins could detect at least four of them (sweet, salt, bitter and
+sour) at thresholds similar to those of humans (Friedl et al., 1990;
+Kuznetzov, 1990). Kuznetzov (1990) termed this ability “quasi-olfac-
+tion” instead of gustation, mainly because the dolphins seemed to
+perceive in their oral cavity some compounds that are usually perceived
+through olfaction in terrestrial mammals. In a recent preliminary study,
+food preference was also tested in the same species (Kremers et al.,
+2016b), the results of which suggest that bottlenose dolphins can
+discriminate artiﬁcial ﬁsh ﬂavour from shrimp ﬂavour or water.
+However, while these aforementioned studies using conditioning and/
+or go/no go experiments inform us about the ability of bottlenose
+dolphins to perceive some chemical compounds, they give limited
+information about whether or not these compounds will naturally
+inﬂuence their behaviour.
+
+In this study, we implemented an experiment using captive bot-
+tlenose dolphins where the animals were free to spontaneously interact
+with two devices (ﬂoating diﬀusers containing ice cubes consisting of
+either natural ﬁsh mixture or a control solution) without any condi-
+tioned behaviour. This innovative, direct choice experiment was based
+on this species’ spontaneous tendency to play with ﬂoating objects
+(Greene et al., 2011). We hypothesized that if the dolphins can
+discriminate the taste diﬀuser from the control, they would interact
+with them diﬀerently. Furthermore, if they perceive the food-related
+stimulus (ﬁsh mixture solution) as biologically relevant, the animals
+should display more attraction/interaction behaviours towards the
+taste diﬀuser compared to the control. Bottlenose dolphins were the
+focus of this study because most of the previous behavioural (con-
+ditioning) experiments on odontocetes’ chemoreception have been
+performed on this species. As well as providing fundamental biological
+information, this study on the chemoreceptive capabilities of captive
+bottlenose dolphins could contribute to improve the welfare of such
+animals in captivity and above all, to contribute to the conservation and
+management of wild populations.
+
+2. Materials and methods
+
+2.1. Study animals and facilities
+
+This study was performed at Marineland, Antibes, France, and
+involved four captive-born bottlenose dolphins (Tursiops truncatus).
+Two of the dolphins (A1 and A2, aged 22 and 24 years old, respectively)
+were adult males and the other two were juvenile females (J1 and J2,
+aged 7 and 4, respectively). These animals were kept together in a
+social group in a main lagoon pool (43 × 40 m with a maximum depth
+of 4 m) with another eight-year-old male which was not included in the
+experiment because of its tendency to destroy ﬂoating objects. None of
+the dolphins housed in the lagoon pool were part of the daily shows,
+which made them available for behavioural experiments.
+
+2.2. Chemical stimuli
+
+A natural ﬁsh taste stimulus (Fish) and a control stimulus (Control)
+were used. Atlantic mackerel (Scomber scombrus) was chosen as the ﬁsh
+stimulus because this species had already been included in the diet of
+the dolphins, thus preventing a neophobic reaction. At the same time,
+as the dolphins’ regular diet consisted mostly of capelin (Mallotis
+villosus) and sprat (Sprattus spp.), we expected the dolphins to have a
+higher level of motivation towards a less-common ﬁsh stimulus (e.g.,
+Epstein et al., 2007). The Fish solution was prepared by mixing 500 g of
+fresh mackerel in commercial spring water (Cristaline
+, Saint Yorre,
+France) to a ﬁnal volume of 1300 ml. This ﬁsh mixture was then ﬁltered
+through a 200 μm sieve and 10 ml of red dye (natural beetroot extract,
+Terre Exotique, Rochecorbon, France) was added to produce a homo-
+genous and uniformly coloured solution. For the Control solution, the
+spring water was coloured with the red dye in the same concentration
+as the ﬁsh solution. Ice cubes were prepared by freezing 100 ml of each
+solution at −20 °C for at least 72 h, which allowed the destruction of
+potential parasites in the ﬁsh mixture.
+
+®
+
+Two stimulus presentation devices, or ‘diﬀusers’ were built using
+modiﬁed commercially available ﬂoating chlorine diﬀusers for outdoor
+swimming pools, painted either red or blue (RAL 3000 and RAL 5019
+respectively, Nuance, Motip Dupli, GmbH, Hassmersheim, Germany) to
+assist identiﬁcation during video analysis (Fig. 1). The hue of these two
+colours was chosen because they had identical brightness, so avoiding a
+possible visual bias (bottlenose dolphins are cone monochromats;
+Fasick et al., 1998). During each experimental trial, each diﬀuser
+contained one 100 ml ice cube that was not visible through the narrow
+openings at the bottom. A rubber band was added to the screw-on cap
+so it remained tightly in place during manipulation by the subjects. In
+order to habituate the dolphins to the diﬀusers prior to the start of the
+trials, they were introduced while empty to the dolphins’ pool for ﬁve
+minutes twice a day on the two consecutive days before the start of the
+trials.
+
+2.3. Experimental design
+
+Each spontaneous choice experiment consisted of a four-minute trial
+conducted in an experimental pool (11 × 11 m, 2.5 m deep) that was
+separated from the lagoon pool by a stainless steel gate. In order to
+participate in a trial, each dolphin was asked by a trainer to enter alone
+the experimental pool using a visual signal (pointing arm), while the
+others remained in the lagoon pool. A total of 48 trials were undertaken
+by testing each individual during 12 sessions across 10 days. The trials
+were run mostly during the late morning between 10:00 and 13:00, but
+also during the afternoon between 15:00 and 16:30. The dolphins were
+fed in the lagoon pool a light meal of ﬁsh (a quarter of their daily
+ration) on average 108 min (range: 15–213 min) before their participa-
+tion in the experiment, which replaced the routine training sessions.
+The temperature of the air and water varied between 14 and 17 °C and
+15–17 °C, respectively. The trials were performed with the assistance of
+
+121
+
+B. Bouchard et al.
+
+Applied Animal Behaviour Science 194 (2017) 120–126
+
+(1) ‘bite’ (the dolphin holds the diﬀuser in its mouth); (2) ‘push’ (the
+dolphin pushes the diﬀuser using its rostrum); and (3) ‘throw-follow’
+(the dolphin throws the diﬀuser away using its mouth and then swims
+back to it). The total exploration time was deﬁned as the total time of
+interaction with both diﬀusers and was used as an indicator of the
+exposure of the dolphins to both the stimulus and the control. The taste
+preference (P) was calculated as the diﬀerence in the duration of all the
+interactions between the Fish and the Control stimuli. The number of
+switches between the diﬀusers (where the dolphin goes from one
+diﬀuser to the other) was also measured as a potential indicator of
+the dolphins’ interest in ﬁnding the chemical cue.
+
+2.5. Statistical analyses
+
+Statistical analyses were carried out using R 3.1.2 (R Development
+Core Team 2015). Arithmetic means and ± standard errors are pre-
+sented. The data were tested for normality using a Shapiro–Wilk test
+prior to all analyses. Non-normal distributions were transformed using
+either square-root (exploration time and number of switches) or arcsine
+(proportion of biting behaviour) transformations. The eﬀects of the trial
+session and the prandial state on the behavioural parameters were
+analyzed using Pearson’s correlation coeﬃcient and the eﬀects of both
+environmental (weather conditions, prandial state) and protocol (pre-
+sentation side and colour of the Fish diﬀuser, identity of the trainer)
+variables were assessed using Kruskal Wallis’ H-test. The diﬀerences in
+these parameters between the two age/sex groups (adult/male and
+juvenile/female) were tested using two-tailed Student’s t-tests. Taste
+preference was tested against the theoretical value of zero using a
+Student’s t-test.
+
+2.6. Ethical approval
+
+This experiment was approved by the French national ethical
+committee (Comité Consultatif National d'Ethique, permit APAFIS
+#5392-20l6051717525952v3) and was
+in accordance with the
+European directive 86/609/CEE. The subjects’ participation in research
+was entirely voluntary, with the experiment described here replacing
+routine training sessions.
+
+3. Results
+
+3.1. Environmental and protocol variables
+
+None of the measured behavioural parameters (preference, time of
+exploration, and number of switches) was signiﬁcantly aﬀected by any
+of the environmental and protocol variables (Table 1).
+
+3.2. Behavioural interactions
+
+Bite was by far the most common behavioural interaction, account-
+ing for on average 70.0 ± 4.1% of the total interactions across the four
+dolphins. The two juvenile females displayed bite behaviour signiﬁ-
+cantly more frequently than the two adult males (81% of the interac-
+tions vs. 60% in the juvenile females and adult males, respectively;
+t = 2.37; df = 32.5; P = 0.02; Student’s two-tailed t-test on arcsines,
+Fig. 2a). The push behaviour was observed more frequently in adult
+males (31.4% vs. 13.6%; t = 2.39; df = 22.4; P = 0.03; Student’s two-
+tailed t-test on arcsines, Fig. 2b) while there was no diﬀerence in the
+throw-follow behaviour between the two groups (t = 1.35; df = 28.6;
+P = 0.19; Student’s two-tailed t-test on arcsines, Fig. 2c).
+
+3.3. Total exploration time
+
+The four dolphins manipulated both diﬀusers extensively, with an
+average of 19.2 ± 2.1 contacts per trial. On average, total exploration
+time was signiﬁcantly higher in the juvenile females than in the adult
+
+Fig. 1. Schematic view of the ﬂoating diﬀuser used in the spontaneous choice experiment.
+(a) 100 ml ice cube of taste (ﬁsh mixture) or control solution. (b) Modiﬁed PVC chlorine
+dispenser with (c) screwable cap reinforced with a rubber band.
+
+6 trainers although two trainers were involved in only one trial each.
+We utilized two established command signals used by the trainers for
+many years, ‘free-time’ (the trainer indicates the training session has
+stopped) and ‘retrieve’ (the trainers ask the dolphin to retrieve an item
+in the pool). At the beginning of each trial, the dolphin stationed in
+front of a blind-folded trainer (starting place), while the two diﬀusers
+(Fish and Control) were placed by an experimenter at the opposite side
+of the pool equidistant from the starting place. The identity of the
+dolphin, the colour of the Fish and Control taste diﬀusers (red or blue)
+as well as their position (to the left or to the right of the subject) were
+all chosen in a random balanced order to avoid a side- or colour-
+preference eﬀect. Once the trainer gave the dolphin the signal for free
+time and walked away, the dolphin was left alone to freely interact with
+the two diﬀusers for the whole duration of the trial. The movements
+and the behaviour of the dolphin during each trial were recorded using
+two GoPro digital cameras (GoPro Hero 4 Black Edition, GoPro Inc., San
+Mateo, CA, USA) placed facing in opposite directions above the pool.
+Additional environmental data were also recorded to control for their
+respective inﬂuence on the dolphins’ behaviours,
+including their
+prandial state (i.e., the amount of time since their last meal), the
+weather conditions (presence of rain or wind > 10 km/h), and the
+identity of the trainer. After four minutes, the trainer came back and,
+again using signals, asked the dolphin to retrieve both diﬀusers. The
+dolphin was rewarded with one ﬁsh upon retrieving the diﬀusers and
+the keeper asked to transfer to the lagoon pool after the gate was
+opened. The presence of a remaining ice cube of a similar size in both
+diﬀusers was then checked to conﬁrm that there was no temperature
+diﬀerence around the two diﬀusers during the experiment.
+
+2.4. Data collection
+
+The video recordings were analyzed by a blind experimenter.
+Firstly, trials deemed as invalid due to a protocol problem (e.g., a
+diﬀuser was opened by the dolphin or became stuck in the pool
+skimmer, or the trainer used an incorrect command signal sequence)
+were identiﬁed and discarded. For the remaining 37 valid trials (10
+trials each for A1 and A2, 9 and 8 for J2 and J1, respectively), the
+number and duration of the behavioural interactions with each diﬀuser
+were measured. These interactions were divided into three categories:
+
+122
+
+B. Bouchard et al.
+
+Applied Animal Behaviour Science 194 (2017) 120–126
+
+Table 1
+Inﬂuence of environmental and protocol variables on the dolphins’ behavioural parameters. P-values are presented for each statistical analysis. Two-sample Student’s t-test have been
+used for means comparison between two categories (Presence of rain or wind, side and colour of the ﬁsh diﬀuser). Kruskal-Wallis H-test was used for multiple categories (keepers) and
+Pearson’s correlation for numeric data (prandial state, i.e. time since the last meal).
+
+Environmental & protocol variable
+
+Statistical test
+
+Behavioural parameter
+
+Rain
+Wind
+Keeper
+Prandial state
+Side of diﬀuser
+Color of diﬀuser
+
+Preference
+
+Exploration time
+
+Switches
+
+Two-samples t-test
+Two-samples t-test
+Kruskal Wallis’ H-test
+Pearsons’ correlation
+Two-samples t-test
+Two-samples t-test
+
+0.07
+0.78
+0.43
+0.11
+0.52
+0.63
+
+0.64
+0.56
+0.69
+0.89
+0.68
+0.41
+
+0.11
+0.83
+0.84
+0.34
+0.64
+0.71
+
+males (153 s per trial vs. 82 s per trial, respectively;
+t = 2.81,
+df = 32.5; P = 0.008; Student’s two-tailed t-test on square roots,
+Fig. 3a). The exploration time did not change throughout the sessions
+in both groups (Pearson's r2 = 0.003 on square roots, P = 0.76;
+Fig. 3b).
+
+3.4. Taste preference
+
+On average, the taste preference P (i.e. the diﬀerence in the time
+spent with the Fish diﬀuser and the Control) was 18.4 ± 17.1 s across
+the four animals but this did not diﬀer signiﬁcantly from 0 (t = 1.079;
+df = 36; P = 0.29; one sample Student’s two-tailed t-test). However,
+we observed a signiﬁcant diﬀerence in taste preference between the two
+age/sex groups. With the mature males, no diﬀerence was found in the
+time spent with each diﬀuser (t = 1.014; df = 19, P = 0.32; one
+sample Student’s two-tailed t-test) while the two juvenile females
+showed a signiﬁcant preference towards the Fish diﬀuser: they inter-
+acted about one minute more with the Fish diﬀuser than with the
+Control diﬀuser (107.8 vs. 45.3 s; t = 2.345; df = 16; P = 0.03; one
+sample Student’s two-tailed t-test) resulting in an average taste
+preference P of 62.5 ± 26.7 s (Fig. 4). Similar results were obtained
+when considering the number of contacts with the ﬂoaters instead of
+the time spent interacting with them (data not shown). There was no
+signiﬁcant change in taste preference through the diﬀerent trial sessions
+in adult males or in juvenile females (Pearson's r2 = 0.10; P = 0.18 and
+r2 = 9.10
+
+−4; P = 0.91, respectively) (Fig. 5).
+
+3.5. Switches
+
+The dolphins switched between the two diﬀusers 2.4 ± 0.49 times
+per trial on average with no diﬀerence found between the two age/sex
+categories (t = 0.92, df = 28.2; P = 0.37; Student’s t-test (two-tailed)
+on square roots). However, we observed a progressive decline in the
+number of switches through the trial sessions (Pearson's r2 = 0.17;
+P = 0.01).
+
+3.6. Correlations between behavioural parameters
+
+We observed only two correlations between the measured beha-
+vioural parameters in the two age/sex groups. Preference was nega-
+tively correlated with the number of switches in juvenile females
+(Pearson's r2 = 0.23; P = 0.05) as well as with the exploration time
+in adult males (Pearson's r2 = 0.21; P = 0.04) (Table 2).
+
+4. Discussion
+
+In previous studies on taste perception in bottlenose dolphins, only
+pure taste compounds such as citric acid, sodium chloride or sucrose
+(Friedl et al., 1990; Kuznetzov, 1990) or artiﬁcial ﬂavours (Kremers
+et al., 2016b) were tested. In contrast, here we report for the ﬁrst time
+the perception of a complex, food-related taste in bottlenose dolphins,
+
+at least in one age/sex class. Indeed, our results strongly suggest that
+the juvenile females we tested discriminated the ﬁsh taste, as they had
+signiﬁcantly more contacts and higher time of interaction with the Fish
+diﬀuser than with the Control diﬀuser. It is also noteworthy to mention
+that the trials were performed without conditioning and using single
+individuals, allowing a free spontaneous exploration of the stimuli
+without any social bias due to hierarchical structure in captive animals.
+Regarding the compounds that are potentially perceived in the ﬁsh
+mixture, several hypotheses might be considered. First, although the
+salt concentration in the ﬁsh mixture (estimated to be 0.07 M based on
+Bhuiyan et al.'s (1986)) measure of the salt concentration in raw
+Atlantic mackerel) was slightly below the behaviourally-determined
+sodium chloride detection threshold reported in bottlenose dolphins
+(0.1–0.3 M) (Friedl et al., 1990; Kuznetzov, 1990) it was much higher
+−4 M). This diﬀerence in salt
+than in the control solution (8.1 × 10
+concentration may thus have played a role in the discrimination, as the
+salt receptor genes have all been shown to be functional
+in the
+bottlenose dolphin (Feng et al., 2014). Moreover, trimethylamine
+(TMA) is also present at high concentrations in raw ﬁsh including
+mackerel (Ahn et al., 2014) and has been found to be perceived by
+bottlenose dolphins when perfused in their mouth at a concentration of
+−2 M (Kuznetzov, 1990). While the taste receptor type usually
+3.4 × 10
+implicated in the detection of trace-amines in mammals has been lost in
+this species (Kishida et al., 2015), TMA may be perceived through
+another neural pathway such as the trigeminal nerve, as has been
+shown to be the case in humans and mice (van Thriel et al., 2006; Willis
+and Morris, 2013). While sodium chloride and TMA are two potential
+candidates, many other chemical compounds contained in the ﬁsh
+mixture may have contributed, either individually or in combination, to
+the taste discrimination in juvenile females.
+
+In contrast to the juvenile female dolphins, the two adult males did
+not discriminate between the two diﬀusers. This could be linked to a
+lower chemical sensitivity related to either sex or age. In primates, for
+example, it has been suggested that higher taste acuity in females could
+be linked to a higher density of fungiform papillae on the tongue
+(Muchlinski et al., 2011). However, there has been no report of sexual
+diﬀerence in the gustatory structures in odontocetes so far, although
+unfortunately the sex of the individuals investigated is rarely men-
+tioned in the few previous studies on taste perception in bottlenose
+dolphins. In the recent study by Kremers et al. (2016b), both male and
+female bottlenose dolphins were tested and the authors found no
+apparent diﬀerences between sexes regarding taste discrimination.
+
+A more likely explanation for the apparent lack of discrimination
+between the ﬁsh mixture and the control in the adult males is age, given
+that the adult males were, on average, approximately four times older
+than the juvenile females. A similar decline in taste sensitivity has also
+been documented in other mammal species including humans and rats
+(Kurt Thaw, 1996; Mojet et al., 2001). Anatomical studies in bottlenose
+dolphins have suggested that taste buds progressively degenerate in
+adults as their presence was described in the pits located at the base of
+the tongue of a subadult and in 2–3 year-old calves, but not in mature
+
+123
+
+B. Bouchard et al.
+
+Applied Animal Behaviour Science 194 (2017) 120–126
+
+Yamasaki, 1980; Shindo et al., 2008). Therefore the discrimination
+abilities of the two juvenile females included in the present study, aged
+4 and 7, may reﬂect a higher chemical sensitivity, possibly related to
+the presence of a larger number of functional taste buds. Taste thresh-
+olds have yet to be determined for juvenile bottlenose dolphins, but our
+results, as well as previous anatomical ﬁndings, suggest they are likely
+to be lower than those already reported in adults using go/no
+experiments (Friedl et al., 1990; Kuznetzov, 1990).
+
+In addition to our discoveries regarding the ability of bottlenose
+dolphins to perceive a complex-food mixture using taste, the main
+feature of our study was to assess whether this chemoreceptive ability
+could inﬂuence their behaviour. For this reason, we chose to evaluate
+the spontaneous behavioural responses of the dolphins, instead of using
+operant conditioning techniques. Our results suggest that not only were
+juvenile females able to discriminate the ﬁsh taste from the control, but
+that they were also attracted by the ﬁsh mixture, as shown by the
+higher time of interaction recorded for these animals. We also observed
+a diﬀerence in behaviours between the adult males and the juvenile
+females that could explain partly the above-mentioned diﬀerence in
+perception between these two groups. Indeed, the juvenile females
+displayed a higher interest in the task in general compared to the adult
+males: they spent more time exploring the two diﬀusers and exhibited
+more biting behaviour. This result is not surprising as juvenile dolphins
+have previously been shown to engage in object play signiﬁcantly more
+than adults (Greene et al., 2011). It may also explain why, on two
+occasions, one of the juvenile females (J1) was able to open the tightly
+screwed cap of the Fish diﬀuser and then swallow the remaining ice
+cube it contained. This happened only twice, so this unexpected event
+was not statistically exploitable and, as explained previously, the two
+trials in question were removed from the data analysis.
+
+In general, both the adult males and the juvenile females showed a
+progressive decline in motivation to perform the experimental task, as
+suggested by the signiﬁcant decline in the number of switches through
+the sessions. The number of switches may also be related to the
+performance in the discrimination task as it was negatively correlated
+to preference only in juvenile females; they tended to stick to their
+choice (i.e. switch less) when they found the Fish diﬀuser. This pattern
+appears similar to the “win-stay, lose-shift” strategy which involves a
+stimulus-reward association and is well documented in laboratory
+animals including mammals, birds and ﬁshes (Emery, 2006; Evenden
+and Robbins, 1984; Heydarnejad and Purser, 2016). Wild bottlenose
+dolphins have been shown to use this behaviour during foraging: they
+tend to stay in patchy concentrations of nearshore preys until the local
+resource has been depleted and then travel in search of a new optimal
+site (Defran et al., 1999). In primates, a natural tendency to switch
+more between choices when the reward intensity decreases has also
+been described and linked to the stimulation of the parietal cortex
+(Kubanek and Snyder, 2017), a brain region that is also well developed
+in bottlenose dolphins (Jacobs et al., 1971). Increasing the animals’
+motivation to play with the diﬀusers may therefore improve their
+performance throughout the entire duration of the experiment via an
+increase in their exposure to the taste stimuli. One simple method of
+achieving this could be to reward them at the end of each trial by giving
+them the tasty ice cube to eat.
+
+This study demonstrated that our methodological design is appro-
+priate to investigate bottlenose dolphins’ chemosensory abilities, since
+the dolphins extensively manipulated the ﬂoating diﬀusers with their
+mouths. As it was also easy to implement, this experimental approach
+could be used as a complementary approach to operant conditioning
+experiments that require long training periods working with particu-
+larly attentive animals. Using the methodology described here, a wide
+range of putatively relevant chemical cues could now be screened,
+including food-related individual chemicals, or urine extracts that are
+believed to contain sex pheromones (Muraco and Kuczaj, 2015). The
+investigation of potential chemical deterrents would also be valuable
+for use in conjunction with pingers in the ﬁshing industry (Hamer et al.,
+
+Fig. 2. Proportion of the total exploration time spent exhibiting ‘bite’ (a), ‘push’ (b) and
+‘throw-follow’ behaviours in the two age/sex groups of dolphins. (a) The ‘bite’ behaviour
+was the most frequently observed, and was observed signiﬁcantly more in the juvenile
+females (t = 2.37; df = 32.5; P = 0.02; Student’s two-tailed t-test on arcsines). (b) The
+‘push’ behaviour was proportionally more frequent in the adult males than in the juvenile
+females (t = 2.39; df = 22.4; P = 0.03; Student’s two-tailed t-test on arcsines). (c) No
+diﬀerence was observed in the ‘throw-follow’ behaviour between the two groups
+(t = 1.35; df = 28.6; P = 0.19; Student’s two-tailed t-test on arcsines).
+
+adults (Kuznetzov, 1990; Yoshimura and Kobayashi, 1997). While more
+anatomical studies are needed to determine the chronology of this
+process, the apparently greater taste sensitivity observed in young
+individuals may be of great ecological importance as it could allow
+them to taste milk during the 2-year lactation period, as well as to
+discriminate food as they learn how to catch live prey (Komatsu and
+Yamasaki, 1980). A similar process of progressive taste bud degenera-
+tion was also described in other species of toothed whale (Komatsu and
+
+124
+
+B. Bouchard et al.
+
+Applied Animal Behaviour Science 194 (2017) 120–126
+
+Fig. 3. Total exploration time (time spent interacting with both Control and Fish diﬀusers) during the four-minute trials in the two age/sex groups of dolphins. (a) This behavioural
+parameter was signiﬁcantly higher in the juvenile females than in the adult males (t = 2.81, df = 32.5; P = 0.008; Student’s two-tailed t-test on square roots). (b) No signiﬁcant evolution
+was observed throughout the trial sessions (Pearson's r2 = 0.003 on square roots, P = 0.76).
+
+Table 2
+Correlation between the three behavioural parameters measured in the dolphins.
+Pearson’s correlation coeﬃcients and P-values are presented for each statistical analysis.
+Signiﬁcant correlations (P < 0.05) are highlighted in bold.
+
+Behavioural parameters
+
+Adult males
+
+Juvenile females
+
+Pearson’s r
+
+P
+
+Pearson’s r
+
+P
+
+Preference x Switches
+Preference x Exploration Time
+Switches x Exploration Times
+
+−0.090
+−0.456
+−0.007
+
+0.707
+0.044
+0.975
+
+−0.481
+0.306
+0.430
+
+0.050
+0.233
+0.086
+
+dissipated throughout the entire captive environment, which could
+these
+potentially be overwhelming and stressful
+chemical cues should be delivered as concentrated focal stimuli. This
+technique, using natural and artiﬁcial scents, has recently proved to be
+eﬀective in decreasing pattern swimming and other stereotypical
+behaviours in California sea lions (Samuelson et al., 2016).
+
+to the animals,
+
+In conclusion,
+
+in this study we have designed and tested an
+innovative protocol to study the use of chemoreception in captive
+bottlenose dolphins. Our results corroborate with the very few previous
+behavioural studies on this subject (Friedl et al., 1990; Kuznetzov,
+1990), suggesting that bottlenose dolphins can indeed perceive chemi-
+cal compounds. In addition, we have shown that a ﬁsh mixture can be
+attractive, at least for juvenile females, which provides strong evidence
+that chemical stimuli could be involved in foraging behaviour in
+complement with other sensory modalities. Further studies are now
+required, focusing on wild dolphins that both live in contact with the
+complex mixture of chemicals present in the marine environment and
+exhibit natural foraging behaviours. Our team is currently implement-
+
+Fig. 4. Average time spent with the Control and Fish taste diﬀusers in adult males and
+four-minute trials. The
+juvenile females bottlenose dolphins over 12 sessions of
+preference was deﬁned as the diﬀerence in time spent with the Fish and Control diﬀusers,
+and signiﬁcantly diﬀered from 0 only in juvenile females (t = 2.345; df = 16; P = 0.03;
+one sample Student’s two-tailed t-test). The three diﬀerent behaviours observed ‘bite’,
+‘push’ and ‘throw-follow’ are detailed in light grey, grey and dark grey, respectively. Error
+bars represent the standard error of the mean.
+
+2012).
+
+From an animal welfare point of view, the present spontaneous
+choice protocol could also be used as part of an enrichment program for
+captive dolphins raised in a relatively sterile, captive environment with
+a low chemical diversity (Wells, 2009). Such sensory stimulations are
+now becoming increasingly encouraged in zoos and aquariums (Mills
+et al., 2010; Wells, 2009), and may be especially important in marine
+mammals that usually cannot exhibit their natural feeding behaviours
+as they are fed dead ﬁsh, mostly as a reward after the successful
+completion of a conditioned task (Clark, 2013). Rather than being
+
+Fig. 5. Number of switches observed during the four-minute trials in the two age/sex groups of dolphins. (a) No signiﬁcant diﬀerence was observed between juvenile females and adult
+males (t = 0.92, df = 28.2; P = 0.37; Student’s two-tailed t-test on square roots). (b) The number of switches progressively decreased throughout the trial sessions (Pearson's r2 = 0.17;
+P = 0.01).
+
+125
+
+B. Bouchard et al.
+
+Applied Animal Behaviour Science 194 (2017) 120–126
+
+ing ﬁeld experiments using protocols adapted from the research on
+chemoreception in marine birds (e.g., Nevitt et al., 2004). We anticipate
+that, as it has been the case in birds (e.g. Baldwin et al., 2014; Caro
+et al., 2015), a combination of these behavioural approaches with
+further investigations on their neuroanatomical and molecular bases
+may reveal that chemosensory systems play a more signiﬁcant role in
+the behavioural ecology of odontocetes (and indeed other cetaceans)
+than has been previously thought.
+
+Acknowledgments
+
+We are grateful to Dr. Manuel Garcia Hartmann and all the trainers
+of the lagoon area at Marineland for their advice and collaboration.
+Funding was provided by Fondation Total (grant #144903/Parfums
+d’eau) and Ministère de l’Éducation nationale, de l'Enseignement
+supérieur et de la Recherche.
+
+References
+
+Ahn, J.-H., Szulejko, J.E., Kim, K.-H., Kim, Y.-H., Kim, B.-W., 2014. Odor and VOC
+
+emissions from pan frying of mackerel at three stages: raw, well-done, and charred.
+Int. J. Environ. Res. Public Health 11, 11753–11771.
+
+Baldwin, M.W., Toda, Y., Nakagita, T., O’Connell, M.J., Klasing, K.C., Misaka, T.,
+Edwards, S.V., Liberles, S.D., 2014. Evolution of sweet taste perception in
+hummingbirds by transformation of the ancestral umami receptor. Science 345,
+929–933.
+
+Behrmann, G., 1988. The peripheral nerve ends in the tongue of the harbour porpoise
+
+Phocoena phocoena (Linne, 1758). Aquat. Mamm. 14, 107–112.
+
+Bhuiyan, A.K.M.A., Ratnayake, W.M.N., Ackman, R.G., 1986. Eﬀect of smoking on the
+proximate composition of Atlantic mackerel (Scomber scombrus). J. Food Sci. 51,
+327–329.
+
+Caro, S.P., Balthazart, J., Bonadonna, F., 2015. The perfume of reproduction in birds:
+
+Chemosignaling in avian social life. Horm. Behav. 68, 25–42.
+
+Clark, F.E., Davies, S.L., Madigan, A.W., Warner, A.J., Kuczaj, S.A., 2013. Cognitive
+enrichment for bottlenose Dolphins (Tursiops truncatus): evaluation of a novel
+underwater maze device. Zoo Biol. 32, 608–619.
+
+Clark, F.E., 2013. Marine mammal cognition and captive care: a proposal for cognitive
+
+enrichment in zoos and aquariums. J. Zoo Aquarium Res. 1, 1–6.
+
+Defran, R.H., Weller, D.W., Kelly, D.L., Espinosa, M.A., 1999. Range characteristics of
+Paciﬁc Coast bottlenose dolphins (Tursiops Truncatus) in the Southern California
+bight. Mar. Mam. Sci. 15, 381–393.
+
+Dudzinski, K.M., Thomas, J.A., Gregg, J.D., 2009. Communication in marine mammals.
+In: Perrin, W.F., Wursig, B., Thewissen, J.G.M. (Eds.), Encyclopedia of Marine
+Mammals. Academic Press, New York, USA, pp. 260–269.
+
+Emery, N.J., 2006. Cognitive ornithology: the evolution of avian intelligence. Phil. Trans.
+
+R. Soc. B 361, 23–43.
+
+Epstein, L.H., Leddy, J.J., Temple, J.L., Faith, M.S., 2007. Food reinforcement and eating:
+
+a multilevel analysis. Psychol. Bull. 133, 884–906.
+
+Evenden, J.L., Robbins, T.W., 1984. Win-stay behaviour in the rat. Q. J. Exp. Psychol. B
+
+36, 1–26.
+
+Fasick, J.I., Cronin, T.W., Hunt, D.M., Robinson, P.R., 1998. The visual pigments of the
+
+bottlenose dolphin (Tursiops truncatus). Vis. Neurosci. 15, 643–651.
+
+Feng, P., Zheng, J., Rossiter, S.J., Wang, D., Zhao, H., 2014. Massive losses of taste
+receptor genes in toothed and baleen whales. Genome Biol. Evol. 6, 1254–1265.
+Friedl, W., Nachtigal, P.E., Moore, P.W.B., Chun, N.K.W., Haun, J.E., Hall, R.W., Richards,
+J.L., 1990. Taste reception in the Paciﬁc bottlenose dolphin (Tursiops truncatus gilli)
+and the California sea lion (Zalophus californianus). In: Thomas, J.A., Kastelein, R.A.
+(Eds.), Sensory Abilities of Cetaceans: Laboratory and Field Evidence. NATO ASI
+Series. Series A. Life Sciences. Springer Science + Business Media, New York, USA,
+pp. 447–454.
+
+Grassman, M., Owens, D., 1987. Chemosensory imprinting in juvenile green sea turtles,
+
+Chelonia mydas. Anim. Behav. 35, 929–931.
+
+Greene, W.E., Melillo-Sweeting, K., Dudzinski, K.M., 2011. Comparing object play in
+
+captive and wild dolphins. J. Comp. Psychol. 24, 292–306.
+
+Gubbins, C.M., 2002. The Dolphins of Hilton Head: Their Natural History. University of
+
+South Carolina Press, Columbia, USA.
+
+Hamer, D.J., Childerhouse, S.J., Gales, N.J., 2012. Odontocete bycatch and depredation
+in longline ﬁsheries: a review of available literature and of potential solutions. Mar.
+Mammal Sci. 28, 345–374.
+
+Hara, T.J., 1994. The diversity of chemical stimulation in ﬁsh olfaction and gustation.
+
+Rev. Fish Biol. Fish. 4, 1–35.
+
+Heydarnejad, M.S., Purser, J., 2016. A spatial memory task in the rainbow trout
+
+(Oncorhynchus mykiss). J. Ethol. 34, 39–44.
+
+Jacobs, M., Porgane, P., McFarland, W., 1971. The anatomy of the brain of the bottlenose
+
+dolphin (Tursiops truncatus). J. Comp. Neurol. 141, 205–272.
+
+Kishida, T., Thewissen, J., Hayakawa, T., Imai, H., Agata, K., 2015. Aquatic adaptation
+
+and the evolution of smell and taste in whales. Zool. Lett. 1, 1–10.
+
+Komatsu, S., Yamasaki, F., 1980. Formation of the pits with taste buds at the lingual root
+
+in the striped dolphin, Stenella coeruleoalba. J. Morphol. 164, 107–119.
+
+Kremers, D., Célérier, A., Schaal, B., Campagna, S., Trabalon, M., Böye, M., Hausberger,
+M., Lemasson, A., 2016a. Sensory perception in Cetaceans: part I—current knowledge
+about dolphin senses as a representative species. Front. Ecol. Evol. 4 (50), 1–9.
+Kremers, D., Célérier, A., Schaal, B., Campagna, S., Trabalon, M., Böye, M., Hausberger,
+M., Lemasson, A., 2016b. Sensory Perception in Cetaceans: part II—promising
+experimental approaches to study chemoreception in dolphins. Front. Ecol. Evol. 4
+(49), 1–17.
+
+Kruger, L., 1959. The thalamus of the dolphin (Tursiops truncates) and comparison with
+
+other mammals. J. Comp. Neurol. 111, 133–194.
+
+Kubanek, J., Snyder, L.H., 2017. Reward size informs repeat-switch decisions and
+
+strongly modulates the activity of neurons in parietal cortex. Cereb. Cortex 21,
+447–459.
+
+Kurt Thaw, A., 1996. Changes in taste threshold over the life span of the Sprague-Dawley
+
+rat. Chem. Senses 21, 189–193.
+
+Kuznetzov, V.B., 1990. Chemical sense of dolphins: quasi-olfaction. In: Thomas, J.A.,
+
+Kastelein, R.A. (Eds.), Sensory Abilities of Cetaceans/Laboratory and Field Evidence.
+NATO ASI Series. Series A. Life Sciences. Springer Science + Business Media, New
+York, pp. 481–503.
+
+Li, Y.M., 1983. The tongue of the Baiji, Lipotes vexillifer. Acta Zool. Sin. 35, 35–47.
+Liu, Z., Liu, G., Hailer, F., Orozco-terWengel, P., Tan, X., Tian, J., Yan, Z., Zhang, B., Li,
+M., 2016. Dietary specialization drives multiple independent losses and gains in the
+bitter taste gene repertoire of Laurasiatherian mammals. Front. Zool. 13, 28–37.
+Lowell, W.R., Flanigan, W.F., 1980. Marine mammal chemoreception. Mamm. Rev. 10,
+
+53–59.
+
+Mills, D., Marchant-Forde, J., Morton, D., Phillips, C., McGreevy, P., Nicol, C., Sandoe, P.,
+Swaisgood, R.R., 2010. The Encyclopedia of Applied Animal Behaviour and Welfare.
+CABI, Oxford, UK.
+
+Mojet, J., Christ-Hazelhof, E., Heidema, J., 2001. Taste perception with age: generic or
+speciﬁc losses in threshold sensitivity to the ﬁve basic tastes? Chem. Senses 26,
+845–860.
+
+Morgan, K.N., Tromborg, C.T., 2007. Sources of stress in captivity. Appl. Anim. Behav.
+
+Sci. 102, 262–302.
+
+Muchlinski, M.N., Docherty, B.A., Alport, L.J., Burrows, A.M., Smith, T.D., Paesani, S.M.,
+2011. Behavioral and ecological consequences of sex-based diﬀerences in gustatory
+anatomy in Cebus apella. Anat. Rec. 294, 2179–2192.
+
+Muraco, H., Kuczaj, S.A., 2015. Conceptive estrus behavior in three bottlenose dolphins
+
+(Tursiops truncatus). Anim. Behav. Cogn. 2, 30–48.
+
+Nevitt, G., Reid, K., Trathan, P., 2004. Testing olfactory foraging strategies in an Antarctic
+
+seabird assemblage. J. Exp. Biol. 207, 3537–3544.
+
+Norris, K.S., Wursig, B., Wells, R.S., Wursig, M., 1994. The Hawaiian Spinner Dolphin.
+
+University of California Press, Berkley, USA.
+
+Oelschläger, H.A., Buhl, E., 2008. The dolphin brain–a challenge for synthetic
+
+neurobiology. Brain Res. Bull. 75, 450–459.
+
+Perrin, W., Wursig, B., Thewissen, J., 2009. Encyclopedia of Marine Mammals, 2nd ed.
+
+Academic Press, New York, USA.
+
+Pitcher, B.J., Harcourt, R.G., Schaal, B., Charrier, I., 2011. Social olfaction in marine
+
+mammals: wild female Australian sea lions can identify their pup’s scent. Biol. Lett. 7,
+60–62.
+
+Samuelson, M.M., Lauderdale, L.K., Pulis, K., Solangi, M., Hoﬄand, T., Lyn, H., 2016.
+
+Olfactory enrichment in California sea lions (Zalophus californianus): an eﬀective tool
+for captive welfare? J. Appl. Anim. Welf. Sci. 8705, 1–11.
+
+Shindo, J., Yamada, T.K., Yoshimura, K., Kageyama, I., 2008. Morphology of the tongue
+in a newborn Stejneger’s beaked whale (Mesoplodon stejnegeri). Okajimas Folia Anat.
+Jpn. 84, 121–124.
+
+Stoﬀel, M.A., Caspers, B.A., Forcada, J., Giannakara, A., Baier, M., Eberhart-Phillips, L.,
+Müller, C., Hoﬀman, J.I., 2015. Chemical ﬁngerprints encode mother-oﬀspring
+similarity, colony membership, relatedness, and genetic quality in fur seals. Proc.
+Natl. Acad. Sci. U. S. A. 112, E5005–E5012.
+
+Supin, A., Popov, V., Mass, A., 2001. The Sensory Physiology of Aquatic Mammals.
+
+Springer Science + Business Media, New York, USA.
+
+Thomas, J., Kastelein, R., 1990. Sensory Abilities of Cetaceans: Laboratory and Field
+Evidence. NATO ASI Series. Series A. Life Sciences. Springer Science + Business
+Media, New York.
+
+Thomas, J., Kastelein, R., Supin, A., 1992. Marine Mammal Sensory Systems. Life
+
+Sciences. Springer Science + Business Media, New York, USA.
+
+Wells, D.L., 2009. Sensory stimulation as environmental enrichment for captive animals:
+
+a review. Appl. Anim. Behav. Sci. 118, 1–11.
+
+Werth, A.J., 2004. Functional morphology of the sperm whale (Physeter macrocephalus)
+
+tongue, with reference to suction feeding. Aquat. Mamm. 30, 405–418.
+
+Willis, D.N., Morris, J.B., 2013. Modulation of sensory irritation responsiveness by
+
+adenosine and malodorants. Chem. Senses 38, 91–100.
+
+Yoshimura, K., Kobayashi, K., 1997. A comparative morphological study on the tongue
+and the lingual papillae of some marine mammals–particularly of four species of
+odontoceti and Zalophus. Odontology 85, 385–407.
+
+Zhu, K., Zhou, X., Xu, S., Sun, D., Zhou, K., Yang, G., 2014. The loss of taste genes in
+
+cetaceans. BMC Evol. Biol. 14, 218–228.
+
+van Thriel, C., Schäper, M., Kiesswetter, E., Kleinbeck, S., Juran, S., Blaszkewicz, M.,
+Fricke, H.H., Altmann, L., Berresheim, H., Brüning, T., 2006. From chemosensory
+thresholds to whole body exposures – experimental approaches evaluating
+chemosensory eﬀects of chemicals. Int. Arch. Occup. Environ. Health 79, 308–321.
+
+126
+
+

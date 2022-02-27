@@ -1,0 +1,449 @@
+8th International Conference on LCA in the Agri-Food Sector, Rennes, France, 2-4 October 2012 
+
+LCA of Starch Potato From Field To Starch Production Plant Gate 
+ 
+Godard Caroline1,*, Boissy Joachim1, Suret Camille1, Gabrielle Benoît2 
+ 
+
+1 Agro-Transfert Ressources et Territoires, 2 Chaussée Brunehaut, 80200 Estrées-Mons, France 
+2 INRA-AgroParisTech, UMR 1091 Environnement et Grandes Cultures, 78850 Thiverval-Grignon, France 
+ Corresponding author. E-mail: c.godard@agro-transfert-rt.org 
+ 
+
+ABSTRACT 
+To provide accurate agricultural LCA, the local production conditions, namely crop management techniques, weather and soil condi-
+tions, need to be taken into account. To develop adapted inventory methodology, a specific LCA study was carried out on a northern 
+France starch potato supply area. It focused on the upstream steps and used specific crop management and logistics data. To improve 
+inventory methods, the approach is based on process-based models simulating soil carbon dynamic and in-field pesticide emissions. 
+The results obtained for 1 ton of potato showed the influence of soil carbon dynamic on climate change impact that resulted in carbon 
+release between 10% and 18%. This level was mitigated by the soil carbon sequestration effect from the preceding catch crop. The 
+soil type influence was limited due to rather homogenous pedoclimatic conditions. Nevertheless, the proposed approach enabled to 
+account for specific cropping conditions and was designed to test various production scenarios. 
+ 
+Keywords: Starch potato LCA, inventory methods, emission models, Soil organic carbon, pesticide emissions 
+ 
+ 
+1. Introduction 
+ 
+
+Starch currently provides basic molecules for many  innovative industrial applications, mainly non-food 
+processes.  Potato  is  the  most  common  crop  that  produces  starch  in  Northern  France.  To  provide  LCA  of 
+starch derived molecules and products with accurate and consistent data, a focus was made on the upstream 
+processes, from potato field production to the gate of the starch processing plant. To do so, a specific LCA 
+study was carried out on the supply area of a starch production plant located in Picardy. We were thus also 
+able to provide local stakeholders (producers, advisers) with the environmental impacts of their production 
+chains.  There are currently scant literature references on the LCA of potato crops, moreover, most of them 
+focus on food potato (D'Arcy et al., 2010; Williams et al., 2010), which involves crop management practices 
+different from those used for starch potato. Hence, to provide adapted and accurate impact assessment, we 
+used technical data from starch potato producers and specific logistics chain data. Those data were combined 
+to  in-field  fluxes  inventory  methods  using  process-based  models  able  to  integrate  soil  and  weather 
+production  conditions,  and  crop  rotation.  More  precisely,  two  models  were  used  to  assess  soil  carbon 
+dynamic and pesticide emissions. The objective of this study was thus i/ to identify the contribution of soil 
+carbon dynamic in the global warming impact of starch potato upstream production process, and ii/ to focus 
+on pesticide spraying which is one of the important potential environmental impacts of potato. Finally, we 
+were  also  able  to  partly  test  the  methodology  developed  for  bioenergy  chains  (Godard  et  al.,  2012)  on 
+another application field. 
+
+2. Methods 
+ 
+2.1. Studied system and functional unit definition 
+
+ 
+The studied area corresponded to the specific supply area of a starch production plant in the French Picar-
+dy region. A survey of potato growers showed that the main crop rotation including starch potato in this area 
+was sugar beet/winter wheat/potato/winter wheat. An intermediate crop (white mustard) was sown before po-
+tato planting. The crop management technique sequence selected was the most common one described by lo-
+cal technicians and from producer survey (Table 1). The average distance between farm and starch produc-
+tion plant was considered to be 60 km, and a specific logistics chain is detailed in Figure 1. 
+
+ 
+The studied system entails all the field operations from the intermediate crop preceding potato to its har-
+vest and transport and storage steps before starch production plant gate. All the machinery, the buildings and 
+inputs necessary to those steps were accounted for: fuel and energy consumption, seeds, field fertilizers and 
+pesticides, and storage treatment. The functional unit was the production of 1 t of starch potato (with a 22% 
+dry matter content).  
+
+ 
+ 
+
+ 
+ 
+
+8th International Conference on LCA in the Agri-Food Sector, Rennes, France, 2-4 October 2012 
+
+Table 1. Input summary of starch potato and catch crop. 
+ 
+
+Input (unit) 
+Average annual yield (t fresh matter/ha) 
+
+Crop management (for 1 year) 
+
+Stubble ploughing (runs) 
+Harrowing and catch crop seeding (runs) 
+Catch crop crushing (runs) 
+Ploughing (runs) 
+Harrowing (runs) 
+Sowing and ridging up (runs) 
+Haulm crushing (runs) 
+Lifting (runs) 
+Seeding rate (kg/ha) 
+N fertilizer rate (kg N / ha) 
+K Fertilizer rate (kg K2O /ha) 
+P Fertilizer rate (kg P2O5 /ha) 
+Magnesium fertilizer rate (kg MgO/ha) 
+Pesticide application (kg active ingredient/ha) 
+
+Value 
+52 
+ 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+1 
+2100 
+180 
+280 
+80 
+30 
+30.06 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Figure 1. Logistics chain of starch potato. 
+
+2.2. Inventory methods  
+
+ 
+Life cycle inventories needed for the the manufacturing and supply of inputs and buildings were extracted 
+
+from the Ecoinvent Database Version 2.2 ( Swiss Center for Life Cycle Inventories, 2010).  
+
+In-field emissions of N and P were assessed using and adapting several inventory methods. Direct and in-
+direct N2O emissions were assessed according to the IPCC method (IPCC, 2006). NH3 emissions to air were 
+calculated using emission factors from Institut de l’élevage et al., 2010. The emission factor for NOx emis-
+- to water were estimated with a field N-balance 
+sions was derived from ADEME, 2010. Emissions of NO3
+method adapted from IFEU, 2000, and which integrates previous N fluxes (N2O, NH3 and NOx). The N bal-
+ance depended on crop rotation and soil type. P emissions in water by leaching, run-off and erosion were es-
+timated  according  to  Nemecek  and  Kägi,  2007.  Soil  erosion  was  estimated  with  the  Universal  Soil  Loss 
+Equation (Weischmeier and Smith, 1965). 
+
+2.3. Modelling approach for soil-carbon dynamic and pesticides emission estimates 
+ 
+
+To estimate soil C sequestration and pesticide emissions, the AMG (Saffih-Hdadi and Mary, 2008) and 
+Pest-LCI (Birkved and Hauschild, 2006) models were used, respectively. AMG simulates the  dynamics of 
+humified organic matter, accounting for inputs from preceding and catch crop residues and their humification 
+and  mineralization  rates. The  main  inputs  of  the  model  are crop  rotation  and  yields,  soil  management  and 
+properties (texture, organic matter and CaCO3 content), and annual weather conditions. The model runs on a 
+yearly time-step, and a 20-year series of past weather data (1988-2007) was used to simulate soil carbon se-
+questration. The initial Soil Organic Carbon (SOC) content, to which model predictions are very sensitive, 
+was estimated for the typical starch potato crop-rotation and soil types combinations determined from meas-
+urements of soil organic matter changes in Picardy (Duparque et al., 2011). The major soil type in the studied 
+
+8th International Conference on LCA in the Agri-Food Sector, Rennes, France, 2-4 October 2012 
+
+area was a deep clayey loam that was selected for the parameterization of AMG. The effect of soil type on 
+the variations in soil C content over 20 years was also simulated. To do so, the next two soil types in terms of 
+occurrence  in the  studied area (namely  a  deep  loam  and  a  clayey  loam  over  chalk)  were  also  input  to  the 
+AMG model. 
+
+Pest-LCI  simulates  the  fate  of  pesticides  and  their  emissions  during  application  and  after-application, 
+from soils and crop leaves. It simulates the fate of each fraction of pesticide reaching a compartment of the 
+simulated  system  (air,  crop,  soil  surface,  water  drainage  system  and  groundwater).  This  model  runs  on  a 
+monthly time-step. It accounts for soil and climate conditions as well as bio-physico-chemical properties of 
+the pesticide molecule. To ensure consistent results between pesticide emissions and soil C sequestration, the 
+same past weather data and soil type as for the AMG simulation were used for Pest-LCI. 
+ 
+2.3. Impact assessment method 
+
+ 
+In order to focus on the main agricultural environmental impacts, five  mid-point impact categories and 
+corresponding reference substances were selected. Climate change (kg CO2-eq), terrestrial acidification (kg 
+SO2-eq),  freshwater  eutrophication  (kg  P-eq),  and  marine  eutrophication  (kg  N-eq)  were  calculated  using 
+Recipe method, version 1.05 (PRé Consultants, 2008). Ecotoxicity (Comparative Toxic Units – CTU) was 
+assessed using USEtox method (Henderson et al., 2011), and energy consumption (MJ) was calculated ac-
+cording  to  the  Cumulative  energy  demand  method,  version  1.08.  All  impact  calculations  were  performed 
+with SimaPro 7.3.2 software (PRé Consultants, 2011). 
+
+ 
+
+3. Results 
+ 
+3.1. Contribution analysis for starch potato 
+
+ 
+The  hot  spot  for  three  impact  categories  out  of  six  (Figure  2),  namely  climate  change  (CC),  terrestrial 
+acidification (TA) and marine eutrophication (ME) was nitrogen fertilization which actually compounds the 
+production of fertilizer N and the field emissions. Its share varied from 44% to 70% of the total impacts. The 
+CC contribution of N-fertilization mainly came from indirect greenhouse gases (GHG) emissions occurring 
+during the production step of fertilizers, while for TA, the contribution was mostly due to the NH3 emissions 
+occurring after fertilizer application. The N-fertilization contribution to ME arose from nitrate leaching.  
+
+For freshwater eutrophication (FE), the most impacting stage (with 69% of the total impact) was the other 
+fertilization step, PK fertilization, mainly due to phosphate run-off and leaching after P-fertilizer application. 
+Ecotoxicity (E) was in turn widely dominated by the contribution of pesticides (including both production 
+step  and  in-field  emissions)  up  to  67%.  Contrary  to  other  impact  categories,  cumulative  energy  demand 
+(CED) originated from nearly all the life cycle steps with a similar level (between 6% to 19 %), the transport 
+phase (to the farm and to the plant) being the major contributor with 40% of the total impact. This transport 
+phase often contributes as the second most impacting step to the other impact categories apart from CED.   
+
+One of the specific crop management techniques of potato is seeding. This step was the second after N-
+fertilization to ME, mainly due to the nitrate leaching occurring after N-fertilization during potato seed pro-
+duction step. 
+
+ 
+
+ 
+
+8th International Conference on LCA in the Agri-Food Sector, Rennes, France, 2-4 October 2012 
+
+ 
+
+ 
+Figure 2. Contribution to the impact categories of each life cycle step from field production to starch plant 
+gate. (CC impact includes both potato and catch crop effect on the deep clayey loam soil carbon). 
+ 
+3.2. Climate change impact and soil carbon dynamic: influence of soil type and intermediate crop  
+
+ 
+Soil C dynamics was influential in the CC impact, and enhanced the life-cycle GHG emissions of potato 
+crops. Without considering the preceding intermediate crop, the latter always resulted in a release of soil C, 
+from about 10% up to about 18% of the total GHG emissions (Table 2). Indeed all the potato haulms were 
+exported out of field. Nevertheless, it can be noted that the catch crop preceding potato (whose impacts were 
+allocated to the potato crop) strongly mitigated this release, with a systematic carbon sequestration reaching 
+about 200kgC/ha/year on all the soil types. Thus the catch crop could even more than offset the soil C release 
+of potato, and reaching, for example a C sequestration of 81 kgC/ha/year in the clayey loam over chalk. 
+
+There were few differences across the three main soil types on the CC impact. For potato crop only, the 
+effect of the soil type on soil C dynamic was stronger than for the catch crop. Actually, the influence of soil 
+type on soil C dynamics was limited because their properties were rather close in the AMG parameterization 
+(texture, organic matter and CaCO3 content). 
+
+ 
+
+Table 2. Influence of soil type and catch crop on soil carbon variations expressed per t of potato produced. 
+(a negative value indicates a soil C release corresponding to a CC impact increase) 
+
+Soil type 
+(ordered by their area 
+share) 
+1. deep clayey loam* 
+2. deep loam 
+3. clayey loam over chalk  
+
+Soil carbon dynamic contribution to climate change impact 
+Without catch crop effect 
+kg CO2-eq 
+-16.7 
+-19.5 
+-9.8 
+
+Including catch crop effect 
+kg CO2-eq 
+-2.6 
+-5.6 
+5.7 
+
+% 
+-15.6 
+-17.8 
+-9.8 
+
+% 
+-2.4 
+-5 
+5.7 
+
+106.7 
+109.5 
+99.8 
+
+Climate change impact 
+(kg CO2 –eq) 
+
+* Refers to the situation represented in figure 2. 
+
+ 
+4. Discussion 
+ 
+4.1 Main contributing steps and comparison with other studies 
+
+ 
+The comparison with Williams’ et al. study (2010) was only possible for common indicators, as the char-
+acterizing method was not the same as the one we used. The two studies showed the same order of magni-
+tude for the CED impact (respectively 1.4 MJ/t for Williams et al., and 1.13 MJ/t in our case). Compared to 
+the study by Williams et al., 2010, the CED proportion due to cool storage of potato is lower in our study 
+(8% for transport+ farm storage here versus 49% for storage only for Williams et al.). This difference is cer-
+tainly due to a limited storage for starch potato (40% of the harvested potato), contrary to a systematic one 
+for food potato. In our study, the harvest step contributes to CED in the same order of magnitude as the Wil-
+liams’ one (7% vs 10%). D’Arcy’s (2010) study showed on the contrary much higher energy  consumption 
+than in the present study (4MJ/t vs 1.13 for us). This is probably due the much lower yield they considered 
+(28.1 t/ha in average) than the 52 t/ha we used in our case study.   
+
+0%10%20%30%40%50%60%70%80%90%100%ClimatechangeTerrestrialacidificationFreshwatereutrophicationMarineeutrophicationCumulativeenergy demandEcotoxicityTransport to the plantTransport to the farm + storageSeedingHarvestingPesticidesPK fertilizationNitrogen fertilizationTillageSoil carbon release8th International Conference on LCA in the Agri-Food Sector, Rennes, France, 2-4 October 2012 
+
+ 
+ 
+
+4.2 Soil C dynamics integration in LCA and its effect on CC impact  
+
+ 
+We predicted the contribution of potato crop to soil C variations by simulating SOC dynamics with the 
+AMG model. Our approach differs from Nemecek and Kägi, 2007, which is based on the C content of the 
+biomass exported from the field, considering it a sink for atmospheric CO2. A widespread, more practical al-
+ternative consists of considering crops as “climate-neutral”, as Schmidt et al., 2004) did in their study of flax 
+production. The latter two approaches actually disregard the effects of crop cultivation on soil C dynamics, 
+let alone the effects of soil type, crop rotation or climate, which play a major role in the GHG balance of ag-
+ricultural crops (Ceschia et al., 2010). Using a soil C model such as AMG is a means of overcoming this lim-
+itation and accurately predicts soil C sequestration or release rates. In the present example of starch potato, 
+these rates may mitigate or, conversely, increase the global warming impact of crops, depending on soil type 
+and  climate  conditions.  This  modelling  approach  was  then  an  alternative  to  the  French  reference  from 
+Arrouays et al., 2002, who gave a single C sequestration rate for several crops. Our estimates of C release of 
+0.02  Ct/DMt/year  was  far different  from  the  sequestration  of  0.008  Ct/DMt/year  given  by  Arrouays  et  al., 
+2002, for French food potato. Their approach was maybe too generic to account for the specificities of starch 
+potato growing in a particular supply area.  
+
+Moreover, the AMG model includes crop rotations in its simulations of mid to long term soil C dynamics, 
+and in the present case, the starch potato crop rotation always sequestrated soil C, despite the potato contri-
+bution  as  a  net  C  release. This raises  the  question of  the accounting  of  crop  rotation  and  the  allocation  of 
+catch crops in the soil C sequestration assessment. Indeed, as we showed for starch potato, the allocation of 
+catch crop to the following main crop can result in an opposite effect on soil C dynamics. 
+
+Beyond global warming impact assessment, another reason to use AMG is that SOC is considered a rele-
+vant indicator of soil quality for LCA (Brandão et al., 2011; Milà i Canals et al., 2007a; Milà i Canals et al., 
+2007b).  Thus,  accounting  for  soil  quality  in  LCA  could  be  facilitated  by  the  use  of  SOC  models  such  as 
+AMG. 
+ 
+
+4.3 Modelling approaches in agricultural LCA 
+
+ 
+This study showed the relevance of using emission models instead of using default emission factors in the 
+life-cycle inventory to account for the characteristics of  a crop supply area. Indeed this approach makes it 
+possible to integrate the diversity of cropping production systems in supply areas in agricultural LCAs. Mod-
+eling approaches have already proven to be able to integrate various biophysical and technical crop produc-
+tion conditions in agricultural LCA, as in the studies from Adler et al., 2007; Gabrielle and Gagnaire, 2008. 
+We were able to integrate the specific characteristics of crop management, logistics and storage in a supply 
+area as well as its pedo-climatic characteristics by the use of the two models AMG and Pest-LCI. Beyond 
+soil carbon dynamics and pesticides, crop models can provide precise assessments of in-field fluxes, and par-
+ticularly N-fluxes which are highly dependent on local conditions. Nevertheless their use remains unusual, 
+since they involve numerous parameters, some which are note easily available. An alternative way to these 
+crop models are developed balance, such as Sundial used by Williams et al., 2010, thus limiting the parame-
+terization difficulty, and at the same time integrating crop rotation, crop management practices and pedocli-
+matic conditions in LCAs.  
+
+ 
+
+5. Conclusion 
+ 
+
+The approach proposed here has already been tested for a different context and for other crops, namely 
+biomass feedstocks (Godard et al., 2012). It is a promising way to better account for the spatial variation of 
+crop production conditions in agricultural LCA, by the integration of this variability range in model parame-
+terization. This kind of approach is relevant to test new production scenarios, such as the reduction of pesti-
+cide application, or the change in a crop supply and production area. It is also a good way to better account 
+for geographical aspects in decision making, by providing adapted and accurate LCA results to local stake-
+holders. 
+ 
+ 
+ 
+ 
+
+8th International Conference on LCA in the Agri-Food Sector, Rennes, France, 2-4 October 2012 
+
+6. References 
+ 
+ADEME, 2010. Analyses de Cycle de Vie appliquées aux biocarburants de première génération consommés 
+en France. Rapport final de l’étude réalisée pour le compte de l’ADEME, du MEEDD et du MAAP et de 
+FranceAgriMer par Bio Intelligence Service. In French. 
+
+Arrouays, D., Balesdent, J., Germon, J.-C., Jayet, P.-A., Soussana, J.-F., Stengel, P., 2002. Mitigation of the 
+greenhouse  effect  Increasing  carbon  stocks  in  French  agricultural  soils?  Scientific  Assessment  Unit  for 
+Expertise, Assessment Report by the French Institute for Agriculture Research (INRA) on request of the 
+French Ministry for Ecology and Sustainable Development. Paris. 
+
+Birkved, M., Hauschild, M. Z., 2006. PestLCI--A model for estimating field emissions of pesticides in agri-
+
+cultural LCA. Ecological Modelling. 198 (3-4), 433-451. 
+
+Brandão,  M.,  Milà  i  Canals,  L.,  Clift,  R.,  2011.  Soil  organic  carbon  changes  in  the  cultivation  of  energy 
+crops: Implications for GHG balances and soil quality for use in LCA. Biomass and Bioenergy. 35 (6), 
+2323-2336. 
+
+Ceschia, E., Béziat, P., Dejoux, J. F., Aubinet, M., Bernhofer, C., Bodson, N., et al., 2010. Management ef-
+fects on net ecosystem carbon and GHG budgets at European crop sites. Agriculture, Ecosystems & Envi-
+ronment. 139 (3), 363-383. 
+
+D'Arcy, A., O'Halloran, J., Sage, C., 2010. An LCA of potato production in Ireland: impacts on ecology and 
+environment. In: Università degli studi di Bari Aldo Moro, editor. VII international conference on Life 
+Cycle Assessment in the agri-food sector. Bari, Italy. 
+
+Duparque, A., Tomis, V., Mary, B., Boizard, H., Damay, N., 2011. Le Bilan Humique AMG, pour une dé-
+marche  de  conseil  fondée sur  des  cas-types  régionaux.  In  french.    10émes  rencontres  de la  fertilisation 
+raisonnée et de l’analyse COMIFER-GEMAS. Reims, France. 
+
+Godard,  C.,  Boissy,  J.,  Gabrielle,  B.,  2012.  Life-cycle  assessment  of  local  feedstock  supply  scenarios  to 
+
+compare candidate biomass sources. Accepted to Global Change Biology Bioenergy. 
+
+Henderson, A., Hauschild, M., van de Meent, D., Huijbregts, M., Larsen, H., Margni, M., et al., 2011. USE-
+tox fate and ecotoxicity factors for comparative assessment of toxic emissions in life cycle analysis: sensi-
+tivity to key chemical properties. The International Journal of Life Cycle Assessment. 16 (8), 701-709. 
+IFEU, 2000. Bioenergy for Europe : Which ones fit best ? A comparative analysis for the Community. Hei-
+
+delberg: IFEU. 
+
+Land Use. 
+
+Institut  de  l’élevage,  IFIP,  ITAVI,  Arvalis  Institut  du  végétal,  Cetiom,  ITB,  2010.  Guide  méthodologique 
+pour l’estimation des impacts des activités agricoles sur l’effet de serre - GES’TIM. version1.2. In french. 
+IPCC,  2006.  IPCC  Guidelines  for  National  Greenhouse  Gas  Inventories.  Agriculture,  Forestery  and  Other 
+
+Milà i Canals, L., Bauer, C., Depestele, J., Dubreuil, A., Freiermuth Knuchel, R., Gaillard, G., et al., 2007a. 
+Key  Elements  in  a  Framework  for  Land  Use  Impact  Assessment  Within  LCA.  International  Journal  of 
+Life Cycle Assessment. 12 (1), 5-15. 
+
+Milà i Canals, L., Romanyà, J., Cowell, S., 2007b. Method for assessing impacts on life support functions 
+(LSF) related to the use of "fertile land" in Life Cycle Assessment (LCA). Journal of Cleaner Production. 
+15, 1426-1440. 
+
+Nemecek, T., Kägi, T., 2007. Life cycle inventories of Agricultural Production Systems - Data v2.0.  EcoIn-
+vent  report  No.15.  Zürich  and  Dübendorf:  Agroscope  Reckenholz-Tänikon  Research  Station  ART.  pp. 
+360. 
+
+PRé Consultants, 2008. Sima Pro Database Manual, Methods library PRé Consultants. 
+PRé Consultants, 2011. Sima Pro 7.3.2 software. Amersfoort, The Netherlands. 
+Saffih-Hdadi, K., Mary, B., 2008. Modeling consequences of straw residues export on soil organic carbon. 
+
+Soil Biology and Biochemistry. 40 (3), 594-607. 
+
+Schmidt, A., Jensen, A., Clausen, A., Kamstrup, O., Postlethwaite, D., 2004. A comparative Life Cycle as-
+sessment  of  building  insulation  products  made  of  stone  wool,  paper  wool  and  flax.  The  International 
+Journal of Life Cycle Assessment. 9 (1), 53-66. 
+
+Swiss Center for Life Cycle Inventories, 2010. Ecoinvent database v2.2. Tänikon, Switzerland. 
+Weischmeier, W., Smith, D., 1965. Predicting rainfall-erosion losses from cropland east of the Rocky Moun-
+
+tains: Guide for selection of practices for soil and water conservation. 
+
+Williams, A., Audsley, E., Sandars, D., 2010. Environmental burdens of producing bread wheat, oilseed rape 
+and potatoes in England and Wales using simulation and system modelling. The International Journal of 
+Life Cycle Assessment. 15 (8), 855-868. 
+
+ 
+
+

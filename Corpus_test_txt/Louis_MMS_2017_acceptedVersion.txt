@@ -1,0 +1,516 @@
+Strong bonds and small home range in a resident
+bottlenose dolphin community in a Marine Protected
+Area (Brittany, France, Northeast Atlantic)
+Marie Louis, Mickael Buanic, Cécile Lefeuvre, Phillipe Le Nilliot, Vincent
+
+Ridoux, Jérôme Spitz
+
+To cite this version:
+
+Marie Louis, Mickael Buanic, Cécile Lefeuvre, Phillipe Le Nilliot, Vincent Ridoux, et al.. Strong
+bonds and small home range in a resident bottlenose dolphin community in a Marine Protected Area
+(Brittany, France, Northeast Atlantic). Marine Mammal Science, Wiley, 2017, 33 (4), pp.1194-1203.
+￿10.1111/mms.12419￿. ￿hal-03023738￿
+
+HAL Id: hal-03023738
+
+https://hal.archives-ouvertes.fr/hal-03023738
+
+Submitted on 25 Nov 2020
+
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+ 
+
+ 
+
+ 
+
+MARINE MAMMAL SCIENCE, 33(4): 1194–1203 (October 2017)  
+DOI: 10.1111/mms.12419 
+Accepted version 
+
+Strong bonds and small home range in a resident bottlenose 
+dolphin community in a Marine Protected Area (Brittany, France, 
+North-East Atlantic) 
+
+ 
+Marie  Louis1,2,  Mickael  Buanic3,  Cécile  Lefeuvre3,  Phillipe  Le  Nilliot3,  Vincent  Ridoux1,4, 
+Jérôme Spitz1 
+
+ 
+1. Observatoire Pelagis, UMS 3462 CNRS-Université de La Rochelle, 17000 La Rochelle, France 
+2. Scottish Oceans Institute, University of St Andrews, East Sands, St Andrews, Fife, KY16 8LB, UK  
+3. Parc naturel marin d’Iroise, Pointe des Renards, 29217 Le Conquet, France 
+4. Centre d’Etudes Biologiques de Chizé, CNRS-UMR 7372, 17000 La Rochelle, France 
+
+Keywords: Social structure, ranging patterns, photo-identification  
+
+ 
+ 
+Social  associations  among  individuals  can  reveal  behavioral  strategies  that  maximize  an 
+individual’s  fitness  (van  Schaik  1989,  Silk  et  al.  2003,  Frere  et  al.  2010a,  Kappeler  et  al. 
+2013). Possible advantages of social bonds include decreased predation risks, cooperation 
+to catch and defend resources, transfer of information, care for another, or increased calf 
+survival.  Disadvantages 
+include  competition  for  resources  or  mates,  facilitated 
+transmission  of  pathogens,  and  increased  aggression  or  infanticide  rates  (see  detailed 
+review in Krause and Ruxton 2002). The trade-off between the costs and benefits incurred 
+is influenced by predation risks, the availability of resources including habitat, prey, and 
+access  to  mates,  and  density  dependent  factors  (Alexander  1974,  Rubenstein  and 
+Wrangham 1986). Hence, ecological variability such as the availability of suitable habitat 
+or  food  resources  may  shape  social  variability  in  terrestrial  and  marine  mammals 
+(Karczmarski et al. 2005, Wittemyer et al. 2005). For instance, ecological factors may have 
+a strong influence on the social structure of bottlenose dolphins, Tursiops spp. (Connor et 
+al. 2000). These species form fission-fusion communities (i.e., we consider a community as 
+an entity formed of individuals of the same species that co-occur in space and time and 
+have an opportunity to interact), where associations among individuals are fluid and highly 
+dynamic (Connor et al. 2000). The strength of dyadic associations can be measured using 
+the half-weight index (HWI), which corresponds to the number of times a pair of individuals 
+was observed in the same group over the number of times the individuals were observed 
+in different groups. It ranges from 0 (individuals were never associated) to 1 (they were 
+always associated). In most bottlenose dolphin communities, the mean HWI is low, around 
+0.1  indicating  a  low  frequency  of  associations  among  individuals  (Connor  et  al.  2000, 
+Wiszniewski et al. 2009, Bouveroux and Mallefet 2010, Daura-Jorge et al. 2012, Louis et al. 
+2015). However, in some communities, a small number of individuals form strong and long-
+term  associations  (such  as  alliances  between  males)  that  are  thought  to  be  shaped  by 
+ecological factors, kin selection, or mating strategies, or a combination of those (Kreutzen 
+
+ 
+et  al.  2003;  Frere  et  al.  2010b;  Wiszniewski  et  al.  2010,  2012;  Connor  et  al.  2011). 
+Additionally, the Doubtful Sound (New Zealand) and the Sado estuary (Portugal) dolphin 
+communities  have  a  stable  fission-fusion  social  structure  with  strong  bonds  recorded 
+between most individuals (Lusseau et al. 2003, Augusto et al. 2011). Such social structure 
+is uncommon for these species and may be shaped by resource availability (Lusseau et al. 
+2003, Augusto et al. 2011). Studying the social structure of additional bottlenose dolphin 
+communities may help to better understand its drivers in this species. 
+Our  study  focused  on  a  small  bottlenose  dolphin  community,  which  was  first  recorded 
+around Sein Island, Brittany, France in the 1980s and monitored until 2001 for population 
+size and habitat use. The community was small (20 individuals in 
+2001) and used a mean area of 6 km2 as determined by focal follow data (Liret et al. 2006). 
+No  movements  were  recorded  between  the  Sein  Island  community  and  the  closest 
+bottlenose dolphin community of the Molene Archipelago, which is situated around 40 km 
+north of Sein Island (Liret et al. 2006). Following the creation of a marine protected area 
+(MPA),  Parc  naturel  marin  d’Iroise  (PNMI),  an  ongoing  photoidentification  monitoring 
+effort was implemented from 2014 onward for estimating demographic parameters and 
+habitat  use.  The  objective  of  this  study  was  to  update  census  size,  investigate  social 
+structure, and estimate the home range of this community using photo-identification data. 
+Photo-identification data were collected around Sein Island (Fig. 1) from August 2014 to 
+October 2015 during 28 sampling days with good weather conditions (Beaufort sea state ≤ 
+3).  The  island  is  located  8  km  from  the  coast  of  France  (Brittany  region).  The  area  is 
+characterized by shallow waters (depth ranges from <1–30 m), strong tidal currents and a 
+variety of benthic habitats including numerous rocks covered by algae, gravel and maerl 
+bottoms, or sandy sediments. Recordings from the boat during the surveys using MaxSea 
+Marine Navigation Software indicated current speeds of 3–4 kn and up to 5.2 kn during an 
+equinox  high  tide.  Given  the  strong  currents  and  numerous  submerged  rocks  it  was 
+impossible to design line-transect surveys. However, efforts were made to survey the area 
+consistently across the surveys. A typical survey route included a loop around the island 
+and driving around all the rocks on the western part where the route extended 8 km west 
+of the island. Surveys were conducted at a speed of 5–10 kn from an 8 m rigid inflatable 
+boat with two or three observers aboard, including one photographer. For the purposes of 
+this work a group of dolphins was defined as all individuals moving in the same direction 
+and engaged in a similar behavioral activity, that were within a 100 m radius from each 
+other (Wells et al. 1987). When a group of dolphins was sighted, photographs of the dorsal 
+fins and upper backs of encountered individuals were taken by the same observer using a 
+Nikon D300S with a 120–400 mm lens. Photo-identification work usually ended when the 
+photographer  decided  that  he  had  photos  of  all  the  individuals,  or  more  rarely  when 
+dolphins  showed  boat  avoidance  behaviors.  Efforts  were  made  to  photo-identify  all 
+individuals in the group, which was relatively straightforward given the small size of the 
+community. Photo-identification data treatment was performed by the same observer and 
+followed standardized protocols (Hammond et al. 1990). Individuals were identified from 
+good and very good quality photographs (i.e., in focus, fin entirely visible, angle at ca. 90 
+or 270). Photos of all individuals were arranged in a catalog, keeping the best and most 
+recent  photo  for  each  individual.  The  best  photo  for  each  individual  per  survey  was 
+selected and was matched to the identity catalog of all individuals. All individuals could be 
+recognized using their natural marks (i.e., notches and scars) on both sides of their dorsal 
+fins, therefore, no individual was excluded from the analyses based on its level of markings. 
+Group sizes were inconsistently recorded in the field and were therefore estimated as the 
+number of identified individuals in the photographs for each encountered group. 
+
+ 
+Social  structure  analyses  were  run  using  the  SOCPROG  2.4  program  (Whitehead  2009) 
+implemented in Matlab version 7.6.0. (Mathworks Inc., Natick, MA). A day was considered 
+as the sampling period to avoid demographic effects. We restricted the analysis to adults 
+sighted on more than 10 sampling periods (i.e., survey days) to avoid bias linked to sample 
+size and rarely encountered individuals. Calves (i.e., individuals whose age was estimated 
+to be <2 yr due to known birth year according to their first sighting, presence of fetal folds 
+or lines, size and close and repetitive contact with the mother) were excluded as their social 
+affiliations are linked to their mothers. Opportunistic photo-identification data collected in 
+2013  were  used  to  help  determine  the  year  of  birth  of  the  calves.  Individuals  were 
+considered as associates if they were observed in the same group during a sampling period.  
+
+ 
+
+Figure 1. Map of the study area showing the home range (95% fixed kernel density) and the core 
+area (50% fixed kernel density) of the dolphin community and the locations of the groups sighted in 
+2014–2015 classified in three group size classes. The area corresponding to the PNMI (Parc naturel 
+marin d’Iroise) is indicated. The areas where resident bottlenose dolphin communities are observed 
+are indicated in the general map, i.e., “Molene” for the Molene archipelago community and “NB 
+Gulf” for the Normano-Breton Gulf community. 
+ 
+ 
+The  HWI  was  used  to  quantify  the  strength  of  associations  between  pairs  of  individual 
+dolphins. This index minimizes bias when all the associates are not identified (Cairns and 
+Schwager 1987). Although efforts were made to photograph all individuals present in the 
+group,  using  the  HWI  accounted  for  eventually  missed  individuals  and  is  therefore 
+conservative.  Additionally,  this  index  is  commonly  used  in  bottlenose  dolphin  social 
+structure analyses, allowing comparisons among studies (e.g., Lusseau et al. 2003, Augusto 
+et al. 2011, Daura-Jorge et al. 2012, Louis et al. 2015). The coefficient of variation of the 
+HWI (S, the social differentiation) and the correlation coefficient of the true and estimated 
+association  matrices  (r)  were  estimated  using  maximum  likelihood  procedures.  A  social 
+differentiation of less than 0.3 indicates a homogenous society, and values of more than 
+0.5 indicate a well differentiated society. Coefficient r indicates the power of the analysis 
+to represent the true social structure, with 0 indicating an inaccurate representation and 1 
+an  excellent  representation.  Standard  errors  (SE)  were  calculated  for  r  and  S  from 
+bootstraps  with  1,000  replications.  A  Monte  Carlo  permutation  test  was  conducted  to 
+
+ 
+determine  whether  observed  association  indices  were  higher  than  expected  by  chance 
+(Bejder et al. 1998; Whitehead 1999, 2008). The matrix of observed association indices was 
+permutated within sampling periods until P stabilized at 10,000 permutations with 1,000 
+flips. A higher standard deviation (SD) of the observed association indices in comparison 
+with  the  SD  of  permutated  data  indices  indicates  that  preferred  and/or  avoided 
+associations are present in the community (Whitehead 1999, 2008). The social structure of 
+the community was then examined using a hierarchical cluster analysis with the average 
+linkage  algorithm  on  the  association  data.  A  cluster  with  a  cophenetic  correlation 
+coefficient  (CCC)  higher  than  0.8  indicates  a  good  representation  of  social  structure 
+(Whitehead 2008). We tested whether there was any subdivision in the community using 
+modularity coefficient, Q, (Newman 2004, Whitehead 2008). Modularity was defined as 
+the difference between the proportion of the total association measured within clusters 
+vs. the expected proportion if pairwise association indices were randomly distributed. A 
+modularity coefficient ≥0.3 indicates significant division among clusters (Newman 2004). 
+We also displayed the social structure as a sociogram showing association indices between 
+individuals that are ≥0.5. 
+
+Home range was estimated for the entire community using the fixed kernel-density method 
+(Worton 1989) in R 3.2.3 (R Core Team 2015) using the adehabitatHR package (Calenge 
+2006). The data were the same as those used for social structure analyses (i.e., we only 
+kept the first sighting if a group was sighted more than once during a day and excluded 
+groups  for  which  no  photos  were  taken  to  avoid  duplicates).  The  resolution  of  the 
+smoothing parameter (i.e., the bandwidth value) was estimated using the ad hoc method. 
+The  home  range  was  defined  using  a  95%  contour  line  and  the  core  area  using  a  50% 
+contour line. 
+Field work was carried out all year round (4 surveys in the winter, 5 in spring, 15 in summer, 
+and 4 in autumn; Fig. 2). Eighty groups were sighted during 28 sampling days (dolphins 
+were sighted during each survey). Thirteen groups were excluded as they were resightings 
+of the same group observed earlier in the day. Seven groups were discarded because no 
+photos were taken or the conditions (i.e., individuals showed boat avoidance behavior or 
+currents were particularly strong) made it too difficult to get good quality photographs, 
+and four groups were excluded because they did not include individuals sighted in more 
+than 10 d. Thus, 56 groups sighted during 25 sampling days were included in the analysis. 
+During a survey day, one main large group was typically observed, with a mean number of 
+16.4 identified individuals (SD = 5.2) as well as smaller subgroups of one or a few individuals 
+(x = 2.7, SD = 1.9). 
+Thirty-three  dolphins  were  identified  over  the  study  period  (2014–2015)  including  24 
+adults  or  subadults  (referred  as  adults  thereafter)  and  9  calves.  The  discovery  curve 
+indicated that all adults were rapidly identified after the first surveys (Fig. 2). Census size 
+was  29  individuals,  including  24  adults  and  5  calves  in  2014  (mark-recapture  analyses 
+resulted  in  exactly  the  same  estimation,  Louis  and  Ridoux  2015),  and  31  individuals 
+including 24 adults and 7 calves in 2015. All 24 adults sighted in 2014 were resighted in 
+2015, suggesting interannual site fidelity. Two adults out of 24 were excluded from the 
+social structure analyses as they did not meet the more than 10 sampling day threshold 
+(they were only observed on 3 and 8 d, respectively). For the 22 remaining individuals, the 
+mean number of sampling days where an individual was recorded was 17.1 (SD = 3.1). 
+The  estimated  social  differentiation  (S)  was  0.47  (SE  =  0.06),  indicating  a  moderately  to 
+well-differentiated  society.  The  correlation  coefficient  (r)  of  the  true  and  estimated 
+association matrices was 0.87 (SE = 0.03), indicating a good power to represent the social 
+
+ 
+structure. The mean HWI was 0.50 (SD = 0.27). This SD was higher than that obtained for 
+the  permuted  data  set  (SD  =  0.25,  P  <  0.001),  indicating  that  the  individuals  did  not 
+associate at random and that there were long-term preferred or avoided associates in the 
+community. The cluster cophenetic correlation coefficient (CCC) was 0.96, which indicates 
+an  effective  social  structure  representation  (Fig.  3a).  Most  individuals  were  sighted 
+together 50% of the time (Fig. 3b). In addition, both the cluster diagram and the sociogram 
+indicate one core social entity composed by the majority of the individuals, a smaller entity 
+of  three  individuals  and  more  solitary  individuals  (Fig.  3a,  b).  However,  there  was  no 
+significant division in the community, the maximum modularity (Q) was 0.08. Including the 
+individual sighted on only eight sampling days in the analyses did not change any of the 
+results significantly (results not shown). 
+The home range of the community was 33.5 km² (95% kernel) and the core area was 5.6 
+km²  (50%  kernel,  Fig.  1).  It  should  also  be  noted  that  extensive  field  work  for  other 
+environmental or species monitoring was carried out by the MPA fieldwork team in other 
+areas around the island, further offshore from the island, and along the coast of Brittany; 
+and  the  bottlenose  dolphins  were  never  sighted  there  (MB,  personal  observation).  The 
+photo-identification  catalog  of  this  community  was  compared  with  the  catalogs  of  the 
+communities of the Molene archipelago (PNMI catalog, Brittany, France, Atlantic Ocean) 
+and of the Normano-Breton Gulf (Groupe d’Etude des Cetaces du Cotentin catalog, Brittany 
+and Normandy, France, English Channel). No matches were found. 
+The mean association index of 0.5 in this community is one of the highest ever recorded in 
+published  studies  on  bottlenose  dolphins  (mean  HWI  were  0.45  and  0.47  in  the  Sado 
+estuary and Doubtful Sound communities, respectively; Lusseau et al. 2003, Augusto et al. 
+2011) while the core home range is one of the smallest. Although no significant community 
+division has been detected, both field observations and social structure analyses indicated 
+one  main  social  group  composed  of  the  majority  of  the  individuals  that  were  tightly 
+associated  (HWI  ≥  0.5)  and  individuals  that  were  more  solitary  or  observed  in  smaller 
+groups. The co-occurrence of these contrasting grouping patterns may reflect contrasting 
+balances  between  the  costs  and  benefits  of  living  in  groups  for  different  individuals 
+(Kappeler  et  al.  2013).  The  small  groups  usually  did  not  include  calves.  It  would  be 
+interesting to determine the sex of the individuals as well as the behavioral state of each 
+group to better understand the forces driving these different grouping patterns. Individuals 
+also appeared to show strong site fidelity, and this observation should be confirmed with 
+data collected in additional years. A large amount of time has elapsed between the current 
+data  and  the  dedicated  surveys  of  the  mid-1990s;  it  was  thus  not  possible  to  reliably 
+compare the two catalogs to further investigate site fidelity. The current data set spanned 
+over  15  mo,  which  was  not  enough  to  fit  models  of  temporal  stability  of  association 
+patterns. 
+Several  factors  may  drive  the  relatively  atypical  social  structure  observed  here  for  the 
+species. First, demographic factors may play role (Lehmann and Boesch 2004). As the size 
+of this dolphin community is small, individuals may have more opportunities to associate 
+with all the other individuals. However, even if the community size is small, it is possible to 
+observe  low  average  coefficients  of  associations  if  the  typical  group  size  is  small.  As  an 
+example, the mean HWI among 35 bottlenose dolphins in an estuary in Brazil was 0.05 
+(Daura-Jorge et al. 2012). Therefore, demographic factors alone cannot explain the strong 
+associations  observed  among  individuals.  Ecological  factors,  in  particular  resource 
+availability  (food  and/or  habitat),  may  be  important  drivers  of  social  structure  variation 
+both among and within social mammal communities (Karczmarski et al. 2005, Henzi et al. 
+2009, Beck et al. 2012, Foster et al. 2012). Here, the small core area used by the community 
+
+ 
+and the site fidelity of the individuals suggested that prey may be abundant, which possibly 
+limited trophic competition among individuals. Benefits of living in a group may therefore 
+outweigh the cost, promoting strong social bonds between individuals and the use of a 
+small core area as suggested for the Sado estuary bottlenose dolphin community (Augusto 
+et al. 2011). In addition, winter conditions can be harsh as this open habitat is regularly 
+exposed to strong storms and currents. Calves were not included in the social structure 
+analyses, but were generally observed in the large main group. Two of the three calves 
+born  in  2013  disappeared  during  winter  2014–2015  (unpublished  data).  Although  data 
+were  limited  during  winter,  strong  bonds  among  individuals  may  promote  care  and 
+protection of the calves. Calf survival is positively influenced by strong and stable bonds 
+between adult females in primates and bottlenose dolphin societies (Silk et al. 2009, Frere 
+et al. 2010a). Predation is unlikely to influence association patterns as no shark bites were 
+ever recorded; this is in contrast to populations exposed to shark attacks (Heithaus 2001). 
+Kin  selection  (Hamilton  1964)  may  also  play  a  role  in  shaping  the  strong  social  bonds 
+observed in this community. Between 1994 and 2001, the size of the community increased 
+from 14 to 21 individuals, and this increase corresponded solely to new calves that stayed 
+in  the  community  (Liret  et  al.  2006),  which  is  likely  to  have  created  opportunities  for 
+associating with kin. As mentioned above, we could not compare the current data with the 
+mid-1990s to further investigate this hypothesis. To sum up, the social structure of this 
+community  might  be  shaped  by  a  combination  of  a  small  group  size,  low  trophic 
+competition, and environmental conditions. This hypothesis could be further investigated 
+by collecting environmental and behavioral data. 
+Finally,  this  study  provided  an  updated  status  on  the  census  size  of  the  Sein  Island 
+bottlenose dolphin community that has doubled in size since first census size count using 
+photo-identification data in the same area from 14 individuals in 1992 (Liret 2001) to 31 
+individuals  in  2015.  The  community  seemed,  according  to  photo-identification  data, 
+isolated  from  the  other  resident  bottlenose  dolphin  communities  in  Brittany  and 
+Normandy.  However,  information  on  genetic  connectivity  was  not  available.  The  small 
+home and core range of the community make it particularly vulnerable to anthropogenic 
+pressures, and thus increases the need to protect this habitat. This area is designated as a 
+Special Area of Conservation (SAC) as part of the Natura 2000 Network (European Union 
+Habitats  Directive,  92/43/EEC)  and  a  Marine  Natural  Park  under  the  French  regulation. 
+Long-term  demographic  monitoring  is  needed  to  carefully  assess  the  health  of  this 
+community, which is identified as one of the 16 bottlenose dolphin management units to 
+be  assessed  in  the  European  Union  (ICES  2014)  for  the  Marine  Strategy  Framework 
+Directive (MSFD, 2008/56/EC). 
+
+ 
+ 
+
+ 
+
+Figure  2.  Distribution  of  the  survey  effort  and  cumulative  number  of  identified  individuals  from 
+August 2014 to October 2015. Calves have been excluded from the cumulative number of identified 
+individuals. 
+ 
+ 
+ 
+ 
+
+ 
+
+Figure  3.  (a)  Hierarchical  cluster  diagram  of  the  half-weight  index  coefficients  between  photo-
+identified  bottlenose  dolphins  encountered  on  more  than  10  d  (n  =  22).  Cluster  cophenetic 
+correlation coefficient was 0.96. (b) Sociogram of the 22 bottlenose dolphins, association indices of 
+<0.5 are not shown. Calves have been excluded in these figures. 
+
+ 
+
+ 
+
+Acknowledgments 
+
+We thank all fieldworkers who collected data in the field. We thank Rene Swift for English revision 
+of the manuscript. We thank Francois Gally (Groupe d’Etudes des Cetaces du Cotentin) for photo-
+identification  catalog  comparison.  This  study  was  supported  by  the  Agence  des  Aires  Marines 
+Protegees. The Observatoire PELAGIS is supported by the French Ministry in charge of Environment. 
+ML was supported by Agence des Aires Marine Protegees and a Fyssen post-doctoral fellowship. 
+
+ 
+References 
+
+5:325–383. 
+
+Alexander, R. D. 1974. The evolution of social behavior. Annual Review of Ecology and Systematics 
+
+Augusto,  J.  F.,  P.  Rachinas-Lopes  and  M.  E.  Dos  Santos.  2011.  Social  structure  of  the  declining 
+resident community of common bottlenose dolphins in the Sado Estuary, Portugal. Journal of 
+the Marine Biological Association of the United Kingdom 92:1773–1782. 
+
+Beck, S., S. Kuningas, R. Esteban and A. D. Foote. 2012. The influence of ecology on sociality in the 
+
+killer whale (Orcinus orca). Behavioral Ecology 23:246–253. 
+
+Bejder,  L.,  D.  Fletcher  and  S.  Brager.  1998.  A  method  for  testing  association  patterns  of  social 
+
+animals. Animal Behaviour 56:719–725. 
+
+Bouveroux, T., and J. Mallefet. 2010. Social structure of bottlenose dolphins, Tursiops truncatus, in 
+Panama  City,  Florida.  Journal  of  the  Marine  Biological  Association  of  the  United  Kingdom 
+90:1685–1692. 
+
+Cairns,  S.  J.,  and  S.  J.  Schwager.  1987.  A  comparison  of  association  indexes.  Animal  Behaviour 
+
+35:1454–1469. 
+
+Calenge, C. 2006. The package “adehabitat” for the R software: A tool for the analysis of space and 
+
+habitat use by animals. Ecological Modelling 197:516–519. 
+
+Connor, R. C., R. Wells, J. Mann and A. Read. 2000. The bottlenose dolphin: Social relationships in a 
+fission-fusion society. Pages 91–126 in J. Mann, R. C. Connor, P. Tyack and H. Whitehead, eds. 
+Cetacean societies: Field studies of whales and dolphins. University of Chicago Press, Chicago, 
+IL. 
+
+Connor, R. C., J. J. Watson-Capps, W. B. Sherwin and M. Kr€utzen. 2011. A new level of complexity 
+in  the  male  alliance  networks  of  Indian  Ocean  bottlenose  dolphins  (Tursiops  sp.).  Biology 
+Letters 7:623–626. 
+
+Daura-Jorge, F. G., M. Cantor, S. N. Ingram, D. Lusseau and P. C. Simoes-Lopes. 2012. The structure 
+of  a  bottlenose  dolphin  society  is  coupled  to  a  unique  foraging  cooperation  with  artisanal 
+fishermen. Biology Letters 8:702–705. 
+
+Foster, E. A., D. W. Franks, L. J. Morrell, K. C. Balcomb, K. M. Parsons, A. Van Ginneken and D. P. 
+Croft. 2012. Social network correlates of food availability in an endangered population of killer 
+whales, Orcinus orca. Animal Behaviour 83:731–736. 
+
+Frere,  C.  H.,  M.  Kr€utzen,  J.  Mann,  R.  C.  Connor,  L.  Bejder  and  W.  B.  Sherwin.  2010a.  Social  and 
+genetic interactions drive fitness variation in a free-living dolphin population. Proceedings of 
+the National Academy of Sciences of the United States of America 107:19949–19954. 
+
+Frere,  C.  H.,  M.  Kr€utzen,  J.  Mann,  et  al.  2010b.  Home  range  overlap,  matrilineal  and  biparental 
+kinship drive female associations in bottlenose dolphins. Animal Behaviour 80:481–486. 
+Hamilton, W. D. 1964. The genetical evolution of social behaviour. Journal of Theoretical Biology 
+
+7:1–52. 
+
+Hammond, P. S., S. A. Mizroch and G. P. Donovan. 1990. Individual recognition of cetaceans: Use of 
+photo-identification and other techniques to estimate population parameters. Report of the 
+International Whaling Commission (Special Issue 12). 440 pp. 
+
+Heithaus, M. R. 2001. Shark attacks on bottlenose dolphins (Tursiops aduncus) in Shark Bay, Western 
+Australia: Attack rate, bite scar frequencies and attack seasonality. Marine Mammal Science 
+17:526–539. 
+
+Henzi, S. P., D. Lusseau, T. Weingrill, C. P. Van Schaik and L. Barrett. 2009. Cyclicity in the structure 
+of female baboon social networks. Behavioral Ecology and Sociobiology 63:1015–1021. 
+ICES.  2014.  Report  of  the  Working  Group  on  Marine  Mammal  Ecology  (WGMME),  10–13  March 
+
+2014, Woods Hole, MA. ICES CM 2014/ACOM:27. 232 pp. 
+
+Kappeler, P. M., L. Barrett, D. T. Blumstein and T. H. Clutton-Brock. 2013. Constraints and flexibility 
+in mammalian social behaviour: Introduction and synthesis. Philosophical Transactions of the 
+Royal Society B-Biological Sciences 368:20120337. 
+
+Karczmarski,  L.,  B.  Wursig,  G.  Gailey,  K.  W.  Larson  and  C.  Vanderlip.  2005.  Spinner  dolphins  in  a 
+remote Hawaiian atoll: Social grouping and population structure. Behavioral Ecology 16:675–
+685. 
+
+ 
+Krause, J., and G. D. Ruxton. 2002. Living in groups. Oxford University Press, Oxford, U.K. 
+Kreutzen, M., W. B. Sherwin, R. C. Connor, L. M. Barre, T. Van De Casteele, J. Mann and R. Brooks. 
+2003.  Contrasting  relatedness  patterns  in  bottlenose  dolphins  (Tursiops  sp.)  with  different 
+alliance strategies. Proceedings of the Royal Society B-Biological Sciences 270:497–502. 
+Lehmann,  J.,  and  C.  Boesch.  2004.  To  fission  or  to  fusion:  Effects  of  community  size  on  wild 
+chimpanzee (Pan troglodytes verus) social organization. Behavioral Ecology and Sociobiology 
+56:207–216. 
+
+Liret, C. 2001. Domaine vital, utilisation de l’espace et des ressources: Les grands dauphins, Tursiops 
+truncatus  de  l’^ıle  de  Sein  [Home  range,  habitat  and  resource  use:  Bottlenose  dolphins, 
+Tursiops  truncatus  of  l’^ıle  de  Sein].  Ph.D.  dissertation,  University  of  Bretagne  Occidentale, 
+Brest, France. 155 pp. 
+
+Liret, C., M. E. Baines, P. G. H. Evans, F. Gourmelon, I. Le Berre, P. Hammond and B. Wilson. 2006. 
+TURSIOPS: Reseau europeen d’etude des grands dauphins [TURSIOPS: European network of 
+bottlenose dolphin studies]. INTERREG IIC Programme project report. 63 pp. 
+
+Louis, M., and V. Ridoux. 2015. Suivi des grands dauphins et des petits cetaces dans le Parc naturel 
+marin d’Iroise: Analyse des donnees [Monitoring of bottlenose dolphins and small cetaceans 
+in  the  Parc  natural  marin  d’Iroise:  Data  analyses].  Convention  n°  920/  UMS  3462/PNMI. 
+Observatoire Pelagis, La Rochelle, France. 30 pp. 
+
+Louis, M., F. Gally, C. Barbraud, et al. 2015. Social structure and abundance of coastal bottlenose 
+dolphins,  Tursiops  truncatus,  in  the  Normano-Breton  Gulf,  English  Channel.  Journal  of 
+Mammalogy 96:481–493. 
+
+Lusseau, D., K. Schneider, O. J. Boisseau, P. Haase, E. Slooten and S. M. Dawson. 2003. The bottlenose 
+dolphin community of Doubtful Sound features a large proportion of longlasting associations: 
+Can  geographic  isolation  explain  this  unique  trait?  Behavioral  Ecology  and  Sociobiology 
+54:396–405. 
+
+Newman, M. E. J. 2004. Analysis of weighted networks. Physical. Review E70:056131. 
+R  Core  Team.  2015.  R:  A  language  and  environment  for  statistical  computing.  R  Foundation  for 
+
+Statistical Computing, Vienna, Austria. 
+
+Rubenstein,  D.  I.,  and  R.  W.  Wrangham.  1986.  Ecological  aspects  of  social  evolution:  Birds  and 
+
+mammals. Princeton University Press, Princeton, NJ. 
+
+Silk, J. B., S. C. Alberts and J. Altmann. 2003. Social bonds of female baboons enhance infant survival. 
+
+Science 302:1231–1234. 
+
+Silk, J. B., J. C. Beehner, T. J. Bergman, et al. 2009. The benefits of social capital: Close social bonds 
+among  female  baboons  enhance  offspring  survival.  Proceedings  of  the  Royal  Society  B-
+Biological Sciences 276:3099–3104. 
+
+van Schaik, C. P. 1989. The ecology of social relationships amongst female primates. Pages 195–218 
+
+in V. Standen and R. A. Foley, eds. Comparative socioecology. Blackwell, Oxford, U.K. 
+
+Wells,  R.  S.,  M.  D.  Scott  and  A.  B.  Irvine.  1987.  The  social  structure  of  free-ranging  bottlenose 
+dolphins. Pages 247–305 in H. Genoways, ed. Current mammalogy. Plenum Press, New York, 
+NY. 
+
+Whitehead, H. 1999. Testing association patterns of social animals. Animal Behaviour 57:26– 229. 
+Whitehead, H. 2008. Analyzing animal societies: Quantitative methods for vertebrate social analysis. 
+
+Whitehead, H. 2009. SOCPROG programs: Analysing animal social structures. Behavioral Ecology and 
+
+University of Chicago Press, Chicago, IL. 
+
+Sociobiology 63:765–778. 
+
+Wiszniewski,  J.,  S.  J.  Allen  and  L.  M.  M€oller.  2009.  Social  cohesion  in  a  hierarchically  structured 
+embayment population of Indo-Pacific bottlenose dolphins. Animal Behaviour 77:1449–1457. 
+Wiszniewski,  J.,  D.  Lusseau  and  L.  M.  M€oller.  2010.  Female  bisexual  kinship  ties  maintain  social 
+
+cohesion in a dolphin network. Animal Behaviour 80:895–904. 
+
+Wiszniewski, J., S. Corrigan, L. B. Beheregaray and L. M. M€oller. 2012. Male reproductive success 
+increases  with  alliance  size  in  Indo-Pacific  bottlenose  dolphins.  Journal  of  Animal  Ecology 
+81:423–431. 
+
+ 
+Wittemyer, G., I. Douglas-Hamilton and W. M. Getz. 2005. The socioecology of elephants: Analysis 
+of the processes creating multitiered social structures. Animal Behaviour 69:1357–1371. 
+Worton, B. J. 1989. Kernel methods for estimating the utilization distribution in home-range studies. 
+
+Ecology 70:164–168. 
+
+ 
+
+

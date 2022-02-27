@@ -1,0 +1,498 @@
+a
+
+ISSN 0101-2061 (Print)
+ISSN 1678-457X (Online)
+
+Food Science and Technology
+
+OI: D
+
+https://doi.org/10.1590/fst.26619
+
+Quality of potato CV. innovator submitted refrigeration and recondition
+, Kharen Priscilla de Oliveira Salomão PETRUCCI1, Mateus de Paula GOMES2, 
+Ariana Mota PEREIRA1* 
+
+Dreice Nascimento GONÇALVES1, Renata Ranielly Pedroza CRUZ1, Fernanda Cristina Silva RIBEIRO1, Fernando Luiz FINGER1
+
+Abstract
+The objective of this study was to determine the storage efficiency and reconditioning of potato cv. Innovator for processing. 
+Tubers were stored at 6, 7 and 8 °C in the dark for 30, 60, 90, 120 and 150 days and reconditioned at 15 °C for 15 days. TRS and 
+RS were reduced as storage temperature increased from 6 + 15 °C to 8 + 15 °C. Regardless of temperature and storage time, sugar 
+contents were suitable for industry; however non-enzymatic browning remained in category 2 for up to 60, 90 and 150 days in 
+tubers stored at 6 + 15 °C, 7 + 15 °C and 8 + 15 °C, respectively. Starch was influenced by storage time, despite the absence of 
+temperature effect. Regardless of the temperature, sprouting started at 90 days, but the growth of shoots was directly proportional 
+to the increase in temperature. The PPO and POD increased at the beginning of storage but did not cause darkening before the 
+frying. Reduction in storage temperature followed by reconditioning did not delay the onset of sprouting, but reduced the size 
+of sprouts, maintained adequate sugar levels, however it promoted non-enzymatic browning.
+
+Keywords: sprout; reducing sugars; reconditioning.
+
+Practical Application: Determination of temperature and ideal storage time for potato cv. Innovator.
+
+1 Introduction
+
+Potato  plays  an  important  role  in  the  world  economy 
+because is one of the most consumed staple food in the diet of 
+many countries. The processed potato market is on the rise due 
+to changes in the population’s eating habits, who seek products 
+that  are  easy  to  be  prepared.  For  the  constant  supply  of  raw 
+material for the industry, the prolonged refrigerated storage of 
+the tubers is carried out.
+
+Potato tubers are in general stored at 8 to 10 °C (Wiberley-Bradf
+ord  et  al.,  2016).  The  objective  of  the  low  temperature  is  to 
+reduce sprouting, loss of water and infection by microorganisms 
+(Chen et al., 2012). However, within this temperature range, there 
+is a high incidence of diseases and sprouting (Wiberley-Bradford 
+et al., 2016). Therefore, storage is necessary at lower temperatures.
+
+Nevertheless, when potato tubers are stored at temperatures below 
+8 °C, they accumulate glucose and fructose (RS) (Wiberley-Bradf
+ord et al., 2016) a physiological disorder called cold-induced 
+sweetening (CIS). The carbonyl or ketone group from RS reacts 
+with the amino group of the amino acids, mainly with asparagine, 
+in a non-enzymatic reaction (Maillard reaction). This reaction 
+results in formation of the melanoidin pigments during frying, 
+causing the darkening of the fried products (Amy et al., 2016). 
+In addition, other reactions occur during this process leading 
+to the formation of acrylamide (Amy et al., 2016).
+
+Acrylamide was classified as a likely carcinogenic substance 
+to humans by the International Agency for Research on Cancer 
+(Pelucchi  et  al.,  2011)  and,  a  category  2  carcinogen  by  the 
+European Union (Bethke & Bussan 2013). Studies suggest that 
+55% of acrylamide consumed in a typical American diet may be 
+
+Received 23 Oct., 2019  
+Accepted 27 Jan., 2020
+1Departamento de Fitotecnia, Universidade Federal de Viçosa – UFV, Viçosa, MG, Brasil 
+2Departa mento de Solos, Universidade Federal de Viçosa – UFV, Viçosa, MG, Brasil
+*Corresponding author: ariana.mota@ufv.br
+
+derived from potato products (Katz et al., 2012). In potato, there 
+is a direct relationship between the reduction of sugar contents 
+in raw tubers and the amount of produced acrylamide in fried 
+products (Bethke & Bussan, 2013).
+
+An alternative to reduce the accumulation of sugars would 
+be the reconditioning at a higher temperature after the long term 
+storage and before processing, in order to reverse the metabolism 
+of carbohydrates. However, the effectiveness of reconditioning 
+depends on the cultivar, temperature and duration of cold storage 
+(Knowles et al., 2009).
+
+In addition to the accumulation of sugars, low temperatures 
+may increase the activity of oxidative enzymes peroxidase (POD) 
+and  polyphenoloxidase  (PPO),  due  to  the  stress  condition, 
+causing the darkening before frying.
+
+The objective of this study was to determine the storage 
+efficiency and reconditioning on potato cv. Innovator for processing
+
+2 Materials and methods
+
+Tubers of cv. Innovator potato cultivar were obtained from 
+the commercial production area of   the region of Perdizes, Minas 
+Gerais (19º 21’ 10” S, 47º 17’ 34” W and 1000 m). The tubers 
+were  planted  in  May  and  hand-harvested  in  September  2017. 
+The curing was performed at 15 °C for 15 days. The temperature 
+was reduced daily by 1 °C until reaching storage temperatures. The  
+tubers were stored at 6, 7 and 8 °C (90 ± 2% RH) in the absence 
+of light for 30, 60, 90, 120 and 150 days, and after each period, 
+they were reconditioned for 15 days at 15 °C. Analyzes of total 
+
+34   34/38
+
+Food Sci. Technol, Campinas, 41(1): 34-38, Jan.-Mar. 2021
+
+Pereira et al.
+
+soluble sugars (TSS), reducing sugars (RS), non-reducing sugars 
+(NRS), post-fry color, starch, sprouting onset, peroxidase activity 
+(POD) and polyphenoloxidase (PPO) were performed in those 
+periods. The end of storage was determined by sprouting of tubers.
+
+2.1 Determination of TSS, RS and NRS
+
+TSS and RS were extracted from 5 g of tuber flesh mass. 
+Then, 80% ethanol was added at 100 °C, triturated and centrifuged 
+three times for 10 min at 1500 g. At each centrifugation, the samples 
+were filtered and the combined final volume of the filtrates was 
+standardized (Dubois et al., 1956).
+
+TSS  were  quantified  by  the  Phenol-sulfuric  method 
+(Dubois et al., 1956), using sucrose as standard. The reaction 
+was composed of 250 μL of the extract, 250 μL of 5% phenol and 
+1.25 mL of sulfuric acid. Subsequently, the reaction was placed 
+in water bath for 20 min at 30 °C. Reading was performed in 
+a  spectrophotometer  (Genesys-  10UV,  scanning)  at  490  ŋm. 
+The results were expressed in % of fresh weight.
+
+RS  were  determined  by  the  dinitrosalicylic  acid  (DNS) 
+methodology described by Gonçalves et al. (2010) with adaptations 
+using  fructose  as  standard.  The  reaction  was  composed  of 
+500 μL of DNS and 500 μL of the sample, subsequently placed 
+in water at 100 °C and after 5 min, 4 mL of distilled water was 
+added in it. The readings were performed in spectrophotometer 
+(Genesys- 10UV, scanning) at 540 ŋm and expressed in percentage.
+
+NRS were calculated by the difference between TSS and RS 
+
+2.2 Determination of French fry color
+
+To determination of French fry color, the tubers were cut 
+into sticks using a manual cutter and fried in electric fryer, with 
+capacity for 3 L (Model: Ford®) for 3 min at 180 °C. The color 
+of the post-fry potatoes was visually determined based on the 
+grading  scale  recommended  by  the  ‘United  States  Standards 
+for  Grades  of  Frozen  French  Fried  Potatoes’  (United  States 
+Department of Agriculture, 1967) and the fast food industry 
+color grading chart from 1 to 5.
+
+2.3 Determination of starch and Sprouting onset
+
+With the residue from TSS and RS extraction, the starch content 
+was determined by the methodology described by McCready et al. 
+(1950), the result being multiplied by the factor 0.9, because during 
+the formation of starch there is the removal of a water molecule.
+
+Sprouting onset was determined from the visualization of 
+
+sprouted tubers
+
+2.4 Determination of POD and PPO
+
+Enzymatic extracts of POD, PPO were obtained from 5 g of 
+potato flesh was mixed with 15 mL of extraction buffer (0.1 M 
+potassium phosphate buffer at pH 6.5). The material was ground, 
+filtered on gauze and centrifuged at 17,000 g for 30 min at 4 °C 
+(Lagrimini et al., 1997).
+
+Enzymatic activity of POD was determined adding 100 μL 
+of the enzyme extract to the reaction medium containing 0.5 mL of 
+guaiacol (1.7%), 1.5 mL of 0.1 mol L-1 potassium phosphate buffer 
+(pH 7.0) and 0.5 mL of hydrogen peroxide (1.8%). Reading was 
+performed in a spectrophotometer at 470 μm for 3 min and the 
+data expressed in units of absorbance (UA) min-1 mg-1 protein 
+(Lagrimini et al., 1997).
+
+Activity of PPO was determined in the reaction medium 
+composed  by  100  μL  enzyme  extract,  1.5  mL  of  0.1  mol  L-1 
+potassium  phosphate  buffer  (pH  7.0),  0.5  mL  catechol  and 
+0.9 mL of distilled water. The reading was performed for 3 min 
+at 420 μm and expressed in UA min-1 mg-1 protein (Kavrayan 
+& Aydemir 2001).
+
+Total protein was determined by the method of Bradford 
+
+(1976) using bovine serum albumin (BSA) as standard.
+
+2.5 Statistical analysis
+
+The experiment was conducted in split-plot design, where 
+the plots were the temperatures (6, 7 and 8 °C + 15 °C) and 
+in the subplots, the storage times (30, 60, 90, 120 and 150 days 
+of storage + 15 days of reconditioning). It was used a completely 
+randomized  design,  with  five  replications,  each  repetition 
+consisting of two tubers. For the analysis of sugars, starch and 
+enzymatic activity of POD and PPO were performed analysis 
+of variance and regression unfolding, the R version 1.1.2 was 
+used (Ferreira et al., 2013).
+
+RS and TSS decreased with increasing storage temperature 
+from 6 + 15 °C to 8 + 15 °C, from 0.06 to 0.02% and 0.19 to 0.15%, 
+respectively (Figure 1). RS content being the most affected by 
+the increase in storage temperature, as observed in the present 
+study  (Figure  1).  While  NRS  was  not  influenced  by  storage 
+temperature (Figure 1).
+
+The storage time of the tubers altered the TSS, NRS and 
+RS contents, which increased from 94.6; 30 and 104.5 days of 
+storage with values of 0.17; 0.05; 0.12% at 150 days, respectively. 
+(Figure 2).
+
+The combination of storage (6, 7 and 8 °C) with subsequent 
+reconditioning at 15 °C, even after 150 days of storage, kept the 
+RS  content  below  industry  recommended  0.12%  fresh  mass 
+(Stark et al., 2003).
+
+Regardless of storage temperature, tubers were classified into 
+category 2 at 30 and 60 days of storage (Figure 3). At 90 days of 
+storage, tubers stored at 6 + 15 °C had a darker color, classification 
+3, while those stored at 7 + 15 and 8 + 15 °C remained in category 
+2, but the tips of the chips were darker. (Figure 3). At 120 days, 
+the tubers at 6 + 15, 7 + 15 and 8 + 15 °C were classified into 
+categories 3, 3 and 2, respectively (Figure 3). At 150 days, the 
+tubers at 6 + 15 °C had a very dark color, classified in category 4, 
+while at 7 + 15 and 8 + 15 °C at 3 and 2, respectively (Figure 3).
+
+Although sugar contents remained adequate for processing, the 
+coloring after frying was adequate only until 60, 90 and 150 days 
+at temperatures of 6 + 15, 7 + 15 and 8 + 15 °C, respectively. 
+
+and expressed in percentage of the fresh weight.
+
+3 Results and discussion
+
+Food Sci. Technol, Campinas, 41(1): 34-38, Jan.-Mar. 2021
+
+35/38   35
+
+Refrigeration and recondition of potato
+
+Figure 1. Total soluble sugars (TSS), reducing sugars (RS) and non-
+reducing sugar (NRS) of potato cv. Innovator stored at 6, 7 and 8 °C 
+and subsequent reconditioned at 15 °C for 15 days. ***, significant at 
+0.1% probability.
+
+Figure 3. Post-frying coloring of potato sticks cv. Innovator stored at 6, 7 
+and 8 °C for 30, 60, 90, 120 and 150 days and subsequent reconditioned 
+at  15  °C  for  15  days.  The  numbers  below  each  photo  represent  the 
+classification according to USDA and the fast food industry, ranging 
+from 1 to 5.
+
+reaction (Maillard reaction) leading to the formation of melanoid 
+pigments (Amy et al., 2016). However, sugars are not the only 
+factors  that  affect  the  color  of  the  sticks,  but  are  also  related 
+to  the  concentration  of  amino  acids  and  total  polyphenols 
+(Freitas et al., 2012).
+
+Abong et al. (2009), by testing eight commercial cultivars and 
+three commercial clones in Kenyan, found that reconditioning 
+for  three  weeks  at  15  °C  after  being  stored  at  4  °C  for  three 
+months did not effectively reduce browning after frying. All the 
+potatoes were dark brown in color and unpleasant in taste, being 
+classified as unacceptable by the industry. Indicating that the 
+positive response to reconditioning is dependent on temperature 
+(Kumar et al., 2004) and storage time (Knowles et al., 2009). 
+Thus, in order to extend the acceptance period for toothpicks to 
+the industry, higher temperature and reconditioning time can be 
+used, reducing amino acid concentration and plifenol content. 
+In addition to the storage conditions the positive response is 
+influenced by the cultivar used, study with ‘Diamond’, ‘Hermes’, 
+‘Lady Rosetta’ and ‘Spunta’ stored at 4 or 5 °C for 30, 60, 120 
+and 150 days followed by Rebuild at 16 °C for 0, 15 and 30 days 
+showed improvement in the terrors of AR, AST and coloration 
+after  frying.  For  Hermes  cultivar,  15  days  of  reconditioning 
+were sufficient, while for Lady Rosetta cultivar 30 days, while 
+
+Figure 2. Total soluble sugars (TSS), reducing sugars (RS) and non-
+reducing sugar (NRS) of potato cv. Innovator stored at 6, 7 and 8 °C 
+for 30, 60, 90, 120 and 150 days and subsequent reconditioned at 15 °C 
+for 15 days. **, ***, significant at 1% and 0.1% probability, respectably. 
+
+Processing industries reject tubers in the above USDA 2 categories 
+(Knowles  et  al.,  2009).  RS  promote  darkening  during  frying 
+because their carbonyl or ketone group reacts with the amino 
+group of amino acids, such as asparagine, in a non-enzymatic 
+
+36   36/38
+
+Food Sci. Technol, Campinas, 41(1): 34-38, Jan.-Mar. 2021
+
+Figure 4. Starch contents in potato cv. Innovator stored at 6, 7 and 8 °C 
+for 30, 60, 90, 120 and 150 days and subsequent reconditioned at 15 °C 
+for 15 days. ***, significant at 0.1% probability.
+
+Figure 5. Sprouting onset Innovator cultivar tubers stored at 6, 7 and 
+8 °C for 90, 120 and 150 days and subsequent reconditioning at 15 °C 
+for 15 days.
+
+Pereira et al.
+
+‘Diamond’  and  ‘Spunta’  remained  below  standard  in  these 
+evaluated reconditioning periods (Kyriacou et al., 2009).
+
+Starch contents were influenced by storage time increasing 
+from 65.9 days, ranging from 19.3 to 21.9% at 30 and 150 days of 
+storage, respectively (Figure 4), despite the absence of temperature 
+effect. The potato chips industry requires tubers with starch content 
+greater than 15% for good crispness (Kita, 2002). The cultivars 
+Eliza, Pearl and Atlantic when stored at 2 °C for 10 days and 
+reconditioned at 15 °C for 10 or 20 days, showed no changes 
+in starch content (Chapper et al., 2004). Emphasizing that the 
+effectiveness of reconditioning is dependent on the cultivar.
+
+Regardless of temperature, sprouting began at 90 days of 
+storage (Figure 5), correlating with increasing TSS (Figure 2) and 
+darkening during frying (Figure 3). During sprouting, tubers 
+require more sugars to act as a respiratory substrate for sprout 
+growth and development (Bisognin et al., 2008). The increase 
+in  storage  temperature  was  directly  proportional  to  the  size 
+of  the  sprouts,  making  the  tubers  physically  unsuitable  for 
+toothpick processing (Figure 5). Storage at 6 °C with subsequent 
+reconditioning at 15 °C slowed the size of the sprouts, becoming 
+smaller at 150 days compared to 8 + 15 °C, in which the size 
+of  the  sprouts  made  tubers  physically  unsuitable  for  stick 
+potato processing. (Figure 5), the effects of temperature on the 
+physiological aging of tubers are already known, and temperature 
+reduction  is  one  of  the  best  ways  to  retard  the  physiological 
+aging of tubers (Muthoni et al., 2014).
+
+The enzymatic activity of PPO and POD was not influenced 
+by storage temperature followed by reconditioning, but had the 
+effect of storage time, where PPO and POD increased to 100.6 and 
+86.9 days, with a maximum activity of 49.36. and 7.28 min-1 mg-1 
+protein  respectively  (Figure  6).  The  increase  in  enzymatic 
+activity is due to the stress condition caused by exposure to low 
+temperatures in which the tubers were subjected. Under stress 
+conditions, reactive oxygen species are formed to prevent cellular 
+damage  by  activating  enzymatic  and  non-enzymatic  defense 
+systems, such as POD and PPO activity. Both PPO and can lead to 
+darkening before frying, PODs use H2O2 as oxidant and phenolic 
+compounds as electron donors (Barbosa et al., 2014) leading to 
+melanin formation. Despite the initial increase in oxidative enzyme 
+activity, no browning was observed on the sticks before frying.
+
+4 Conclusion
+
+Reduction in storage temperature followed by reconditioning 
+did not delay the onset of sprouting, but reduced the size of 
+sprouts, maintained adequate sugar levels, however it promoted 
+non-enzymatic browning.
+
+References
+
+Abong, G. O., Okoth, M. W., Karuri, E. G., Kabira, J. N., & Mathooko, 
+F.  M.  (2009).  Evaluation  of  selected  Kenyan  potato  cultivars  for 
+processing into french fries. Journal of Animal and Plant Sciences, 
+2, 141-147.
+
+Amy, E., Bradforda, W., Busseb, J. S., & Bethkea, P. C. (2016). Temperature-
+dependent regulation of sugar metabolism in wild-type and low-
+invertase  transgenic  chipping  potatoes  during  and  after  cooling 
+
+Figure 6. Polyphenoloxidase (PPO) and peroxidase (POD) enzymatic 
+activity of Innovator potato tubers stored at 6, 7 and 8 °C for 30, 60, 90, 
+120 and 150 days and subsequent reconditioning at 15 °C for 15 days. 
+**, significant at 1% probability.
+
+Food Sci. Technol, Campinas, 41(1): 34-38, Jan.-Mar. 2021
+
+37/38   37
+
+Refrigeration and recondition of potato
+
+for low-temperature storage. Postharvest Biology and Technology, 
+115, 60-71. http://dx.doi.org/10.1016/j.postharvbio.2015.12.020.
+Barbosa, M. R., Silva, M. M. A., Willadino, L., Ulisses, C., & Camara, T. 
+R. (2014). Geração e desintoxicação enzimática de espécies reativas 
+de oxigênio em plantas. Ciência Rural, 44(3), 453-460. http://dx.doi.
+org/10.1590/S0103-84782014000300011.
+
+Bethke, P. C., & Bussan, A. J. (2013). Acrylamide in Processed Potato 
+Products.  American  Journal  of  Potato  Research,  90(5),  403-424. 
+http://dx.doi.org/10.1007/s12230-013-9321-4.
+
+Bisognin, D. A., Freitas, S. T., Brackmann, A., Andriolo, J. L., Pereira, 
+E. I. P., Muller, D. R., & Bandinelli, M. G. (2008). Envelhecimento 
+fisiológico de tubérculos de batata produzidos durante o outono e 
+a primavera e armazenados em diferentes temperaturas. Bragantia, 
+67(1), 59-65. http://dx.doi.org/10.1590/S0006-87052008000100007.
+Bradford, M. M. (1976). A rapid and sensitive method for the quantification 
+of microgram quantities of protein utilizing the principle of protein-
+dye biding. Analytical Biochemistry, 72(1-2), 248-254. http://dx.doi.
+org/10.1016/0003-2697(76)90527-3. PMid:942051.
+
+Chapper, M., Loureiro, M. E., Mosquim, P. R., Araújo, W. L., Pereira, 
+A., Finger, F. L., & Simões, N. A. (2004). Mudanças metabólicas após 
+recondicionamento a 15 oC de tubérculos de batata armazenados a 
+baixa temperatura. Horticultura Brasileira, 22(4), 700-705. http://
+dx.doi.org/10.1590/S0102-05362004000400007.
+
+Chen, X., Song, B., Liu, J., Yang, J., He, T., Lin, Y., Zhang, H., & Xie, C. 
+(2012). Modulation of gene expression in cold-induced sweetening 
+resistant potato species Solanum berthaultii exposed to low temperature. 
+Molecular Genetics and Genomics, 287(5), 411-421. http://dx.doi.
+org/10.1007/s00438-012-0688-6. PMid:22526428.
+
+Dubois, M., Gilles, K. A., Hamilton, J. K., Rebers, P. A., & Smith, F. 
+(1956). Colorimetric method for determination of sugars and related 
+substances.  Analytical  Chemistry,  28(3),  350-356.  http://dx.doi.
+org/10.1021/ac60111a017.
+
+Ferreira,  EB.,  Cavalcanti,  PP.,  Nogueira,  DA  (2013).  ExpDes.pt: 
+Experimental Designs pacakge (Portuguese). R package version 1.1.2. 
+Vienna: R Development Core Team. 
+
+Freitas, S. T., Pereira, E. I. P., Gomez, A. C. S., Brackmann, A., Nicoloco, 
+F., & Bisognin, D. A. (2012). Processing quality of potato tubers 
+produced  during  autumn  and  spring  and  stored  at  different 
+temperatures.  Horticultura  Brasileira,  30(1),  91-98.  http://dx.doi.
+org/10.1590/S0102-05362012000100016.
+
+Gonçalves,  C.,  Rodriguez-Jasso,  R.  M.,  Gomes,  N.,  Teixeira,  J.  A., 
+&  Belo,  I.  (2010).  Adaptation  of  dinitrosalicylic  acid  method  to 
+microtiter  plates.  Analytical  Methods,  2(12),  2046-2048.  http://
+dx.doi.org/10.1039/c0ay00525h.
+
+Katz, J. M., Winter, C. K., Buttrey, S. E., & Fadel, J. G. (2012). Comparison 
+of  acrylamide  intake  from  Western  and  guideline  based  diets 
+using probabilistic techniques and linear programming. Food and 
+Chemical Toxicology, 50(3-4), 877-883. http://dx.doi.org/10.1016/j.
+fct.2011.11.006. PMid:22107988.
+
+Kavrayan,  D.,  &  Aydemir,  T.  (2001).  Partial  purification  and 
+characterization of polyphenoloxidase from peppermint (Mentha 
+piperita). Food Chemistry, 74(2), 146-154. http://dx.doi.org/10.1016/
+S0308-8146(01)00106-6.
+
+Kita, A. (2002). The influence of potato chemical composition on crisp 
+texture. Food Chemistry, 76(2), 173-179. http://dx.doi.org/10.1016/
+S0308-8146(01)00260-6.
+
+Knowles, N. R., Driskill, J. R. Jr., & Knowles, L. O. (2009). Sweetening 
+responses  of  potato  tubers  of  different  maturity  to  conventional 
+and  non-conventional  storage  temperature  regimes.  Postharvest 
+Biology and Technology, 52(1), 49-61. http://dx.doi.org/10.1016/j.
+postharvbio.2008.08.015.
+
+Kumar, D., Singh, B. P., & Kumar, P. (2004). An overview of the factors 
+affecting sugar content of potatoes. Annals of Applied Biology, 145(3), 
+247-256. http://dx.doi.org/10.1111/j.1744-7348.2004.tb00380.x.
+
+Kyriacou, M. C., Siomos, A. S., Ioannides, I. M., & Gerasopoulos, D. 
+(2009).  The  chip-processing  potential  of  four  potato  (Solanum 
+tuberosum L.) cultivars in response to long-term cold storage and 
+reconditioning. Journal of the Science of Food and Agriculture, 89(5), 
+758-764. http://dx.doi.org/10.1002/jsfa.3509.
+
+Lagrimini, L. M., Gingas, V., Finger, F. L., Rothstein, S., & Liu, T. T. Y. 
+(1997). Characterization of antisense transformed plants deficient 
+in the tobacco anionic peroxidase. Plant Physiology, 114(4), 1187-
+1196. http://dx.doi.org/10.1104/pp.114.4.1187. PMid:12223765.
+
+McCready,  R.  M.,  Guggolz,  J.,  Silviera,  V.,  &  Owens,  H.  S.  (1950). 
+Determination  of  starch  and  amylase  in  vegetable.  Analytical 
+Chemistry, 22(9), 1156-1158. http://dx.doi.org/10.1021/ac60045a016.
+
+Muthoni, J., Kabira, J., Shimelis, H., & Melis, R. (2014). Regulation 
+of  potato  tuber  dormancy:  a  review.  Australian  Journal  of  Crop 
+Science, 8(5), 754-759.
+
+Pelucchi, C., La Vecchia, C., Bosetti, C., Boyle, P., & Boffetta, P. (2011). 
+Exposure to acrylamide and human cancer-a review and metaanalysis 
+of epidemiologic studies. Annals of Oncology : Official Journal of the 
+European Society for Medical Oncology, 22(7), 1487-1499. http://
+dx.doi.org/10.1093/annonc/mdq610. PMid:21239401.
+
+Stark, J. C., Olsen, N., Kleink, O. P., Ge, F., & Love, S. L. (2003). Tuber 
+quality. In: J. C. Stark S. L. Love (Eds.), Potato production systems. 
+Aberdeen: University of Idaho. p. 329-343.
+
+United States Department of Agriculture – USDA. (1967). United states 
+standards  for  grades  of  frozen  french  fried  potatoes.  Washington: 
+USDA. p. 16.
+
+Wiberley-Bradford, A. E., Busse, J. S., & Bethke, P. C. (2016). Temperature 
+dependent regulation of sugar metabolism in wild-type and low-
+invertase  transgenic  chipping  potatoes  during  and  after  cooling 
+for low-temperature storage. Postharvest Biology and Technology, 
+115, 60-71. http://dx.doi.org/10.1016/j.postharvbio.2015.12.020.
+
+38   38/38
+
+Food Sci. Technol, Campinas, 41(1): 34-38, Jan.-Mar. 2021
+
+

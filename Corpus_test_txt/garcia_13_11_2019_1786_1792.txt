@@ -1,0 +1,1237 @@
+ 
+
+ AJCS 13(11):1786-1792 (2019)                                                                                                                      ISSN:1835-2707 
+doi: 10.21475/ajcs.19.13.11.p1567 
+ 
+Potato cultivars as a source of starch in Brazil: physicochemical characteristics of the starches 
+and their correlations 
+ 
+Emerson Loli Garcia1, Ezequiel Lopes do Carmo2, Joaquin Gonçalves de Pádua3, Célia Maria Landi 
+Franco1,4, Magali Leonel1* 
+ 
+1São Paulo State University (UNESP), Center for Tropical Roots and Starches (CERAT), Botucatu, São Paulo, Brazil 
+2Institute of Education, Science and Technology, Tocantins, Brazil 
+3Agricultural Research Corporation of Minas Gerais, Technological Center of Potatoes and Strawberries, Belo 
+Horizonte, MG, Brazil 
+4Department of Food Engineering and Technology, Institute of Biosciences, Language, and Physical Sciences, São 
+Paulo State University (UNESP), São José do Rio Preto, São Paulo, Brazil 
+ 
+*Corresponding author: magali.leonel@unesp.br 
+ 
+Abstract 
+ 
+As a source of starch, potato remains unexploited in Brazilian industries, where they typically utilize corn and cassava. Considering 
+the emerging need for using potato as a source of commercial starch, this study evaluated starches extracted from seven cultivars 
+of potatoes with limited commercial usage in Brazil. Potatoes were grown under the same environmental conditions and cultural 
+practices.  After  harvesting,  the  potato  tubers  were  processed  for  the  extraction  of  starch.  The  proximate  composition,  amylose 
+content,  resistant  starch,  minerals,  as  well  as  pasting  and  thermal  properties  of  extracted  starch  samples  were  analyzed.  Starch 
+characteristics varied with the cultivar. Using correlation analysis, we demonstrated that minerals have a robust effect on starch 
+characteristics.  Moreover,  positive  correlations  were  observed  between  phosphorus,  potassium,  magnesium,  resistant  starch, 
+viscosity  peak,  breakdown,  and  gelatinization  enthalpy.  Calcium  had  a  positive  correlation  with  the  amylose  content  and  the 
+percentage of starch retrogradation. Starch samples showed important differences in their physicochemical properties, which are 
+advantageous for industrial applications allowing a larger diversification and incentive to the production of potato for industry in 
+Brazil. 
+ 
+Keywords: Solanum tuberosum; starch; minerals, viscosity. 
+Abbreviations:  K,  potassium; Mg, magnesium; P, phosphorus; RS, resistant starch; ΔT, variation of temperature; ΔH, variation of 
+enthalpy. 
+ 
+Introduction 
+ 
+
+Agribusiness  in  the  major  industry  in  Brazil  as  a  result  of 
+environmental characteristics, such as favorable climate, soil, 
+water,  and  light  conditions.  Potato  is  a  horticultural  crop, 
+which occupies the largest cultivation area in the country. The 
+potato agribusiness involves approximately 5,000 producers in 
+30  regions  of  seven  Brazilian  states,  and  the  majority  of  the 
+national  production  is  commercialized  in  natura,  with  only 
+10% being used for industrial processing, in the form of frozen 
+potato and potato chips (Santos et al. 2016; Faostat, 2017).  
+Potato contains approximately 18% dry matter, of which 80% 
+is starch (Braun et al. 2011; Evangelista et al. 2011). Starch is 
+an  excellent  source  of  carbohydrates,  used  by  all  countries 
+with increasing consumption rates, as the country develops. In 
+Brazil, approximately 1 million ton of starch is produced from 
+maize  and  cassava,  which  accounts  for  a  turnover  of 
+approximately 500 million dollars. This industrial turnover can 
+be further increased, significantly, if the unexploited potential 
+of other starch sources is considered. 
+Starch, a source of renewable energy, has been extracted with 
+high  purity  from  several  plants  for  commercial  purposes  via 
+
+relatively simple industrial processes; widely used by-products 
+can  be  obtained  from  starch  using  chemical,  physical,  and 
+intensive 
+enzymatic  processes.  Thus,  there  have  been 
+advances in the knowledge about this polymer in recent years, 
+signifying  the  great  potential  of  technological  innovations  in 
+the agroindustry starch sector (Mesquita et al. 2016). 
+Due  to  the  high  demand  of  starch,  for  varied  uses,  the 
+potential  unmodified  starches  for  industrial  production  are 
+selected  using  two  important  criteria:  agricultural  availability 
+and  productivity;  and  the  unique  characteristics  of  each 
+starch–physical  and  chemical  properties  (Matsuguma  et  al. 
+2009). 
+following 
+This 
+considerations:  1)  Brazil  has  the  agroindustrial  potential  to 
+produce  starch  from  different  sources  and  supply  it  to  the 
+world market; 2)despite agriculturally producing considerable 
+amounts  of  potatoes,  Brazil  imports  starch;  3)  currently,  the 
+majority  of  potato  cultivars  in  Brazil  are  primarily  from 
+Europe,  making  studies  with  potatoes  of  various  origins  very 
+important  for  increasing  the  industrialization  of  this  tuber; 
+
+study  was  designed  based  on 
+
+the 
+
+ 
+
+1786 
+
+from  the  potato  cultivars  were 
+
+and4)  the  availability  of  industrial  infrastructure  in  Brazilto 
+extract starch from corn and cassava.  
+Thus,  this  study  aimed  at  processing  seven  potato  cultivars 
+that  are  still  commercially  unexploited,  to  evaluate  the 
+physicochemical  parameters  of  their  starches,  such  as 
+proximate  composition,  amylose  mineral  content,  and 
+thermal  and  pasting  properties  and  to  provide  useful 
+information to the Brazilian agroindustrial industry.  
+ 
+ 
+Results and Discussion 
+ 
+Chemical composition 
+ 
+Purity  is  an  important  quality  parameter  for  the  industrial 
+production  of  starch.  Results  of  the  characterization  of  the 
+starches  extracted 
+in 
+compliance  with  the  requirements  for  commercialization  as 
+native  starch. 
+In  addition,  the  sum  of  the  non-starch 
+components  does  not  exceed  1.2%,  indicating  high  purity 
+(Table 2). 
+In  comparison  to  the  starches  isolated  from  other  plants, 
+potato  starch  contains  high  amount  of  starch-bound 
+phosphates (Blennow et al., 2002; Noda et al., 2007; Leonel et 
+al.,  2016).  Furthermore,  potato  starch  naturally  contains 
+metal  cations  that  are  bound  to  the  phosphate  ester  groups 
+through ionic forces (Zaidul et al., 2007; Noda et al., 2014). 
+The  results  obtained  from  the  analysis  of  phosphorus, 
+potassium,  calcium,  and  magnesium  contents  in  the  starches 
+showed  significant  differences  among  the  potato  cultivars 
+(Table 2). The starches obtained from Harley Blackhell, Marcy, 
+and  Snowden  cultivars  showed  high  levels  of  these  minerals. 
+The phosphorous content in potato starches was found to be 
+the  highest,  of  all  analyzed  minerals,  also  in  agreement  with 
+the observation by Zaidul et al. (2007). 
+enzymatically 
+starch 
+During 
+phosphorylated.  The  enzyme  glucan  water  dikinase,  using 
+ATP, catalyzes starch phosphorylation at the C-6 position, and 
+phosphoglucan  water  dikinase  catalyzes  the  phosphorylation 
+at C-3 (Haebel et al., 2008). Blennow et al. (2002) showed that 
+the C-6-bound phosphate aligns well with the surface grooves 
+of  the  double-helix  and  has  a  milder  effect  on  helix  packing 
+than the C-3-bound phosphate. 
+Phosphorus  content  in  the  potato  starches  ranged  from  420 
+to 750 mg Kg-1 (Table 2). The range of the phosphorus content 
+was  similar 
+researchers 
+(Wiesenborn et al., 1994; Noda et al., 2004; Noda et al., 2006). 
+Calcium and magnesium contents ranged from 40 to 135 mg 
+Kg-1  and  30  to  70  mg  Kg-1,  respectively  (Table  2).  Potassium 
+content was high (485 to 875 mg Kg-1), as previously reported 
+by  Noda  et  al.  (2014).  All  these  prior  studies  have  reported 
+663  ppm  of  potassium,  113  ppm  of  sodium,  89  ppm  of 
+magnesium, and 99 ppm of calcium in industrial potato starch.  
+Starch  is  a  polysaccharide  containing  a  mixture  of  two 
+biopolymers:  amylose,  a  linear  fraction;  and  amylopectin,  a 
+highly  branched  fraction.  Amylose  and  amylopectin  contents 
+affect  the  starch  granule  architectures,  pasting  properties, 
+textural  attributes,  and  the  applications  for  processed  food. 
+The  amylose  content  of  the  potato  starches  ranged  from 
+28.51%  to  36.1%,  with  the  lowest  value  observed  in  starch 
+from the Beacon Chipper cultivar (Table 2). 
+Amylose content is an important characteristic for unmodified 
+starches.  Amylose  is  characterized  by  high  structural  stability 
+and ability to form films, which allows various industrial uses 
+for high-amylose starches. Moreover, starches with high levels 
+of amylose present low digestibility issues, thereby promoting 
+health benefits (Hu et al., 2016). 
+
+reported  by  other 
+
+biosynthesis, 
+
+that 
+
+its 
+
+to 
+
+is 
+
+ 
+
+1787 
+
+large 
+
+into  the 
+
+to  different 
+
+factors,  such  as 
+
+intestine  and  passes 
+
+The  amylose  content  values  are  consistent  with  those 
+reported  by  several  researchers  (Wiesenborn  et  al.,  1994; 
+Kaur et al., 2002; Singh and Kaur 2004; Kaur et al., 2007; Liu et 
+al.,  2007;  Santos  et  al.,  2016).  The  difference  in  the  amylose 
+content  among  starches  from  different  potato  cultivars  may 
+be  due 
+the  genotype, 
+environmental  conditions,  and  cultural  practices  during 
+cultivation.  
+Starch  that  is  not  hydrolyzed  by  amylolytic  enzymes  in  the 
+small 
+intestine  for 
+fermentation  is defined as resistant starch, and  its content is 
+related to the rate of digestion by amylolytic enzymes. Several 
+factors  contribute  to  this  process,  such  as  starch  source,  its 
+composition,  amylose  and  amylopectin  ratios,  amylopectin 
+chain  size  distribution,  phosphorus  content,  as  well  as 
+processing  and  storage  conditions  (Shu  et  al.,  2007;  Noda  et 
+al., 2008; Absar et al., 2009; Lu et al., 2011).  
+Data  analysis  showed  a  range  of  resistant  starch  content, 
+10.91%  to  18.69%,  with  the  lowest  and  highest  contents 
+observed  in  starches  from  BRS  Ana  cultivar  and  Harley 
+Blackhell  cultivar,  respectively  (Table  3).  This  result  can  be 
+related to the phosphorus content of the starches from these 
+cultivars.  As  amylolytic  enzymes  are  incapable  of  bypassing 
+the  phosphorylated  glucosyl  residue,  it  is  likely  that  high 
+phosphorus  content  in  starch  might  reduce  the  enzymatic 
+digestibility of raw starch (Noda et al., 2008). 
+The mineral composition of starches may be decisive for their 
+industrial  applicability,  as  the  degree  of  phosphorylation 
+determines  the  starch’s  physicochemical  properties  and  is, 
+therefore, relevant for its industrial use (Blennow et al., 2002; 
+Singh et al., 2003; Karim et al., 2007; Carpenter et al., 2012). 
+In addition, the level of divalent cations, such as calcium and 
+magnesium,  appear  to  have  a  substantial  impact  on  the 
+pasting  properties  of  starch,  presumably  by  ionically  cross-
+linking  starch  phosphate  esters  (Zaidul  et  al.,  2007;  Noda  et 
+al., 2014; Noda et al., 2015).  
+ 
+Pasting properties 
+ 
+important 
+Pasting  and  thermal  stability  are  the  most 
+functional  aspects  of  starch.  The  pasting  properties  of  the 
+potato starches tested here are presented in Table 3.  
+The  pasting  temperatures  of  isolated  starch  ranged  from 
+66.33°C (Beacon Chipper cultivar) to 69.95°C (Marlen cultivar). 
+Chung  et  al.  (2014)  previously  analyzed  the  characteristics  of 
+starches  from  different  potato  cultivars  grown  in  different 
+locations 
+the  pasting 
+temperature of isolated starch ranged from 62.2 °C to 65.8°C, 
+which are lower than those observed in our study. This could 
+be  due  to  the  amylose  content  of  the  analyzed  starches,  as 
+high  amounts  of  amylose  cause  delayed  starch  swelling, 
+thereby increasing the pasting temperature. 
+Upon measuring the temperature and time taken to reach the 
+melting  point  of  the  crystals,  we  observed  that  the  starches 
+from  the  Marcy,  Beacon  Chipper,  and  Snowden  cultivars 
+showed 
+granular 
+that 
+organization,  easy  cooking,  and  production  of  weak  gels, 
+which  may  be  of  interest  for  industrial  applications,  for 
+example, in instant foods. 
+The analyzed potato starches showed a marked peak viscosity 
+ranging  from  771.21  to  1209.22  RVU  (Table  3).  The  starch 
+from the BRS Ana cultivar had the lowest peak viscosity, which 
+may  be  related  to  its  low  phosphorus  and  high  amylose 
+content.  
+Lu  et  al.  (2011)  report  that  starches  with  high  phosphorus 
+content  tend  to  exhibit  high  viscosity  peaks  and 
+low 
+breakdowns, but an increase in phosphorus content does not 
+
+in  Canada  and 
+
+indicate  weak 
+
+characteristics 
+
+reported 
+
+that 
+
+produce  a  significant  impact  on  the  setback.  Phosphorus, 
+when covalently bound to the starch granule, because of their 
+ionic  organization,  can  assist  in  the  incorporation  of  water 
+molecules,  and  thereby  alter  the  functional  properties  of 
+starch. The amorphous fraction of the starch granules consists 
+mainly  of  amylose; 
+therefore,  several  physicochemical 
+properties of starch can be changed by varying the content of 
+this polymer (Mesquita et al., 2016). 
+Starches  from  the  Beacon  Chipper  and  Marcy  cultivars 
+presented  high  peak  viscosity  but  showed  low  resistance  to 
+heating and agitation, that is, high breakdown (Table 3). Peak 
+viscosity  demonstrates  the  ability  of  the  starch  granules  to 
+swell  during  heating.  Starches  with  high  peak  viscosity  have 
+low resistance to heat and agitation and exhibit high breakage 
+of  viscosity  during  cooking  (Singh  et  al.,  2008).  It  must  be 
+noted  that  calcium  may  have  a  possible  effect  on  these 
+properties. Noda et al. (2015) reported that starches with high 
+calcium  content  exhibit  low  peak  viscosity  and  breakdown, 
+and  a  decreased  swelling  ability.  We  observed  similar  results 
+in the starch from the Beacon Chipper cultivar, which had the 
+lowest  calcium  content  and  highest  peak  viscosity  and 
+breakdown. 
+Final  viscosity  is  an  important  parameter  in  the  definition  of 
+potential  applications  of  unmodified  potato  starches.  For 
+example, in food products such as dehydrated soups, starches 
+with  low  final  viscosity  are  desirable;  on  the  other  hand,  a 
+high final viscosity is desirable in products  such as frozen pie 
+fillings. Our analysis showed a final viscosity variation ranging 
+from 322 to 448.1 RVU for the analyzed potato starches (Table 
+3), with the highest value observed in the starch from the BRS 
+Ana  cultivar,  potentially,  due  to  its  low  phosphorus  content 
+(Table 2). 
+ 
+Thermal properties 
+ 
+The  molecular  disorder  in  starch  during  heating  in  the 
+presence  of  water  promotes  the  decomposition  of  the 
+crystalline  region;  this  molecular  disorder  can  be  analyzed 
+through differential scanning calorimetry (DSC) (Leonel  et al., 
+2016). 
+The  gelatinization  temperatures  [onset  (To),  peak  (Tp),  and 
+conclusion  (Tc)]  and  the  enthalpy  of  gelatinization  (ΔH)  of 
+potato  starches  are  shown  in  Table  4.  To,  Tp,  and  Tc  ranged 
+from  63.42°C  to  65.88°C,  66.38°C  to  68.85°C,  and  70.27°C  to 
+73.56°C, respectively. 
+The  gelatinization  temperatures  (∆T)  of  the  potato  starches 
+ranged  from  6.85°C  to  8.12ºC.  The  enthalpy  of  gelatinization 
+ranged  from  14.59  to  17.81  J  g-1  (Table  4).  ∆T  indicates  the 
+degree  of  heterogeneity  of  the  crystals  within  the  granules. 
+The gelatinization temperatures (initial and peak) can be used 
+as  a  measure  of  stability  or  completeness  of  the  crystalline 
+regions.  ∆H  reflects  the  number  of  double  helices  that  are 
+broken  during  the  gelatinization  process  (Mesquita  et  al., 
+2016).  Thus,  starch  from  the  Colorado  cultivar  showed  the 
+lowest  homogeneity  of  crystalline  area  amongst  all  analyzed 
+cultivars. 
+The  behavior  of  gelatinized  starches  during  cooling  and 
+storage is of great interest to food scientists and technologists 
+as it profoundly affects quality, acceptability, and shelf-life of 
+starch-containing foods (Karim et al., 2000).  
+During cold storage, gelatinized starch undergoes a process of 
+molecular  re-association,  resulting  in  the  formation  of  an 
+ordered  structure:  a  process  called  retrogradation.  The 
+thermal transition temperatures and enthalpy of retrograded 
+potato  starch  from  DSC  thermograms  are  presented  in  Table 
+4. 
+
+ 
+
+1788 
+
+The  onset  temperatures  of  the  starches  in  retrogradation 
+ranged from 48.90ºC to 50.53ºC. Peak temperatures  differed 
+between  the  cultivars,  ranging  from  54.78ºC  to  58.87ºC.  The 
+final  temperatures  ranged  from  62.90ºC  to  69.37ºC.  The 
+enthalpy  of  the  retrograde  starch  ranged  between  4.85  and 
+6.37  J  g-1  (Table  6).  These  results  were  similar  to  those 
+reported 
+in  other  studies  with  starches  obtained  from 
+different potato cultivars (Lu et al., 2011; Chung et al., 2014). 
+The  retrogradation  percentages  ranged  from  28.46ºC  to 
+39.83%,  with  the  highest  value  being  observed  in  the  starch 
+from the Colorado cultivar (Table 4).  
+ 
+Pearson correlation 
+ 
+A  correlation  analysis  for  potato  starch  characteristics, 
+independent  of  the  cultivar,  showed  that  minerals  are 
+correlated to important characteristics (Table 5). 
+Phosphorus,  potassium,  and  magnesium  had  positive 
+correlations  with  each  other  and  with  the  resistant  starch 
+content,  peak  viscosity,  breakdown,  and  enthalpy  of 
+gelatinization.  These  same  minerals  also  had  a  negative 
+correlation with the final viscosity. Potassium further showed 
+a positive correlation with the retrogradation tendency and a 
+negative  correlation  with  amylose,  variation  of  gelatinization 
+temperatures  (∆T),  and  percentage  of  retrogradation  (%  R). 
+The  positive  correlation  between  phosphorus  and  peak 
+viscosity, breakdown, and enthalpy of gelatinization has been 
+previously  reported  in  other  studies  (Yoneya  et  al.,  2003; 
+Karim et al., 2007).  
+Calcium,  which  negatively  correlated  with  potassium,  had  a 
+positive correlation with amylose, gelatinization temperatures 
+(To, Tp, and Tf), and percentage of retrogradation (% R). Noda 
+et  al.  (2014),  had  observed  in  the  thermal  properties  of 
+control-  and  modified-  starches  that  To  and  Tp  were  slightly 
+but significantly higher in the calcium- and in the magnesium- 
+fortified  starches  (this  study  focused  on  the  preparation  of 
+potato  starches  fortified  in  calcium  and  magnesium).  As  a 
+divalent  cation,  we  expected  magnesium 
+levels  to  be 
+correlated  to  the  starch  characteristics,  similar  to  calcium; 
+however, this was not observed in our study. 
+Some authors report that the levels of cations tend to be high 
+in potato starches with high phosphorus content and that the 
+presence  of  these  cations  strongly  affects  the  rheological 
+properties of the starches (Kainuma et al., 1978; Wiesenborn 
+et al., 1994; Chen et al., 2003; Noda et al., 2007; Zaidul et al., 
+2007).  
+Our results on correlations of minerals with pasting properties 
+agree  with  those  observed  by  Zaidul  et  al.  (2007)  in  starches 
+from  different  cultivars  of  potato.  They  showed  that  high 
+levels of sodium and potassium resulted in high values of peak 
+viscosity  and  setback.  In  contrast,  high  amounts  of  calcium 
+and  magnesium  in  the  potato  starch  resulted  in  a  low  peak 
+viscosity and high breakdown and setback. 
+The correlation analysis of the amylose content with the other 
+analyzed  characteristics  shows  that  amylose  content  was 
+positively  correlated  with  the  final  viscosity  and  peak 
+temperature  (Tp)  and  negatively  correlated  with  the  viscosity 
+peak, breakdown, and enthalpy of gelatinization.  
+Zaidul  et  al.  (2007)  showed  that  a  high  level  of  amylose 
+resulted  in  a  low  peak  viscosity  and  breakdown  in  potato 
+starches,  which  is  consistent  with  our  results.  On  the  other 
+hand, Šimková et al. (2013) showed that the amylose content 
+negatively  correlated  with  the  phosphorus  content  in  16 
+cultivars  that  were  grown  in  the  Czech  Republic;  these 
+findings were not supported by our study. 
+The  results  of  the  Pearson  analysis  for  resistant  starch 
+contents showed a positive correlation with levels of  
+
+Table 1. Characteristics of potato cultivars. 
+Cultivars 
+BRS Ana 
+
+Origin 
+Brazil-  Potato  Genetic  Improvement  Program  of 
+Embrapa and IAPAR 
+
+ 
+France 
+
+ 
+Netherlands 
+
+ 
+Colorado 
+
+ 
+Marlen 
+
+ 
+Snowden 
+
+ 
+Parentage: B5141-6 X Wischip 
+Breeder: University of Winconsin, Madison 
+
+ 
+Harley Blackhell 
+
+ 
+Parentage: B0564-8  
+USDA potato breeding program 
+
+ 
+Marcy 
+
+ 
+Beacon Chipper 
+
+ 
+Parentage: The cultivar was selected from a cross 
+between 'Atlantic' and Q155-3 
+Cornell University Potato Breeding program  
+ 
+Michigan State University, 
+Maine  Seed  Potato  Board,  and  Maine  Potato 
+Board 
+
+Characteristics 
+The tubers show oval shape, red and slightly rough 
+skin,  white  flesh  and  shallow  eyes.  It  has  a  deep 
+root system, which makes it drought-resistant 
+ 
+The tubers are elongated, oval, large and uniform. 
+The  skin  of  the  tubers  presents  a  dull  red  color 
+with light yellow flesh. 
+ 
+The tubers are oval and round-oval, with skin and 
+yellow flesh, smooth bark and semi-deep eyes. 
+ 
+Tubers  have  smooth  and  buff  skin,  oval  shape, 
+shallow  eyes.  This  cultivar  shows  high  agricultural 
+yield with large number of small tubers. 
+ 
+The  tubers  have  a  tan  to  buff  skin  color  with  a 
+netted texture, cream flesh and  a rounded shape, 
+with semi-deep eyes. 
+ 
+The  tubers  are  oval,  slightly  flattened,  with  light 
+yellow skin, shallow eyes, white pulp. It has a high 
+agricultural yield. 
+ 
+The tubers are round with yellow skin, white flesh 
+and  shallow  eyes.  It  shows  good  resistance  to 
+storage 
+impact/pressure 
+blackening. 
+
+tolerance 
+
+and 
+
+to 
+
+ 
+Table 2. Chemical composition of potato starches. 
+
+ 
+
+ 
+
+Cultivars 
+
+Snowden 
+
+Beacon 
+Chipper 
+10.4cd 
+0.14b 
+0.33a 
+0.13bc 
+0.29a 
+0.05a 
+84.75ab 
+28.51d 
+14.60b 
+477cd 
+850ab 
+40d 
+60bc 
+
+Marlen 
+
+Colorado 
+
+BRS Ana 
+
+Harley 
+Blackhell 
+10.0d 
+0.29a 
+0.32a 
+0.38a 
+0.29a 
+0.04ab 
+84.07b 
+31.93bc 
+18.69a 
+750a 
+800b 
+100bc 
+70a 
+
+Moisture (g 100g-1) 
+Ash (g 100g-1) 
+Protein (g 100g-1) 
+Fiber (g 100g-1) 
+Lipids (g 100g-1) 
+Total sugar (g 100g-1) 
+Starch 
+Amylose (%) 
+Resistant starch (%) 
+P (mg kg-1) 
+K (mg kg-1) 
+Ca (mg kg-1) 
+Mg (mg kg-1) 
+All data in the table are the means from triplicate experiments. Values within each column, marked with different superscript letters, are significantly different (p< 0.05) 
+ 
+Table 3. Pasting properties of potato starches. 
+
+11.2bcd 
+0.16b 
+0.29a 
+0.45a 
+0.29a 
+0.02b 
+85.50a 
+34.08abc 
+12.47bc 
+550c 
+600c 
+105b 
+50d 
+
+10.9bcd 
+0.02c 
+0.31a 
+0.06c 
+0.25a 
+0.05a 
+83.45bc 
+36.10a 
+10.91c 
+420d 
+505d 
+85c 
+30e 
+
+11.4bc 
+0.12b 
+0.33a 
+0.33a 
+0.23a 
+0.03ab 
+81.90e 
+34.35a 
+13.52b 
+587bc 
+485d 
+135a 
+55cd 
+
+13.0a 
+0.17b 
+0.23a 
+0.32a 
+0.25a 
+0.04ab 
+82.31c 
+31.74c 
+13.96b 
+687ab 
+875a 
+100bc 
+65ab 
+
+Viscosity (RVU) 
+
+Cultivars 
+
+Snowden 
+Harley Blackhell 
+Marlen 
+Colorado 
+BRS Ana 
+Beacon Chipper 
+Marcy 
+All data in the table are the means from triplicate experiments. Values within each column, marked with different superscript letters, are significantly different (p< 0.05) 
+ 
+ 
+
+ 
+
+Breakdown 
+947.7b 
+801.8c 
+669.8d 
+740.5cd 
+459.7e 
+999.7ab 
+1098.9a 
+
+Seatback 
+99.4d 
+76.1e 
+81.0de 
+51.6f 
+127.5c 
+201.9b 
+225.3a 
+
+Peak 
+1094.1bc 
+1063.7cd 
+993.9d 
+1045.1cd 
+771.2e 
+1167.7ab 
+1209.2a 
+
+Final 
+334.8ef 
+348.9de 
+405.1b 
+356.2d 
+448.1a 
+322.0f 
+374.0c 
+
+Marcy 
+
+11.8ab 
+0.26a 
+0.29a 
+0.27ab 
+0.30a 
+0.04ab 
+82.20c 
+28.51d 
+14.36b 
+750a 
+850ab 
+85c 
+70a 
+
+Pasting temperature 
+(°C) 
+66.9f 
+67.9d 
+70.0a 
+69.2b 
+67.5e 
+66.4g 
+68.9c 
+
+ 
+
+1789 
+
+      Table 4. Thermal properties of potato starches. 
+
+ 
+Cultivars 
+Snowden 
+Harley Blackhell 
+Marlen 
+Colorado 
+BRS Ana 
+Beacon Chipper 
+Marcy 
+ 
+ 
+Snowden 
+Harley Blackhell 
+Marlen 
+Colorado 
+BRS Ana 
+Beacon Chipper 
+Marcy 
+
+ 
+T0 (ºC) 
+63.4d 
+64.1c 
+65.3b 
+65.4ab 
+63.4d 
+63.8cd 
+65.9a 
+ 
+T0 (ºC) 
+49.1b 
+48.9b 
+49.2b 
+48.9b 
+50.5a 
+50.5a 
+50.5a 
+
+Gelatinization 
+Tp (ºC) 
+66.4c 
+67.2b 
+68.7a 
+60.6d 
+66.6bc 
+66.7bc 
+68.8a 
+Retrogradation 
+Tp (ºC) 
+55.6b 
+54.8b 
+56.2b 
+55.8b 
+55.4b 
+58.9a 
+58.9a 
+
+Tc (ºC) 
+70.3d 
+71.5bc 
+72.1b 
+73.6a 
+70.5d 
+70.9cd 
+73.2a 
+
+Tc (ºC) 
+63.9b 
+62.9b 
+68.8a 
+69.4a 
+63.6b 
+68.4a 
+68.4a 
+
+ 
+∆H (J g-1) 
+17.81a 
+17.32a 
+14.96c 
+15.99b 
+14.58c 
+16.25b 
+17.33a 
+ 
+∆H (J g-1) 
+6.14a 
+4.93cd 
+5.43b 
+6.37a 
+4.85d 
+5.15c 
+5.15c 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+%R 
+34.50bc 
+28.45f 
+36.30b 
+39.83a 
+33.30cd 
+31.73de 
+29.73ef 
+
+         All data in the table are the means from triplicate experiments. Values within each column, marked with different superscript letters, are significantly different (p< 0.05). 
+  
+phosphorus,  potassium,  and  magnesium,  as  well  as  with  the 
+viscosity  peak,  breakdown,  and  enthalpy  of  gelatinization, 
+providing evidence for the effect of phosphorus. In the potato 
+starch, the phosphate groups are attached to C6 and C3 of the 
+B  chains  of  amylopectin.  Thus,  phosphoryl-oligosaccharides 
+are  released  instead  of  glucose,  as  amylolytic  enzymes  are 
+incapable of hydrolyzing the phosphorylated glucosyl residue. 
+This  could  explain  why  the  phosphorus  content  also  affects 
+starch  digestibility  (Haebel  et  al.,  2008;  Lu  et  al.,  2012; 
+Carpenter et al., 2012). 
+Another  point  to  be  highlighted  is  the  negative  correlation 
+between  the  amylose  content  and  the  percentage  of 
+retrogradation,  suggesting  a  close  relationship  between 
+phosphorus and amylose content on this parameter. 
+It  is  reported  that,  among  the  potato  starches,  starches  with 
+high  phosphorus  levels  show  higher  RS  content  than  those 
+with medium phosphorus levels, in comparison to other tuber 
+and  root  starches,  and  that  the  amylose  content  alone  in 
+potato  starch  did  not  greatly  affect  digestibility  (Absar  et  al., 
+2009). 
+Analysis  of  pasting  and  thermal  properties  showed  positive 
+correlations  between  peak  viscosity  and  viscosity  breakage; 
+the 
+and  enthalpy  of 
+retrogradation 
+gelatinization, and a negative correlation with final viscosity.  
+Moreover,  the  enthalpy  of  gelatinization  had  a  positive 
+correlation with mineral content (phosphorus, potassium, and 
+magnesium)  and  the  percentage  of  retrogradation  of  the 
+starches; a negative correlation with amylose, highlighting the 
+to  starch 
+close  relationship  between  minerals  bound 
+molecules;  and  amylose  content  on  these  determining 
+properties for the applicability of starches. 
+Low  amylose  starches  require  high  energy  for  the  rupture  of 
+the  double  helices  of  amylopectin,  which  is  reflected  by  the 
+enthalpy of gelatinization. 
+ 
+ 
+Materials and Methods 
+ 
+Cultivation of potatoes 
+ 
+Seven  potato  cultivars  were  studied:  BRS  Ana,  Colorado, 
+Marlen,  Snowden,  Harley  Blackhell,  Beacon  Chipper,  and 
+Marcy. Table 1 shows the main characteristics of the cultivars.  
+The  cultivation  of  potato  cultivars  was  conducted  in  Pouso 
+Alegre,  State  of  Minas  Gerais,  Brazil  (latitude  -22.2341, 
+longitude  -45.9332,  22°14'3"S,  45°55'60"  W,  altitude  822m, 
+
+humid  subtropical  climate  with  hot  humid  summer  and  mild 
+winter).  The  soil  of  the  area  is  classified  as  Red-Yellow 
+Dystrophic  Latosol.  The  experimental  design  was  a 
+randomized  block  design  with  five  replicates  and  seven 
+treatments,  represented  by  potato  cultivars.  Before  planting, 
+fertilization  was  performed  using  NPK  (04-16-08)  300  kg  ha-
+1and  applied  to  the  furrow.  After  30  days  of  planting, 
+fertilization of the cover with ammonium sulfate (300 kg ha-1) 
+was  carried  out.  Irrigation  was  performed  by  spraying  when 
+necessary  and  interrupted  30  days  prior  to  the  harvest.  For 
+preventive  control  of  pests  and  diseases,  application  of 
+insecticides  was  carried  out  in  the  furrow  and  after  planting. 
+Desiccation  was  done  95  DAP  (days  after  planting)  with  the 
+herbicide  Diquat  (396  g  of  i.a.  ha-1),  and  the  harvest  was 
+performed 114 DAP. 
+ 
+Starch extraction  
+ 
+After  harvesting  the  tubers,  the  extraction  of  the  starch  was 
+performed  by  a  physical  method,  with  three  repetitions  per 
+cultivar.  Peeled  tubers  were  disintegrated  in  an  industrial 
+liquefier,  and  starch  extraction  was  performed  using  rotary 
+sieves  with  different  aperture  sizes  (0.25  to  0.088mm).  The 
+“starch milk” was purified in a centrifuge, and the pre-drying 
+and  drying  steps  performed  using  a  vacuum  filter  and  flash 
+dryer, respectively.  
+ 
+Chemical composition 
+ 
+The  starches  of  potato  cultivars  were  analyzed  to  assess 
+moisture,  ash,  lipid,  protein  (calculated  from  the  nitrogen 
+content  through  the  factor  6.25),  total  sugars,  and  starch 
+content, according to the AOAC methodologies (AOAC, 2007). 
+The  content  of  phosphorus,  potassium,  calcium,  and 
+magnesium  was  analyzed  as  described  by  Malavolta  et  al. 
+(1997). Samples of 250 mg were placed in digestion tubes, and 
+7mL of a 6:1 (v/v) solution of HNO3 and HClO4was added. The 
+tubes  were  placed  in  digestion  blocks  with  temperatures 
+ranging from 50°C to 250°C until a clear extract was obtained. 
+Subsequently,  samples  were  cooled,  and  the  volume  was 
+adjusted to 25 mL with deionized water. 
+The  phosphorus  content  was  determined  based  on  the 
+formation of the yellow complex vanado-molybdo-phosphoric 
+acid.  Four  milliliters  of  deionized  water  and  2  mL  of  the 
+mixture ammonium metavanate 0.25% (w/v) and ammonium 
+molybdate 5% (w/v) were added to a 1mL aliquot of extract. 
+
+tendency 
+
+for 
+
+ 
+
+1790 
+
+After resting for 5 min, the absorbance was measured  at 420 
+nm using a spectrophotometer (FEMTO 600S). 
+For the quantification of potassium, calcium, and magnesium, 
+0.2mL  aliquots  of  the  extract  were  added  to  19.8  mL  of 
+lanthanum oxide 0.25% (w/v), and the content of potassium, 
+calcium,  and  magnesium  was  analyzed  at  766.5,  422.7,  and 
+285.2  nm, 
+respectively,  using  an  atomic  absorption 
+spectrophotometer (Analyst 800, Perkin Elmer-USA). 
+The  amylose  content  of  the  starches  was  determined 
+according  to  the  ISO-6674  method  (ISO,  1987).  The  amylose 
+content  was  calculated  from  the  standard  curve  of  amylose, 
+and the results were expressed as percentage of amylose. The 
+resistant  starch  content  was  determined  by  the  method 
+described by Goñi et al. (1996). 
+ 
+Pasting properties 
+ 
+Pasting properties of potato starches were determined using a 
+Rapid  Visco  Analyzer  (Model  RVA  4,  Newport  Scientific  Pty. 
+Ltd.,  Warriewood,  Australia),  using  starch  suspensions  (2.5  g 
+of starch in 25 mL of water), corrected for the basis of 14% of 
+moisture.  The  program  used  was  Standard  1.  Peak  viscosity 
+(PV),  breakdown  (BD),  setback  (SB),  and  final  viscosity  (FV) 
+were measured from the pasting curve using Thermocline for 
+Windows  software  (Newport  Scientific  Pvt.,  Ltd.,  Australia) 
+(Santos et al. 2016).  
+ 
+Thermal properties 
+ 
+Starch  samples  (2.0  mg,  dry  basis)  were  weighed 
+into 
+aluminum pans, mixed with deionized water (6 μL) and sealed. 
+The  sealed  pans  were  kept  at  25ºC  for  2  h,  for  balance,  and 
+heated at a rate of 10ºC min-1 from 25ºC to 100ºC. An empty 
+aluminum  pan  was  used  as  reference.  After  running  the 
+samples  in  a  differential  scanning  calorimeter  (DSC;  Pyris  1, 
+Perkin Elmer, USA), they were refrigerated at 5ºC for 14 days 
+and  analyzed  again  under  the  same  conditions  to  determine 
+the 
+retrograded  starches.  The 
+instrument  was  calibrated  using  indium,  and  an  empty  pan 
+was used as a reference. Onset (To), peak (Tp), and conclusion 
+(Tc)  temperatures  and  enthalpy  (ΔH)  were  determined  from 
+the  DSC  thermograms  using  the  Pyris  1  software  (Perkin 
+Elmer, USA) (Santos et al. 2016). 
+ 
+Data analysis 
+ 
+All  samples  were  tested  in  triplicates,  in  each  analytical 
+technique. Analysis of variance (ANOVA) was used to conduct 
+the statistical analysis of the results with SAS (Version 9.2 for 
+Inc.,  Cary,  NC,  USA).  When 
+Windows,  SAS 
+appropriate, the difference among the means was determined 
+using  Tukey's  multiple  comparisons.  Statistical  significance 
+was  set  at  5%  level  of  probability.  Pearson  correlation 
+coefficients  were  determined  to  evaluate  the  relationship 
+between variables. 
+ 
+Conclusion 
+ 
+In  a  constantly  evolving  and  competitive  market,  a  major 
+factor  that  differentiates  an  industry  involves  the  creation  of 
+new  products  and/or  the  production  of  products  with 
+improved characteristics. Thus, the search for native starches 
+with  properties  that  meet  the  different  demands  of  the 
+consumer  market  is  of  great  significance.  The  results  of  this 
+study  show  that  the  starches  of  the  seven  potato  cultivars 
+have  a  high  degree  of  purity,  with  different  characteristics 
+regarding  the  content  of  minerals,  amylose,  and  resistant 
+
+thermal  properties  of 
+
+Institute 
+
+ 
+
+1791 
+
+starch,  and  thermal  and  pasting  properties.  Phosphorus, 
+potassium, and magnesium contents are closely related to the 
+higher viscosity peak, tendency to retrogradation, percentage 
+of resistant starch, and enthalpy of gelatinization; calcium and 
+amylose contents have an opposite effect on these properties. 
+The  information  obtained  from  this  study  can  be  useful  for 
+food-related industries in Brazil that use potato starch. 
+ 
+Acknowledgements 
+ 
+The  authors  would  like  to  thank  the  National  Council  for 
+Scientific Technological Research (CNPq)  for financial support 
+(Processes:  303373/2014-8,  302827/2017  and  168771/2017-
+9). 
+ 
+References 
+ 
+Absar  N,  Zaidul  ISM,  Takigawa  S,  Hashimoto  N,  Matsuura-
+Endo C, Yamauchi H, Noda T (2009) Enzymatic hydrolysis of 
+potato 
+amounts  of 
+phosphorus. Food Chem. 112:57-62. 
+
+containing  different 
+
+starches 
+
+AOAC Official methods of analysis, 18th ed. (2007) Association 
+of  official  analytical  chemists,  Gaithersburg,  Current 
+Through Revision 2. 
+
+Blennow A, Engelsen SB, Nielsen TH, Baunsgaard L, Mikkelsen 
+R (2002) Starch phosphorylation: A new front line in starch 
+research. Trends Plant Sci.7: 445–450.  
+
+Braun  H,  Fontes  PCR,  Busato  C,  Cecon  PR  (2011)  Macro  and 
+micronutrient  concentration  and  accumulation  in  tuber  of 
+potato cultivars as affected by nitrogen. Bragantia 70: 50-57. 
+Carpenter  M,  Joyce  N,  Butler  R,  Genet  R,  Timmerman-
+Vaughan  G  (2012)  A  mass  spectrometric  method  for 
+quantifying  C3  and  C6  phosphorylation  of  starch.  Anal 
+Biochem. 431:115-119. 
+
+Chen  Z,  Schols  HA,  Voragen  AGJ  (2003)  Starch  granule  size 
+strongly  determines  starch  noodle  processing  and  noodle 
+quality. J Food Sci. 68:1584–1589. 
+
+Chung  H-J,  Li  X-Q,  Kalinga  D,  LimS-T,  Yada  R,  Liu  Q  (2014) 
+Physicochemical  properties  of  dry  matter  and  isolated 
+starch from potatoes grown in different locations in Canada. 
+Food Res Int. 57:89–94. 
+Evangelista  RM,  Nardin, 
+
+I,  Fernandes  AM,  Soratto  RP 
+(2011)Nutritional quality and postharvest greening of tubers 
+from potato cultivars. Braz J Agric Res. 46:953-960. 
+
+FAO- Food and agriculture organization of the united  nations 
+from: 
+
+(Retrieved  10.01.17) 
+
+Faostatdatabase. 
+
+(2017) 
+http://faostat.fao.org 
+
+Goñi  I,  Garcia-Diz  L,  Manãs  E,  Saura-Calixto  F  (1996)  Analysis 
+of  resistant  starch:  a  method  for  foods  and  food  products. 
+Food Chem. 56:445–449.  
+
+Haebel S, Hejazi M, Frohberg C, Heydenreich M, Ritte G (2008) 
+Mass  spectrometric  quantification  of  the  relative  amounts 
+of  C6  and  C3  position  phosphorylated  glucosyl  residues  in 
+starch. Anal Biochem. 379:73-79.  
+
+Hu  L,  Zhenga  Y,  Peng  Y,  Yao  C,  Zhang  H  (2016)  The 
+optimization  of  isoamylase  processing  conditions  for  the 
+preparation  of  high-amylose  ginkgo  starch. 
+Int  J  Biol 
+Macromol. 86:105-111.  
+
+ISO  -  International  standardization  organization  (1987)    Rice: 
+
+determination of amylose content. ISO 6647, 5p. 
+
+Kainuma  K,  Yamamoto  K,  Suzuki  S,  TakayaT,  Fuwa  H  (1978) 
+Studies  on  structure  and  physico-chemical  properties  of 
+IV.  Structural,  chemical  and  rheological 
+starch.  Part 
+properties  of  air-classified  small  and  large  granule  potato 
+starch. J Jpn Soc Starch Sci. 25:3-11.  
+
+Karim A, Norziah MH, Seow CC (2000) Methods for the study 
+
+of starch retrogradation. Food Chem. 71:9-36.  
+
+Karim AA, Toon LC, Lee VPL, Ong WY, Fazilah A, Noda T (2007). 
+Effects  of  phosphorus  contents  on  the  gelatinization  and 
+retrogradation of potato starch. J Food Sci. 72:C132-138.  
+Kaur L, Singh N, Sodhi NS (2002) Some properties of potatoes 
+and their starches II. Morphological, thermal and rheological 
+properties of starches. Food Chem.79:183-192. 
+
+Kaur A, Singh N, Ezekiel R, Guraya HS (2007) Physicochemical, 
+thermal  and  pasting  properties  of  starches  separated  from 
+different potato cultivars grown at different locations. Food 
+Chem. 101:643-651.  
+
+Leonel  M,  Carmo EL,  Fernandes  AM,  Franco  CML,  Soratto  RP 
+(2016) Physicochemical properties of starches isolated from 
+potato  cultivars  grown  in  soils  with  different  phosphorus 
+availability. J Sci Food Agric.96:900-905.  
+
+Liu  Q,  Tarn  R,  Lynch  D,  Skjodt  NM  (2007).  Physicochemical 
+properties of dry matter and starch from potatoes grown in 
+Canada. Food Chem. 105:897-907.  
+
+Lu Z-L, Yada RY, Liu Q, Bizimungu B, Murphy A, De Koeyer D, Li 
+X-Q, Pinheiro RG (2011) Correlation of physicochemical and 
+nutritional  properties  of  dry  matter  and  starch  in  potatoes 
+grown in different locations. Food Chem. 126:1246-1253.  
+Lu Z-H, Donner E, Yada RY, Li, Q (2012) The synergistic effects 
+of  amylose  and  phosphorus  on  rheological,  thermal  and 
+nutritional properties of potato starch and gel. Food Chem. 
+133:1214-1221. 
+
+Malavolta  E,  Vitti  GC,  Oliveira  AS  (1997)  Avaliação  do  Estado 
+Nutricional  das  Plantas:  Princípios  e  Aplicações,  2  ed. 
+Associação Brasileira da Potassa e do Fosfato, Piracicaba.   
+Matsuguma LS, Lacerda LG, Schnitzler E, Carvalho Filho MAS, 
+Franco  CML,  Demiate  IM  (2009)  Characterization  of  native 
+and  oxidized  starches  of  two  varieties  of  Peruvian  carrot 
+(Arracacia  xanthorrhiza,  B.)  from  two  production  areas  of 
+Paraná state, Brazil. Braz Arch Biol Technol. 52:701-713. 
+
+Mesquita  CB,  Leonel  M,  Franco  CML,  Leonel  S,  Garcia  EL, 
+Santos  TPR  (2016)  Characterization  of  banana  starches 
+obtained from cultivars grown in Brazil.Int J Biol Macromol. 
+89:632-639.  
+
+Noda  T,  Tsuda  S,  Mori  M,  Takigawa  S,  Matsuura-Endo  C, 
+Hashimoto  N,  Yamauchi  H  (2004)  Properties  of  starches 
+from  potato  varieties  grown  in  Hokkaido.  J  Appl  Glycosci. 
+51:241–266.  
+
+Noda T, Tsuda S, Mori M, Takigawa S, Matsuura-Endo C, Kim 
+S-J, Hashimoto N, Yamauchi H (2006) Effect of potato starch 
+properties  on  instant  noodle  quality  in  wheat  flour  and 
+potato starch blends. Starch. 58:18–24.  
+
+Noda  T,  Kottearachchi  NS,  Tsuda  S,  Mori  M,  Takigawa  S, 
+Matsuura-Endo C, Kim S-J, Hashimoto N, Yamauchi H (2007) 
+Starch  phosphorus  content  in  potato  (Solanum  tuberosum 
+
+ 
+
+L.)  cultivars  and  its  effect  on  other  starch  properties. 
+Carbohydr polym. 68:793–796.  
+
+Noda T, Takigawa S, Matsuura-Endo C, Suzuki T, Hashimoto N, 
+Kottearachchi  NS,  Yamauchi  H,  Zaidul  ISM  (2008)  Factors 
+affecting  the  digestibility  of  raw  and  gelatinized  potato 
+starches. Food Chem. 110:465-470.  
+
+Noda  T,  Takigawa  S,  Matsuura-Endo  C,  Ishiguro  K,  Nagasawa 
+K,  Jinno  M  (2014)  Preparation  of  calcium-  and  magnesium-
+fortified  potato  starches  with  altered  pasting  properties. 
+Molecules 19:14556-14566.  
+
+Noda  T,  Takigawa  S,  Matsuura-Endo  C,  Ishiguro  K,  Nagasawa 
+K,  Jinno  M  (2015)  Properties  of  calcium-fortified  potato 
+starch prepared by immersion in natural mineral water and 
+its food application. J Appl Glycosci. 62:159-164. 
+
+Santos  TPR,  Leonel  M,  Garcia  EL,  Carmo  EL,  Franco,  CML 
+(2016)  Crystallinity,  thermal  and  pasting  properties  of 
+starches from different potato cultivars grown in Brazil. Int J 
+Biol Macromol. 82:144-149.  
+
+Shu XL, Jia LM, Gao JK, Song YL, Zhao HJ, Nakamura Y, Wu D 
+(2007)  The  influences  of  chain  length  of  amylopectin  on 
+resistant starch in rice (Oryza sativa L.). Starch 59:504-509. 
+Šimková  D,  Lachman  J,  Hamouz  K,  Vokal  B  (2013)  Effect  of 
+cultivar, 
+location  and  year  on  total  starch,  amylose, 
+phosphorus  content  and  starch  grain  size  of  high  starch 
+potato  cultivars  for  food  and  industrial  processing.  Food 
+Chem. 141:3872–3880.  
+
+Singh  N,  Singh  J,  Kaur  L,  Sodhi  NS,  Gill  BS 
+
+(2003) 
+Morphological,  thermal  and  rheological  properties  of 
+starches  from  different  botanical  sources  –  A  review.  Food 
+Chem. 81:219-231.  
+
+Singh N, Kaur L (2004) Morphological, thermal and rheological 
+properties of potato starch fractions varying in granule size. 
+J Sci Food Agric. 84:1241-1252.  
+
+Singh  N,  Isoro  N,  Srichuwang  S,  Noda  T,  Nishinan  K  (2008) 
+Structural,  thermal  and  viscoelastic  properties  of  potato 
+starches. Food Hydrocoll. 22:979-988.  
+
+Wiesenborn  DP,  Orr  PH,  Casper  HH,  Tacke  BK  (1994)  Potato 
+starch  behaviour  as  related  to  some  physical/chemical 
+properties. J Food Sci. 59:644–648.  
+
+Yoneya  T,  Ishibashi  K,  Hironaka  K,  Yamamoto  K  (2003) 
+Influence  of  cross-linked  potato  starch  treated  with  POCl3 
+on  DSC,  rheological  properties  and  granule  size.  Carbohydr 
+polym. 53:447–457.  
+
+Zaidul  ISM,  Norulaini  N,  Omar  AKM,  Yamauchi  H,  Noda  T 
+(2007)  Correlations  of  the  composition,  minerals,  and  RVA 
+pasting  properties  of  various  potato  starches.  Starch 
+59:269–276.  
+
+ 
+
+1792 
+
+

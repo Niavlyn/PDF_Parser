@@ -46,20 +46,9 @@ def convertPdfToTxt(filePdf, fileTxt):
     command = 'pdf2txt.py -o ' + fileTxt + ' ' + filePdf
 
     os.system(command)
-    # output_string = StringIO()
-    # with open(path, 'rb') as in_file:
-    #     parser = PDFParser(in_file)
-    #     doc = PDFDocument(parser)
-    #     rsrcmgr = PDFResourceManager()
-    #     device = TextConverter(rsrcmgr, output_string, laparams=LAParams())
-    #     interpreter = PDFPageInterpreter(rsrcmgr, device)
-    #     for page in PDFPage.create_pages(doc):
-    #         interpreter.process_page(page)
-    # return output_string
-
 
 for i in range(len(txtFiles)) :
      with open(txtFiles[i], 'w', encoding='utf-8') as f:
          print(txtFiles[i] + " toto")
          #print(pdfFiles[i] + " aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
-         #convertPdfToTxt(pdfFiles[i], txtFiles[i])
+         convertPdfToTxt(pdfFiles[i], txtFiles[i])
