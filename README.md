@@ -34,11 +34,13 @@ Suivi de l'avancement (rendus) :
 
 Procédure d'obtention des fichiers finaux :
 -
-1. Sous Linux (non fonctionnel sous Linux, le sera lors du prochain sprint), lancer le programme srcPy/main.py. Ce programme va permettre d'effectuer les actions suivantes :
+Prérequis : Avoir installé PyPDF2 à l'aide de la commande "pip install pypdf2"
+
+1. Sous Linux ou Windows (à l'aide du WSL en utilisant python3), lancer le programme srcPy/main.py. Ce programme va permettre d'effectuer les actions suivantes :
     * Copie des fichiers du dossier Corpus_2022 au format **txt** vers le dossier Corpus_2022_txt
-    * Transformation des fichiers du dossier Corpus_2022 au format **PDF** au format txt, dans le dossier Corpus_2022_txt
+    * Transformation des fichiers du dossier Corpus_2022 du format **PDF** au format txt, dans le dossier Corpus_2022_txt
     * Récupération des métadonnées des fichiers **PDF** du dossier Corpus_2022 pour les stocker dans des fichiers **txt** dans le dossier Corpus_2022_meta
-2. Sous Windows (n'a pas été testé sous Linux, le sera lors du prochain sprint), lancer le Main.java pour obtneir les fichiers terminaux au bon format :
+2. Sous Windows (n'a pas été testé sous Linux, le sera lors du prochain sprint), lancer le Main.java pour obtenir les fichiers terminaux au bon format :
     * Nom du fichier sur 1 ligne
     * Titre sur 1 ligne
     * Auteurs sur 1 ligne
