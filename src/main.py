@@ -3,6 +3,10 @@ import os.path
 import os
 import re
 import shutil
+from PyPDF2 import PdfFileReader
+
+command = 'pip install pdf2txt'
+os.system(command)
 
 path = '../Corpus_2022/'
 pathTxt = '../Corpus_2022_txt/'
@@ -35,8 +39,6 @@ for x in allFiles:
     if regexTxt:
         shutil.copyfile(x, (pathTxt + x.split("/")[2]))
 
-
-
 def convertPdfToTxt(filePdf, fileTxt):
     #si le fichier contient un espace, penser à ajouter un \ avant le caractère
 
@@ -44,11 +46,22 @@ def convertPdfToTxt(filePdf, fileTxt):
     # rotation] [-Y normal | loose | exact][-p pagenos] [-m maxpages] [-S][-C][-n][-A][-V] [-M char_margin][-L
     # line_margin] [-W word_margin] [-F boxes_flow][-d] input.pdf...
     command = 'pdf2txt.py -o ' + fileTxt + ' ' + filePdf
-
     os.system(command)
+
+def metadonnees(path):
+    with open(path, 'rb') as f:
+        pdf = PdfFileReader(f)
+        info = pdf.getDocumentInfo()
+        number_of_pages = pdf.getNumPages()
+
+    print(info)
+    author = info.author
+    creator = info.creator
+    producer = info.producer
+    subject = info.subject
+    title = info.title
 
 for i in range(len(txtFiles)) :
      with open(txtFiles[i], 'w', encoding='utf-8') as f:
-         print(txtFiles[i] + " toto")
-         #print(pdfFiles[i] + " aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
          convertPdfToTxt(pdfFiles[i], txtFiles[i])
+         #metadonnees(pdfFiles[i])
