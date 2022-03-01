@@ -1,3 +1,4 @@
 kessler94715
-
-
+Extraction of terminology in the ﬁeld of construction
+Aucun auteur n'a pu être trouvé.
+Abstract—We describe a corpus analysis method to extractterminology from a collection of technical speciﬁcations in theﬁeld of construction. Using statistics and word n-grams analysis,we extract the terminology of the domain and then performpruning steps with linguistic patterns and internet queries toimprove the quality of the ﬁnal terminology. Results are evaluatedby using a manual evaluation carried out by 6 experts in the ﬁeld.Index Terms—terminology extraction, Internet queries, linguis-tic patterns.

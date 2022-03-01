@@ -12,20 +12,19 @@ public class Parser {
     private String authors = "";
     private String[] authorsTab;
     private String fileAbstract = "";
+    private String references = "";
 
 
     public Parser(String filePath, String metaPath) {
-        readerMeta(filePath,metaPath);
+        readerMeta(filePath, metaPath);
         reader(filePath, metaPath);
         comparator(filePath);
     }
 
     public void reader(String filePath, String fileMeta) {
 
-        System.out.println("********************************************************\n\n");
         System.out.println("FILENAME " + filePath);
         System.out.println("FILENAME META " + fileMeta);
-        System.out.println("********************************************************");
 
         try {
             File file = new File(filePath);
@@ -70,6 +69,7 @@ public class Parser {
             //TODO Récupérer le résumé
             String str = "";
             boolean foundAbstract = false;
+
             while (scanner.hasNextLine() && !foundAbstract) {
                 str = scanner.nextLine();
                 if (containsWord(str, "Abstract") || containsWord(str, "ABSTRACT")) {
@@ -94,10 +94,35 @@ public class Parser {
                 }
 
 
-                System.out.println("ABSTRACT : " + fileAbstract);
+                System.out.println("ABSTRACT : NOPE");
             } else {
                 fileAbstract = "Le résumé n'a pas pu être trouvé.";
-                System.out.println("Impossible de trouver le résumé.");
+                System.out.println("ABSTRACT : NOPE");
+            }
+
+
+            //************************************************************************
+            //Récupération de la bibliographie
+
+            boolean foundReferences = false;
+
+            while (scanner.hasNextLine() && !foundReferences) {
+                str = scanner.nextLine();
+
+                if ((containsWord(str, "References") || containsWord(str, "REFERENCES")) && str.length() < 15) {
+                    foundReferences = true;
+                }
+            }
+
+            if (foundReferences) {
+                while (scanner.hasNextLine()) {
+                    references = references + scanner.nextLine();
+                }
+                System.out.println("BIBLIOGRAPHIE : " + references);
+
+            } else {
+                references = "La bibibliographie n'a pas pu être trouvée";
+                System.out.println("BIBLIOGRAPHIE : NOPE");
             }
 
             scanner.close();
@@ -106,7 +131,7 @@ public class Parser {
         }
     }
 
-    public void readerMeta(String filePath,String metaPath) {
+    public void readerMeta(String filePath, String metaPath) {
         if (!metaPath.equals("null")) {
             File file = new File(metaPath);
             try {
@@ -122,12 +147,15 @@ public class Parser {
             } catch (FileNotFoundException e) {
                 e.printStackTrace();
             }
-            System.out.println("NOM DU FICHIER : " + fileName);
-        }else{
+        } else {
             String splitFichierTxtName = " ";
             splitFichierTxtName = filePath.split("Corpus_2022_txt")[1];
-            fileName = splitFichierTxtName.substring(1,splitFichierTxtName.length()-4);
+            fileName = splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4);
         }
+        System.out.println();
+        System.out.println("#########################################################################");
+        System.out.println();
+        System.out.println("NOM DU FICHIER : " + fileName);
     }
 
     public void comparator(String filePath) {
@@ -164,10 +192,15 @@ public class Parser {
             for (String s : metaAuthorsTab) {
                 authors = authors + s;
             }
-            System.out.println("AUTEURS : " + authors);
+            if (authors.isBlank()){
+                authors = "Aucun auteur n'a pu être trouvé.";
+                System.out.println("AUTEURS : NOPE");
+            }else{
+                System.out.println("AUTEURS : " + authors);
+            }
         } else {
             authors = "Aucun auteur n'a pu être trouvé.";
-            System.out.println(authors);
+            System.out.println("AUTEURS : NOPE");
         }
 
 
