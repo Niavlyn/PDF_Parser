@@ -1,5 +1,5 @@
 /bin/
-/.classpath/
-.PDF_Parser.iml
+/.classpath
+/PDF_Parser.iml
 /.idea/
-/.project/
+/.project
