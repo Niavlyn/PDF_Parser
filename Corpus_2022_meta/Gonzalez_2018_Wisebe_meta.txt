@@ -1,3 +1,0 @@
-Gonzalez_2018_Wisebe
-WiSeBE: Window-Based Sentence Boundary Evaluation
-Carlos-Emiliano González-Gallardo 
