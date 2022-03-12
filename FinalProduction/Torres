@@ -1,4 +1,0 @@
-Torres
-Summary Evaluation with and without References
-
-Abstract—Weevaluationa new content-based method forsystems withoutthehuman models which is used to produce system rankings.The research is carried out using a new content-basedevaluation framework called FRESA to compute a variety ofdivergences among probability distributions. We apply ourcomparison framework to various well-established content-basedevaluation measures in text summarization such as COVERAGE,theirRESPONSIVENESS, PYRAMIDSassociationsincludingtextgeneric multi-document summarization in English and French,summarization in English andfocus-based multi-documentgeneric single-document summarization in French and Spanish.summarization tasksand ROUGEin variousstudyingIndex Terms—Text summarization evaluation, content-basedevaluation measures, divergences.
