@@ -2,13 +2,16 @@ import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.TransformerException;
+
 
 public class Main {
     private ArrayList<String> fichiersTxt = new ArrayList<>();
     private ArrayList<String> fichiersMeta = new ArrayList<>();
 
 
-    public static void main(String args[]) throws IOException {
+    public static void main(String args[]) throws IOException, ParserConfigurationException, TransformerException {
 
         Main main = new Main();
         File currentDirectory = new File(System.getProperty("user.dir"));
@@ -50,9 +53,11 @@ public class Main {
                 //System.out.println("fichier meta : " + main.fichiersMeta.get(result));
                 Parser fichier = new Parser(main.fichiersTxt.get(i), main.fichiersMeta.get(result));
                 OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());
+                OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());
             } else {
                 Parser fichier = new Parser(main.fichiersTxt.get(i), "null");
                 OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());
+                OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());
             }
         }
     }
