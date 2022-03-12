@@ -1,3 +1,0 @@
-Nasr
-MACAON An NLP Tool Suite for Processing Word Lattices
-Alexis Nasr ; Frederic Bechet ; Jean-Francois Rey ; Benoit Favre ; Joseph Le Roux

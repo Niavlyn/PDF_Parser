@@ -1,3 +1,0 @@
-jing-cutepaste
-Cut and Paste Based Text Summarization
-Hongyan Jing; Kathleen R. McKeown
