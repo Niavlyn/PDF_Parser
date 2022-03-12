@@ -256,4 +256,7 @@ public class Parser {
         return fileAbstract;
     }
 
+    public String getReferences() {
+        return references;
+    }
 }

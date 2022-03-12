@@ -49,10 +49,10 @@ public class Main {
             if(result != -1) {
                 //System.out.println("fichier meta : " + main.fichiersMeta.get(result));
                 Parser fichier = new Parser(main.fichiersTxt.get(i), main.fichiersMeta.get(result));
-                OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors());
+                OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());
             } else {
                 Parser fichier = new Parser(main.fichiersTxt.get(i), "null");
-                OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors());
+                OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());
             }
         }
     }
