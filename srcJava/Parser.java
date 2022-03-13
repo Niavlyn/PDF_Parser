@@ -2,6 +2,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Parser {
 
@@ -10,14 +12,15 @@ public class Parser {
     private String[] metaAuthorsTab = {""};
     private String titleMeta = "";
     private String authors = "";
-    private String[] authorsTab;
     private String fileAbstract = "";
     private String references = "";
+    private String email = "";
 
 
     public Parser(String filePath, String metaPath) {
         readerMeta(filePath, metaPath);
         reader(filePath, metaPath);
+        findEmail(filePath);
         comparator(filePath);
     }
 
@@ -95,7 +98,7 @@ public class Parser {
                     }
 
 
-                    System.out.println("ABSTRACT : NOPE");
+                    System.out.println("ABSTRACT : " + fileAbstract);
                 } else {
                     fileAbstract = "Le résumé n'a pas pu être trouvé.";
                     System.out.println("ABSTRACT : NOPE");
@@ -103,7 +106,7 @@ public class Parser {
 
 
                 //************************************************************************
-                //Récupération de la bibliographie
+                //RECUPERATION DE LA BIBLIOGRAPHIE
 
                 boolean foundReferences = false;
 
@@ -125,12 +128,40 @@ public class Parser {
                     references = "La bibibliographie n'a pas pu être trouvée";
                     System.out.println("BIBLIOGRAPHIE : NOPE");
                 }
-            }else{
+            } else {
                 System.out.println("/!\\ --- LE FICHIER TXT EST VIDE ! --- /!\\");
             }
 
             scanner.close();
         } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void findEmail(String filePath) {
+        try {
+            File file = new File(filePath);
+            Scanner scanner = new Scanner(file);
+            //[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+
+            while (scanner.hasNextLine()){
+                Matcher m = Pattern.compile("[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+").matcher(scanner.nextLine());
+                while (m.find()) {
+                    if (email.isBlank()){
+                        email = m.group();
+                    }else {
+                        email = email + ";" + m.group();
+                    }
+                }
+            }
+
+            if (!email.isBlank()){
+                System.out.println("EMAILS : " + email);
+            }else{
+                email = "Impossible de trouver les emails des auteurs";
+                System.out.println("EMAILS : NOPE");
+            }
+            scanner.close();
+        } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
     }
@@ -152,8 +183,7 @@ public class Parser {
                 e.printStackTrace();
             }
         } else {
-            String splitFichierTxtName = " ";
-            splitFichierTxtName = filePath.split("Corpus_2022_txt")[1];
+            String splitFichierTxtName = filePath.split("Corpus_2022_txt")[1];
             fileName = splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4);
         }
         System.out.println();
@@ -194,12 +224,16 @@ public class Parser {
         */
         if (metaAuthorsTab.length > 0) {
             for (String s : metaAuthorsTab) {
-                authors = authors + s;
+                if (authors.isBlank()){
+                    authors = authors + s;
+                }else{
+                    authors = authors + ";"+ s;
+                }
             }
-            if (authors.isBlank()){
+            if (authors.isBlank()) {
                 authors = "Aucun auteur n'a pu être trouvé.";
                 System.out.println("AUTEURS : NOPE");
-            }else{
+            } else {
                 System.out.println("AUTEURS : " + authors);
             }
         } else {
@@ -258,5 +292,9 @@ public class Parser {
 
     public String getReferences() {
         return references;
+    }
+
+    public String getEmail() {
+        return email;
     }
 }

@@ -18,6 +18,7 @@ public class Main {
         System.out.println(args[0] + "----------------------------------------------------");
 
         Main main = new Main();
+
         if(args[0].equals("-t")) {
             main.withText = true;
             main.withXML = false;
@@ -62,17 +63,18 @@ public class Main {
             String splitFichierTxtName = " ";
             splitFichierTxtName = main.fichiersTxt.get(i).split("Corpus_2022_txt")[1];
             splitFichierTxtName = splitFichierTxtName.substring(1,splitFichierTxtName.length()-4);
-
+            splitFichierTxtName = splitFichierTxtName + ".txt";
             int result = main.compareText(splitFichierTxtName);
             if(result != -1) {
                 //System.out.println("fichier meta : " + main.fichiersMeta.get(result));
+
                 Parser fichier = new Parser(main.fichiersTxt.get(i), main.fichiersMeta.get(result));
-                if(main.withText){ OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());}
-                if(main.withXML){OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());}
+                if(main.withText){ OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail());}
+                if(main.withXML){OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail());}
             } else {
                 Parser fichier = new Parser(main.fichiersTxt.get(i), "null");
-                if(main.withText){ OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());}
-                if(main.withXML){OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences());}
+                if(main.withText){ OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail());}
+                if(main.withXML){OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail());}
             }
         }
     }
@@ -80,9 +82,11 @@ public class Main {
     private int compareText(String txtName) {
         int compare = -1;
         String split = "";
+        txtName = txtName.substring(0, txtName.length()-4);
         for(int i = 0; i < fichiersMeta.size(); i++) {
             split = fichiersMeta.get(i).split("Corpus_2022_meta")[1];
-            split = split.substring(1,split.length()-9);
+            split = split.substring(1,split.length()-13);
+
             if(split.equals(txtName)) {
                 compare = i;
                 break;
