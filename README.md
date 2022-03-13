@@ -23,27 +23,30 @@ Ce projet peut bien entendu progresser en dehors des horaires imposé.
 
 Avancement théorique du projet :
 -
-* Semaine 04 (24/01/2022) : Lancement du projet, mise en place des différents outils
-* Semaine 05 (31/01/2022) : Sprint 1 - Comparaison des différents PDFParser existants
-* Semaine 06 (07/02/2022) : Sprint 2 - Transformation des fichiers PDF en txt, récupération des données (NomFichier, Titre, Auteurs, Abstract) pour les stocker dans un fichier txt
+* Sprint 1 - Du 24/01/2022 au 07/01/2022 : Lancement du projet, mise en place des différents outils. Comparaison des différents PDFParser existants.
+* Sprint 2 - Du 07/02/2022 au 28/02/2022 : Transformation des fichiers PDF en txt, récupération des données (NomFichier, Titre, Auteurs, Abstract) pour les stocker dans un fichier txt.
+* Sprint 3 - Du 28/02/2022 au 14/03/2022 : Ajout d'une sortie des données au formt XML. Récupération des adresses mails des auteurs ainsi que de la bibliographie.
 
 Suivi de l'avancement (rendus) :
 -
 * ~~07/02/2022 : Dépôt du Sprint 1~~
-* 28/02/2022 : Dépôt du Sprint 2
+* ~~28/02/2022 : Dépôt du Sprint 2~~
+* ~~14/03/2022 : Dépôt du Sprint 3~~
 
-Procédure d'obtention des fichiers finaux :
+Utilisation :
 -
-Prérequis : Avoir installé PyPDF2 à l'aide de la commande "pip install pypdf2"
 
-1. Sous Linux ou Windows (à l'aide du WSL en utilisant python3), lancer le programme srcPy/main.py. Ce programme va permettre d'effectuer les actions suivantes :
-    * Copie des fichiers du dossier Corpus_2022 au format **txt** vers le dossier Corpus_2022_txt
-    * Transformation des fichiers du dossier Corpus_2022 du format **PDF** au format txt, dans le dossier Corpus_2022_txt
-    * Récupération des métadonnées des fichiers **PDF** du dossier Corpus_2022 pour les stocker dans des fichiers **txt** dans le dossier Corpus_2022_meta
-2. Sous Windows (n'a pas été testé sous Linux, le sera lors du prochain sprint), lancer le Main.java pour obtenir les fichiers terminaux au bon format :
-    * Nom du fichier sur 1 ligne
-    * Titre sur 1 ligne
-    * Auteurs sur 1 ligne
-    * Abstract sur 1 ligne
+Prérequis : 
 
+- Vous devez disposer de python3 et d'une version de JAVA égale ou supérieur à 11.
+- La commande pip pour python doit être installée.
+
+Attention, le programme fonctionne correctemment sous Linux, mais le fonctionnement du programme avec WSL sous Windows n'est pas garantit. 
+
+1. Executer depuis un terminal le script bash à l'aide de la commande ```bash scriptExecution.sh```. Par défaut, le programme génère les fichiers au format txt et au format XML.
+
+- Pour n'obtenir que des fichiers au format txt utilisez l'option ```-t```.
+- Pour n'obtenir que des fichiers au format XML utilisez l'option ```-x```.
+
+2. Les fichiers produits par le programme sont disponibles dans 2 dossiers générés, un par type de fichier : ```FinalProduction``` pour les fichiers txt et ```FinalProductionXML``` pour les fichiers XML.
 
