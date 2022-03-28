@@ -41,7 +41,7 @@ public class OutputWriterXML {
 
         String[] auteursTab = auteurs.split(";");
         String[] emailsTab = emails.split(";");
-
+ 
         if(emails.equals("Impossible de trouver les emails des auteurs") && auteurs.equals("Aucun auteur n'a pu être trouvé.") ){
             //Element baliseAuteur
             Element baliseAuteur = doc.createElement("auteur");
