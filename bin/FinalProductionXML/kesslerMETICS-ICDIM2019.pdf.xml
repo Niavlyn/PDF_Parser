@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<article>
+    <preamble>kesslerMETICS-ICDIM2019.pdf</preamble>
+    <titre>A word embedding approach to explore a collection of discussions of people in psychological distress</titre>
+    <auteurs>
+        <auteur>
+            <name>Impossible de trouver l'auteur correspondant à cet email.</name>
+            <mail>remy.kessler@univ-ubs.fr</mail>
+        </auteur>
+        <auteur>
+            <name>Impossible de trouver l'auteur correspondant à cet email.</name>
+            <mail>nicolas.bechet@irisa.fr</mail>
+        </auteur>
+        <auteur>
+            <name>Impossible de trouver l'auteur correspondant à cet email.</name>
+            <mail>gudrun.ledegen@univ-rennes2.fr</mail>
+        </auteur>
+        <auteur>
+            <name>Impossible de trouver l'auteur correspondant à cet email.</name>
+            <mail>frederic.pugniere-saavedra@univ-ubs.fr</mail>
+        </auteur>
+    </auteurs>
+    <abstract>Abstract—In order to better adapt to society, an associationhas developed a web chat application that allows anyone toexpress and share their concerns and anguishes. Several thousandanonymous conversations have been gathered and form a newcorpus of stories about human distress and social violence. Wepresent a method of corpus analysis combining unsupervisedlearning and word embedding in order to bring out the themesof this particular collection. We compare this approach with astandard algorithm of the literature on a labeled corpus andobtain very good results. An interpretation of the obtainedclusters collection conﬁrms the interest of the method.Keywords—word2vec, unsupervised learning, word embedding.</abstract>
+    <biblio>[1] D. Fassin, “Et la souffrance devint sociale,” in Critique. 680(1), 2004,[2] ——, “Souffrir par le social, gouverner par l’´ecoute,” in Politix. 73(1),pp. 16–29.2006, pp. 137–157.[3] MacQueen, J., “Some methods for classiﬁcation and analysis of multi-variate observations,” in Proceedings of the Fifth Berkeley Symposiumon Mathematical Statistics and Probability, Vol. 1: Statistics. USA:University of California Press, 1967, pp. 281–297.[4] D. Arthur and S. Vassilvitskii, “K-means++: The advantages of carefulseeding,” Proceedings of the Eighteenth Annual ACM-SIAM Symposiumon Discrete Algorithms, pp. 1027–1035, 2007.[5] L. Kaufman and P. Rousseeuw, Clustering by Means of Medoids.Delft University of Technology :the Faculty ofTechnical Mathematics and Informatics, 1987. [Online]. Available:https://books.google.fr/books?id=HK-4GwAACAAJreports of[6] G. N. Lance and W. T. Williams, “A general theory of classiﬁcatorysorting strategies1. hierarchical systems,” The Computer Journal 4, pp.373–380, 1967.&#12;</biblio>
+</article>

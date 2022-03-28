@@ -35,7 +35,6 @@ public class OutputWriterXML {
         titreFic.setTextContent(titre);
         article.appendChild(titreFic);
 
-
         //Element auteurs
         Element groupAuteurs = doc.createElement("auteurs");
         article.appendChild(groupAuteurs);
@@ -57,6 +56,12 @@ public class OutputWriterXML {
             Element email = doc.createElement("email");
             email.setTextContent(emails);
             baliseAuteur.appendChild(email);
+
+            //Element affiliation
+            Element affiliation = doc.createElement("affiliation");
+            affiliation.setTextContent(emails);
+            baliseAuteur.appendChild(affiliation);
+
         }else if(emails.equals("Impossible de trouver les emails des auteurs")){
             for (int i = 0; i < auteursTab.length; i++){
                 //Element baliseAuteur
@@ -72,6 +77,11 @@ public class OutputWriterXML {
                 Element email = doc.createElement("mail");
                 email.setTextContent("Impossible de trouver l'email correspondant à cet auteur.");
                 baliseAuteur.appendChild(email);
+
+                //Element affiliation
+                Element affiliation = doc.createElement("affiliation");
+                affiliation.setTextContent(emails);
+                baliseAuteur.appendChild(affiliation);
             }
         }else if(auteurs.equals("Aucun auteur n'a pu être trouvé.")){
             for (int i = 0; i < emailsTab.length; i++){
@@ -88,10 +98,14 @@ public class OutputWriterXML {
                 Element email = doc.createElement("mail");
                 email.setTextContent(emailsTab[i]);
                 baliseAuteur.appendChild(email);
+
+                //Element affiliation
+                Element affiliation = doc.createElement("affiliation");
+                affiliation.setTextContent(emails);
+                baliseAuteur.appendChild(affiliation);
             }
         }else{
-
-
+            
             for (int i = 0; i < emailsTab.length; i++){
                 //Element baliseAuteur
                 Element baliseAuteur = doc.createElement("auteur");
