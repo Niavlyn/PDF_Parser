@@ -15,7 +15,9 @@ import java.util.Locale;
 
 public class OutputWriterXML {
 
-    public OutputWriterXML(String path, String nomFichier, String titre, String abstracts, String auteurs, String references, String emails) throws ParserConfigurationException, TransformerException, IOException {
+    public OutputWriterXML(String path, String nomFichier, String titre, String abstracts, String auteurs,
+                           String references, String emails, String introduction, String corps, String conclusion,
+                           String discussion) throws ParserConfigurationException, TransformerException, IOException {
 
         DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
@@ -41,7 +43,7 @@ public class OutputWriterXML {
 
         String[] auteursTab = auteurs.split(";");
         String[] emailsTab = emails.split(";");
- 
+
         if(emails.equals("Impossible de trouver les emails des auteurs") && auteurs.equals("Aucun auteur n'a pu être trouvé.") ){
             //Element baliseAuteur
             Element baliseAuteur = doc.createElement("auteur");
@@ -105,7 +107,7 @@ public class OutputWriterXML {
                 baliseAuteur.appendChild(affiliation);
             }
         }else{
-            
+
             for (int i = 0; i < emailsTab.length; i++){
                 //Element baliseAuteur
                 Element baliseAuteur = doc.createElement("auteur");
@@ -158,6 +160,26 @@ public class OutputWriterXML {
         Element abstractFic = doc.createElement("abstract");
         abstractFic.setTextContent(abstracts);
         article.appendChild(abstractFic);
+
+        //Element introduction
+        Element introduction = doc.createElement("introduction");
+        introduction.setTextContent(abstracts);
+        article.appendChild(introduction);
+
+        //Element corps
+        Element corps = doc.createElement("corps");
+        corps.setTextContent(abstracts);
+        article.appendChild(corps);
+
+        //Element conclusion
+        Element conclusion = doc.createElement("conclusion");
+        conclusion.setTextContent(abstracts);
+        article.appendChild(conclusion);
+
+        //Element discussion
+        Element discussion = doc.createElement("discussion");
+        discussion.setTextContent(abstracts);
+        article.appendChild(discussion);
 
         //Element biblio
         Element biblio = doc.createElement("biblio");
