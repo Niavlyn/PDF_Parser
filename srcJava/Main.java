@@ -15,7 +15,8 @@ public class Main {
 
 
     public static void main(String args[]) throws IOException, ParserConfigurationException, TransformerException {
-        System.out.println(args[0] + "----------------------------------------------------");
+
+//        System.out.println(args[0] + "----------------------------------------------------");
 
         Main main = new Main();
 
@@ -29,6 +30,7 @@ public class Main {
             main.withText = true;
             main.withXML = true;
         }
+
 
         File currentDirectory = new File(System.getProperty("user.dir"));
         File dossierTxt = new File(currentDirectory + "/Corpus_2022_txt");

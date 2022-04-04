@@ -24,6 +24,101 @@ public class Parser {
         comparator(filePath);
     }
 
+    private void findTitle(Scanner scanner) {
+        if (scanner.hasNextLine()) {
+            title = scanner.nextLine();
+
+            if (Character.isUpperCase(title.charAt(0)) && !isAllUpper(title)) {
+                String line2 = scanner.nextLine();
+                if (!line2.equals("\n"))
+                    title = title + " " + line2;
+            } else {
+                String nextLine = scanner.nextLine();
+                while (nextLine.length() == 0) {
+                    nextLine = scanner.nextLine();
+                }
+                title = nextLine;
+                String line2 = scanner.nextLine();
+                if (!line2.equals("\n"))
+                    title = title + " " + line2;
+                if (containsWord(title, "Communicated") && containsWord(title, "by")) {
+                    String nextLine2 = scanner.nextLine();
+                    while (nextLine2.length() == 0) {
+                        nextLine2 = scanner.nextLine();
+                    }
+                    title = nextLine2;
+                    String line22 = scanner.nextLine();
+                    if (!line22.equals("\n"))
+                        title = title + " " + line22;
+                }
+            }
+
+            System.out.println("TITRE : " + title);
+
+        }
+    }
+
+    private String findAuthorAndAbstract(Scanner scanner) {
+        String str = "";
+        boolean foundAbstract = false;
+
+        while (scanner.hasNextLine() && !foundAbstract) {
+            str = scanner.nextLine();
+            if (containsWord(str, "Abstract") || containsWord(str, "ABSTRACT")) {
+                foundAbstract = true;
+            }
+        }
+        if (foundAbstract) {
+            if (str.length() > 9) {
+                fileAbstract = str;
+            }
+            boolean foundIntroduction = false;
+            while (scanner.hasNextLine() && !foundIntroduction) {
+                str = scanner.nextLine();
+                if (containsWord(str, "Introduction") || containsWord(str, "INTRODUCTION")) {
+                    foundIntroduction = true;
+                } else {
+                    fileAbstract = fileAbstract + str;
+                }
+            }
+            if (fileAbstract.length() > 3000) {
+                fileAbstract = "Le résumé n'a pas pu être trouvé.";
+            }
+
+
+            System.out.println("ABSTRACT : " + fileAbstract);
+        } else {
+            fileAbstract = "Le résumé n'a pas pu être trouvé.";
+            System.out.println("ABSTRACT : NOPE");
+        }
+        return str;
+
+    }
+
+    private void findBibliographie(Scanner scanner, String str) {
+        boolean foundReferences = false;
+
+        while (scanner.hasNextLine() && !foundReferences) {
+            str = scanner.nextLine();
+
+            if ((containsWord(str, "References") || containsWord(str, "REFERENCES")) && str.length() < 15) {
+                foundReferences = true;
+            }
+        }
+
+        if (foundReferences) {
+            while (scanner.hasNextLine()) {
+                references = references + scanner.nextLine();
+            }
+            System.out.println("BIBLIOGRAPHIE : " + references);
+
+        } else {
+            references = "La bibibliographie n'a pas pu être trouvée";
+            System.out.println("BIBLIOGRAPHIE : NOPE");
+        }
+    }
+
+
     public void reader(String filePath, String fileMeta) {
 
         System.out.println("FILENAME " + filePath);
@@ -32,110 +127,18 @@ public class Parser {
         try {
             File file = new File(filePath);
             Scanner scanner = new Scanner(file);
-            //************************************************************************************************//
-            //RECUPERATION DU TITRE
+            findTitle(scanner);
+            System.out.println("TITRE : " + title);
+            String str = findAuthorAndAbstract(scanner);
+            findBibliographie(scanner, str);
 
-            if (scanner.hasNextLine()) {
-                title = scanner.nextLine();
-
-                if (Character.isUpperCase(title.charAt(0)) && !isAllUpper(title)) {
-                    String line2 = scanner.nextLine();
-                    if (!line2.equals("\n"))
-                        title = title + " " + line2;
-                } else {
-                    String nextLine = scanner.nextLine();
-                    while (nextLine.length() == 0) {
-                        nextLine = scanner.nextLine();
-                    }
-                    title = nextLine;
-                    String line2 = scanner.nextLine();
-                    if (!line2.equals("\n"))
-                        title = title + " " + line2;
-                    if (containsWord(title, "Communicated") && containsWord(title, "by")) {
-                        String nextLine2 = scanner.nextLine();
-                        while (nextLine2.length() == 0) {
-                            nextLine2 = scanner.nextLine();
-                        }
-                        title = nextLine2;
-                        String line22 = scanner.nextLine();
-                        if (!line22.equals("\n"))
-                            title = title + " " + line22;
-                    }
-                }
-
-                System.out.println("TITRE : " + title);
-
-                //************************************************************************************************//
-                //RECUPERATION DES AUTEURS
-
-
-                //TODO Récupérer les auteurs
-                //TODO Récupérer le résumé
-                String str = "";
-                boolean foundAbstract = false;
-
-                while (scanner.hasNextLine() && !foundAbstract) {
-                    str = scanner.nextLine();
-                    if (containsWord(str, "Abstract") || containsWord(str, "ABSTRACT")) {
-                        foundAbstract = true;
-                    }
-                }
-                if (foundAbstract) {
-                    if (str.length() > 9) {
-                        fileAbstract = str;
-                    }
-                    boolean foundIntroduction = false;
-                    while (scanner.hasNextLine() && !foundIntroduction) {
-                        str = scanner.nextLine();
-                        if (containsWord(str, "Introduction") || containsWord(str, "INTRODUCTION")) {
-                            foundIntroduction = true;
-                        } else {
-                            fileAbstract = fileAbstract + str;
-                        }
-                    }
-                    if (fileAbstract.length() > 3000) {
-                        fileAbstract = "Le résumé n'a pas pu être trouvé.";
-                    }
-
-
-                    System.out.println("ABSTRACT : " + fileAbstract);
-                } else {
-                    fileAbstract = "Le résumé n'a pas pu être trouvé.";
-                    System.out.println("ABSTRACT : NOPE");
-                }
-
-
-                //************************************************************************
-                //RECUPERATION DE LA BIBLIOGRAPHIE
-
-                boolean foundReferences = false;
-
-                while (scanner.hasNextLine() && !foundReferences) {
-                    str = scanner.nextLine();
-
-                    if ((containsWord(str, "References") || containsWord(str, "REFERENCES")) && str.length() < 15) {
-                        foundReferences = true;
-                    }
-                }
-
-                if (foundReferences) {
-                    while (scanner.hasNextLine()) {
-                        references = references + scanner.nextLine();
-                    }
-                    System.out.println("BIBLIOGRAPHIE : " + references);
-
-                } else {
-                    references = "La bibibliographie n'a pas pu être trouvée";
-                    System.out.println("BIBLIOGRAPHIE : NOPE");
-                }
-            } else {
-                System.out.println("/!\\ --- LE FICHIER TXT EST VIDE ! --- /!\\");
-            }
 
             scanner.close();
-        } catch (Exception e) {
+        } catch (
+                Exception e) {
             e.printStackTrace();
         }
+
     }
 
     public void findEmail(String filePath) {
@@ -143,20 +146,20 @@ public class Parser {
             File file = new File(filePath);
             Scanner scanner = new Scanner(file);
             //[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+
-            while (scanner.hasNextLine()){
+            while (scanner.hasNextLine()) {
                 Matcher m = Pattern.compile("[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+").matcher(scanner.nextLine());
                 while (m.find()) {
-                    if (email.isBlank()){
+                    if (email.isBlank()) {
                         email = m.group();
-                    }else {
+                    } else {
                         email = email + ";" + m.group();
                     }
                 }
             }
 
-            if (!email.isBlank()){
+            if (!email.isBlank()) {
                 System.out.println("EMAILS : " + email);
-            }else{
+            } else {
                 email = "Impossible de trouver les emails des auteurs";
                 System.out.println("EMAILS : NOPE");
             }
@@ -224,10 +227,10 @@ public class Parser {
         */
         if (metaAuthorsTab.length > 0) {
             for (String s : metaAuthorsTab) {
-                if (authors.isBlank()){
+                if (authors.isBlank()) {
                     authors = authors + s;
-                }else{
-                    authors = authors + ";"+ s;
+                } else {
+                    authors = authors + ";" + s;
                 }
             }
             if (authors.isBlank()) {
