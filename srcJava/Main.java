@@ -59,7 +59,6 @@ public class Main {
             main.fichiersMeta.add(file.getAbsolutePath().toString());
         }
 
-
         for(int i = 0 ; i < main.fichiersTxt.size() ; i++){
             //System.out.println("fichier txt : " + main.fichiersTxt.get(i) + '\n');
             String splitFichierTxtName = " ";
