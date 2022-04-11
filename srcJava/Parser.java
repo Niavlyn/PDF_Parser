@@ -12,6 +12,8 @@ public class Parser {
     private String email = "";
     private String abstracts = "";
     private Scanner scanner;
+    private String conclusion;
+    private String introduction;
 
 
     public Parser(String filePath, String metaPath) {
@@ -30,10 +32,15 @@ public class Parser {
             File file = new File(filePath);
             this.scanner = new Scanner(file);
             new FindTitle(this);
+            this.scanner = new Scanner(file);
             new FindAbstract(this, scanner);
+            this.scanner = new Scanner(file);
             System.out.println("TITRE : " + title);
             new FindBibliographie(this, scanner);
+            this.scanner = new Scanner(file);
             new FindEmail(this, filePath);
+            this.scanner = new Scanner(file);
+            new FindConclusion(this, scanner);
 
 
             scanner.close();
@@ -123,6 +130,22 @@ public class Parser {
 
     public void setAbstracts(String abs) {
         this.abstracts = abs;
+    }
+
+    public String getConclusion()  {
+        return this.conclusion;
+    }
+
+    public String getIntroduction() {
+        return this.introduction;
+    }
+
+    public void setConclusion(String conclusion) {
+        this.conclusion = conclusion;
+    }
+
+    public void setIntroduction(String introduction) {
+        this.introduction = introduction;
     }
 
 
