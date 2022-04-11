@@ -41,6 +41,8 @@ public class Parser {
             new FindEmail(this, filePath);
             this.scanner = new Scanner(file);
             new FindConclusion(this, scanner);
+            this.scanner = new Scanner(file);
+            new FindIntroduction(this, scanner);
 
 
             scanner.close();
