@@ -5,7 +5,7 @@ import re
 import shutil
 from PyPDF2 import PdfFileReader
 
-command = 'pip install pdf2txt'
+command = 'pip install pdf2txt --quiet'
 os.system(command)
 
 path = '../Corpus_2022/'
