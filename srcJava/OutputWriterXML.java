@@ -15,9 +15,149 @@ import java.util.Locale;
 
 public class OutputWriterXML {
 
+//    public OutputWriterXML(String path, String nomFichier, String titre, String abstracts, String auteurs,
+//                           String references, String emails, String introduction, String corps, String conclusion,
+//                           String discussion) throws ParserConfigurationException, TransformerException, IOException {
+//
+//        DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
+//        DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
+//
+//        //Element article
+//        Document doc = docBuilder.newDocument();
+//        Element article = doc.createElement("article");
+//        doc.appendChild(article);
+//
+//        //Element nom du fichier
+//        Element nomFic = doc.createElement("preamble");
+//        nomFic.setTextContent(nomFichier);
+//        article.appendChild(nomFic);
+//
+//        //Element titre du papier
+//        Element titreFic = doc.createElement("titre");
+//        titreFic.setTextContent(titre);
+//        article.appendChild(titreFic);
+//
+//        //Element auteurs
+//        Element groupAuteurs = doc.createElement("auteurs");
+//        article.appendChild(groupAuteurs);
+//
+//        String[] auteursTab = auteurs.split(";");
+//        String[] emailsTab = emails.split(";");
+//
+//        if(emails.equals("Impossible de trouver les emails des auteurs") && auteurs.equals("Aucun auteur n'a pu être trouvé.") ){
+//            //Element baliseAuteur
+//            Element baliseAuteur = doc.createElement("auteur");
+//            groupAuteurs.appendChild(baliseAuteur);
+//
+//            //Element auteurName
+//            Element auteurName = doc.createElement("name");
+//            auteurName.setTextContent(auteurs);
+//            baliseAuteur.appendChild(auteurName);
+//
+//            //Element emails
+//            Element email = doc.createElement("email");
+//            email.setTextContent(emails);
+//            baliseAuteur.appendChild(email);
+//
+//            //Element affiliation
+//            Element affiliation = doc.createElement("affiliation");
+//            affiliation.setTextContent(emails);
+//            baliseAuteur.appendChild(affiliation);
+//
+//        }else if(emails.equals("Impossible de trouver les emails des auteurs")){
+//            for (int i = 0; i < auteursTab.length; i++){
+//                //Element baliseAuteur
+//                Element baliseAuteur = doc.createElement("auteur");
+//                groupAuteurs.appendChild(baliseAuteur);
+//
+//                //Element auteurName
+//                Element auteurName = doc.createElement("name");
+//                auteurName.setTextContent(auteursTab[i]);
+//                baliseAuteur.appendChild(auteurName);
+//
+//                //Element emails
+//                Element email = doc.createElement("mail");
+//                email.setTextContent("Impossible de trouver l'email correspondant à cet auteur.");
+//                baliseAuteur.appendChild(email);
+//
+//                //Element affiliation
+//                Element affiliation = doc.createElement("affiliation");
+//                affiliation.setTextContent(emails);
+//                baliseAuteur.appendChild(affiliation);
+//            }
+//        }else if(auteurs.equals("Aucun auteur n'a pu être trouvé.")){
+//            for (int i = 0; i < emailsTab.length; i++){
+//                //Element baliseAuteur
+//                Element baliseAuteur = doc.createElement("auteur");
+//                groupAuteurs.appendChild(baliseAuteur);
+//
+//                //Element auteurName
+//                Element auteurName = doc.createElement("name");
+//                auteurName.setTextContent("Impossible de trouver l'auteur correspondant à cet email.");
+//                baliseAuteur.appendChild(auteurName);
+//
+//                //Element emails
+//                Element email = doc.createElement("mail");
+//                email.setTextContent(emailsTab[i]);
+//                baliseAuteur.appendChild(email);
+//
+//                //Element affiliation
+//                Element affiliation = doc.createElement("affiliation");
+//                affiliation.setTextContent(emails);
+//                baliseAuteur.appendChild(affiliation);
+//            }
+//        }else{
+//
+//            for (int i = 0; i < emailsTab.length; i++){
+//                //Element baliseAuteur
+//                Element baliseAuteur = doc.createElement("auteur");
+//                groupAuteurs.appendChild(baliseAuteur);
+//
+//
+//                String name = compareMailAndName(emailsTab[i], auteurs);
+//
+//                Element auteurName = doc.createElement("name");
+//                if (name.equals("No match found")){
+//                    //Element auteurName
+//                    auteurName.setTextContent("Impossible de trouver l'auteur correspondant à cet email.");
+//                    baliseAuteur.appendChild(auteurName);
+//
+//                    //Element emails
+//                    Element email = doc.createElement("mail");
+//                    email.setTextContent(emailsTab[i]);
+//                    baliseAuteur.appendChild(email);
+//                }else{
+//                    //Element auteurName
+//                    auteurName.setTextContent(name);
+//                    baliseAuteur.appendChild(auteurName);
+//
+//                    //Element emails
+//                    Element email = doc.createElement("mail");
+//                    email.setTextContent(emailsTab[i]);
+//                    baliseAuteur.appendChild(email);
+//                }
+//            }
+//            //auteurs sans emails
+//            for (String s: auteursTab) {
+//                //Element baliseAuteur
+//                Element baliseAuteur = doc.createElement("auteur");
+//                groupAuteurs.appendChild(baliseAuteur);
+//                if (s != null){
+//                    //Element auteurName
+//                    Element auteurName = doc.createElement("name");
+//                    auteurName.setTextContent(s);
+//                    baliseAuteur.appendChild(auteurName);
+//
+//                    //Element emails
+//                    Element email = doc.createElement("mail");
+//                    email.setTextContent("Impossible de trouver l'email correspondant à cet auteur.");
+//                    baliseAuteur.appendChild(email);
+//                }
+//            }
+//        }
+
     public OutputWriterXML(String path, String nomFichier, String titre, String abstracts, String auteurs,
-                           String references, String emails, String introduction, String corps, String conclusion,
-                           String discussion) throws ParserConfigurationException, TransformerException, IOException {
+                           String references, String emails) throws ParserConfigurationException, TransformerException, IOException {
 
         DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
@@ -162,24 +302,24 @@ public class OutputWriterXML {
         article.appendChild(abstractFic);
 
         //Element introduction
-        Element introduction = doc.createElement("introduction");
-        introduction.setTextContent(abstracts);
-        article.appendChild(introduction);
+        Element intro = doc.createElement("introduction");
+        intro.setTextContent(abstracts);
+        article.appendChild(intro);
 
         //Element corps
-        Element corps = doc.createElement("corps");
-        corps.setTextContent(abstracts);
-        article.appendChild(corps);
+        Element corp = doc.createElement("corps");
+        corp.setTextContent(abstracts);
+        article.appendChild(corp);
 
         //Element conclusion
-        Element conclusion = doc.createElement("conclusion");
-        conclusion.setTextContent(abstracts);
-        article.appendChild(conclusion);
+        Element conclu = doc.createElement("conclusion");
+        conclu.setTextContent(abstracts);
+        article.appendChild(conclu);
 
         //Element discussion
-        Element discussion = doc.createElement("discussion");
-        discussion.setTextContent(abstracts);
-        article.appendChild(discussion);
+        Element discuss = doc.createElement("discussion");
+        discuss.setTextContent(abstracts);
+        article.appendChild(discuss);
 
         //Element biblio
         Element biblio = doc.createElement("biblio");

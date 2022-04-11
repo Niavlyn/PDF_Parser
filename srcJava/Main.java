@@ -72,14 +72,16 @@ public class Main {
                 Parser fichier = new Parser(main.fichiersTxt.get(i), main.fichiersMeta.get(result));
                 if(main.withText){ OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail());}
                 if(main.withXML){OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(),
-                        fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail(),
-                        fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion());}
+                        fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail())
+                        //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
+                        ;}
             } else {
                 Parser fichier = new Parser(main.fichiersTxt.get(i), "null");
                 if(main.withText){ OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail());}
                 if(main.withXML){OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(),
-                        fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail(),
-                        fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion());}
+                        fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail())
+                        //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
+                        ;}
             }
         }
     }
