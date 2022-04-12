@@ -8,6 +8,7 @@ mkdir Corpus_2022_meta
 mkdir Corpus_2022_txt
 mkdir FinalProduction
 mkdir FinalProductionXML
+python -m pip install tika
 python3 srcPy/main.py
 ls
 cd srcJava
