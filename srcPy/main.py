@@ -7,10 +7,22 @@ import shutil
 from tika import parser
 from PyPDF2 import PdfFileReader
 
-command = 'pip install pdf2txt --quiet'
-os.system(command)
-
 path = '../Corpus_2022/'
+
+
+print("                       _______                                                                                                     ")
+print("_________   _...._     \  ___ `'.                       _________   _...._                                  __.....__              ")
+print("\        |.'      '-.   ' |--.\  \       _.._           \        |.'      '-.                           .-''         '.            ")
+print(" \        .'```'.    '. | |    \  '    .' .._|           \        .'```'.    '.          .-,.--.       /     .-''\"'-.  `. .-,.--.  ")
+print("  \      |       \     \| |     |  '   | '                \      |       \     \   __    |  .-. |     /     /________\   \|  .-. | ")
+print("   |     |        |    || |     |  | __| |__               |     |        |    |.:--.'.  | |  | |  _  |                  || |  | | ")
+print("   |      \      /    . | |     ' .'|__   __|              |      \      /    ./ |   \ | | |  | |.' | \    .-------------'| |  | | ")
+print("   |     |\`'-.-'   .'  | |___.' /'    | |                 |     |\`'-.-'   .' `\" __ | | | |  '-.   | /\    '-.____...---.| |  '-  ")
+print("   |     | '-....-'`   /_______.'/     | |                 |     | '-....-'`    .'.''| | | |  .'.'| |// `.             .' | |      ")
+print("  .'     '.            \_______|/      | |                .'     '.            / /   | |_| |.'.'.-'  /    `''-...... -'   | |      ")
+print("'-----------'                          | |              '-----------'          \ \._,\ '/|_|.'   \_.'                     |_|      ")
+print("                                       |_|                                      `--'  `\"                                           ")
+
 
 
 def listdirectory(file_path):
@@ -25,8 +37,6 @@ def listdirectory(file_path):
             fichier.append(i)
     return fichier
 
-
-print("########################-- PATH : " + path + " --########################")
 all_PDF_Files = listdirectory(path)
 txtFiles = []
 txtFilesTika = []

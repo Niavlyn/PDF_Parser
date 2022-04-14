@@ -8,27 +8,24 @@ mkdir Corpus_2022_meta
 mkdir Corpus_2022_txt
 mkdir FinalProduction
 mkdir FinalProductionXML
-python -m pip install tika
+python3 -m pip install pdf2txt --quiet
+python3 -m pip install tika --quiet
 python3 srcPy/main.py
-ls
 cd srcJava
 javac -d ../ *.java
 cd ../
+printf "\n\n###########################################################################################\n\n"
 
 echo Choisir format de sortie : 1=texte, 2=XML, 3=texte+xml
 read varname
 if [ "$varname" -eq "1" ]; then
    echo "format texte";
-   exit;
 elif [ "$varname" -eq "2" ]; then
    echo "format XML";
-   exit;
-elif [ "$varname" -eq "2" ]; then
+elif [ "$varname" -eq "3" ]; then
   echo "format texte + XML";
-  exit;
 fi
 
-echo It\'s nice to meet you $varname
-java Main $ARG1
+java Main -$ARG1
 rm *.class
 
