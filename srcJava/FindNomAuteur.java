@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class FindNomAuteur {
 
-    public FindNomAuteur(Parser parser, Scanner scanner) {
+    public FindNomAuteur(Parser parser) {
         String authors ="";
         if(parser.getAuthorsTab()[0].equals("")) {
             String[] emails = parser.getEmail().split(";");
@@ -33,27 +33,6 @@ public class FindNomAuteur {
         }
 
 
-//        boolean foundReferences = false;
-//
-//        while (scanner.hasNextLine() && !foundReferences) {
-//            str = scanner.nextLine();
-//
-//            if ((containsWord(str, "References") || containsWord(str, "REFERENCES")) && str.length() < 15) {
-//                foundReferences = true;
-//            }
-//        }
-//
-//        if (foundReferences) {
-//            while (scanner.hasNextLine()) {
-//                references = references + scanner.nextLine();
-//            }
-//            System.out.println("BIBLIOGRAPHIE : " + references);
-//
-//        } else {
-//            references = "La bibibliographie n'a pas pu être trouvée";
-//            System.out.println("BIBLIOGRAPHIE : NOPE");
-//        }
-//        parser.setReferences(references);
     }
 
 

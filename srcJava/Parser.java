@@ -1,10 +1,13 @@
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.HashMap;
 import java.util.Scanner;
 public class Parser {
 
     private String fileName = "";
     private String title = "";
     private String[] AuthorsTab = {""};
+    private HashMap<String, String> affilations;
     private String titleMeta = "";
     private String authors = "";
     private String fileAbstract = "";
@@ -14,6 +17,7 @@ public class Parser {
     private Scanner scanner;
     private String conclusion;
     private String introduction;
+    private File file;
 
 
     public Parser(String filePath, String metaPath) {
@@ -29,7 +33,7 @@ public class Parser {
         System.out.println("FILENAME META " + fileMeta);
 
         try {
-            File file = new File(filePath);
+            this.file = new File(filePath);
             this.scanner = new Scanner(file);
             new FindTitle(this);
             this.scanner = new Scanner(file);
@@ -44,8 +48,9 @@ public class Parser {
             this.scanner = new Scanner(file);
             new FindIntroduction(this, scanner);
             this.scanner = new Scanner(file);
-            new FindNomAuteur(this, scanner);
+            new FindNomAuteur(this);
 
+            new FindAffiliation(this);
 
             scanner.close();
         } catch (
@@ -53,6 +58,10 @@ public class Parser {
             e.printStackTrace();
         }
 
+    }
+
+    public void resetScanner() throws FileNotFoundException {
+        this.scanner = new Scanner(file);
     }
 
 
@@ -98,6 +107,14 @@ public class Parser {
 
     public String getAuthors() {
         return authors;
+    }
+
+    public HashMap<String, String> getAffilations() {
+        return affilations;
+    }
+
+    public void setAffilations(HashMap<String, String> affilations) {
+        this.affilations = affilations;
     }
 
     public void setAuthors(String authors) {
