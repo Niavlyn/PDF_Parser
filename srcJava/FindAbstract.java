@@ -27,13 +27,15 @@ public class FindAbstract {
                 }
             }
             if (fileAbstract.length() > 3000) {
-                fileAbstract = "Le résumé n'a pas pu être trouvé.";
+//                fileAbstract = "Le résumé n'a pas pu être trouvé.";
+                fileAbstract = null;
             }
 
 
             System.out.println("ABSTRACT : " + fileAbstract);
         } else {
-            fileAbstract = "Le résumé n'a pas pu être trouvé.";
+//            fileAbstract = "Le résumé n'a pas pu être trouvé.";
+            fileAbstract = null;
             System.out.println("ABSTRACT : NOPE");
         }
         parser.setFileAbstract(fileAbstract);

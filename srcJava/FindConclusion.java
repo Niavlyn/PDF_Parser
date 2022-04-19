@@ -23,11 +23,11 @@ public class FindConclusion {
                     foundReferences = true;
                 }
             }
-            System.out.println("Conclusion+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++: " + conclusion);
+//            System.out.println("Conclusion+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++: " + conclusion);
 
         } else {
             conclusion = "La conclusion n'a pas pu être trouvée";
-            System.out.println("CONCLUSION : NOPE");
+//            System.out.println("CONCLUSION : NOPE");
         }
         parser.setConclusion(conclusion);
     }

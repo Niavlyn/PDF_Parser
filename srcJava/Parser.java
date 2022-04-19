@@ -13,7 +13,6 @@ public class Parser {
     private String fileAbstract = "";
     private String references = "";
     private String email = "";
-    private String abstracts = "";
     private Scanner scanner;
     private String conclusion;
     private String introduction;
@@ -143,14 +142,6 @@ public class Parser {
 
     public void setEmail(String email) {
         this.email = email;
-    }
-
-    public String getAbstracts() {
-        return this.abstracts;
-    }
-
-    public void setAbstracts(String abs) {
-        this.abstracts = abs;
     }
 
     public String getConclusion()  {

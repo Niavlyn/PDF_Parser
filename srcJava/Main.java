@@ -1,6 +1,5 @@
 import java.io.File;
 import java.io.IOException;
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -9,10 +8,24 @@ import javax.xml.transform.TransformerException;
 
 public class Main {
     private ArrayList<String> fichiersTxt = new ArrayList<>();
+    private ArrayList<String> fichiersTxtTika = new ArrayList<>();
     private ArrayList<String> fichiersMeta = new ArrayList<>();
     private boolean withXML;
     private boolean withText;
 
+
+    //*************************************************
+    private String fileName = "";
+    private String title = "";
+    private String[] AuthorsTab = {""};
+    private String titleMeta = "";
+    private String authors = "";
+    private String fileAbstract = "";
+    private String references = "";
+    private String email = "";
+    private String conclusion = "";
+    private String introduction = "";
+//*************************************************
 
     public static void main(String args[]) throws IOException, ParserConfigurationException, TransformerException {
 
@@ -20,10 +33,10 @@ public class Main {
 
         Main main = new Main();
 
-        if(args[0].equals("-t")) {
+        if (args[0].equals("-t")) {
             main.withText = true;
             main.withXML = false;
-        } else if(args[0].equals("-x")) {
+        } else if (args[0].equals("-x")) {
             main.withText = false;
             main.withXML = true;
         } else {
@@ -34,6 +47,7 @@ public class Main {
 
         File currentDirectory = new File(System.getProperty("user.dir"));
         File dossierTxt = new File(currentDirectory + "/Corpus_2022_txt");
+        File dossierTika = new File(currentDirectory + "/Corpus_2022_txt_tika");
         File dossierMeta = new File(currentDirectory + "/Corpus_2022_meta");
         File dossierFinalProdAbsolu = new File(currentDirectory + "/FinalProduction");
 
@@ -45,56 +59,92 @@ public class Main {
         //final Stream<Path> stream = Files.list(dirStream);
 
         File[] listeFichiersTxt = dossierTxt.listFiles();
+        File[] listeFichiersTxtTika = dossierTika.listFiles();
         File[] listeFichiersMeta = dossierMeta.listFiles();
 
         //Création d'un tableau contenant les noms en Strng des fichiers
 
 
         //Remplissage des tableaux
-        for(File file : listeFichiersTxt) {
+        for (File file : listeFichiersTxt) {
             main.fichiersTxt.add(file.getAbsolutePath().toString());
         }
 
-        for(File file : listeFichiersMeta){
+        for (File file : listeFichiersMeta) {
             main.fichiersMeta.add(file.getAbsolutePath().toString());
         }
 
-        for(int i = 0 ; i < main.fichiersTxt.size() ; i++){
-            //System.out.println("fichier txt : " + main.fichiersTxt.get(i) + '\n');
+        for (File file : listeFichiersTxtTika) {
+            main.fichiersTxtTika.add(file.getAbsolutePath().toString());
+        }
+
+        for (int i = 0; i < main.fichiersTxt.size(); i++) {
             String splitFichierTxtName = " ";
             splitFichierTxtName = main.fichiersTxt.get(i).split("Corpus_2022_txt")[1];
-            splitFichierTxtName = splitFichierTxtName.substring(1,splitFichierTxtName.length()-4);
+            splitFichierTxtName = splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4);
             splitFichierTxtName = splitFichierTxtName + ".txt";
             int result = main.compareText(splitFichierTxtName);
-            if(result != -1) {
-                //System.out.println("fichier meta : " + main.fichiersMeta.get(result));
-
-                Parser fichier = new Parser(main.fichiersTxt.get(i), main.fichiersMeta.get(result));
-                if(main.withText){ OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail());}
-                if(main.withXML){OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(),
-                        fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail())
-                        //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
-                        ;}
+            if (result != -1) {
+                main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(i), true, result);
             } else {
-                Parser fichier = new Parser(main.fichiersTxt.get(i), "null");
-                if(main.withText){ OutputWriter ecriture = new OutputWriter(dossierFinalProdAbsolu.toString(), fichier.getFileName(), fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail());}
-                if(main.withXML){OutputWriterXML ecritureXML = new OutputWriterXML(dossierFinalProdAbsolu.toString(), fichier.getFileName(),
-                        fichier.getTitle(), fichier.getFileAbstract(), fichier.getAuthors(), fichier.getReferences(), fichier.getEmail())
-                        //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
-                        ;}
+                main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(i), false, result);
             }
+            if (main.withText) {
+                new OutputWriter(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email);
+            }
+            if (main.withXML) {
+                new OutputWriterXML(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email);
+                //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
+            }
+
         }
+    }
+
+    //Compare les résultats du parseur sur les 2 convertisseurs
+    private void resultComparator(String filePathPDF2TXT, String filePathTika, boolean meta, int result) {
+        Parser parser2txt;
+        if (meta) {
+            parser2txt = new Parser(filePathPDF2TXT, fichiersMeta.get(result));
+        } else {
+            parser2txt = new Parser(filePathPDF2TXT, "null");
+        }
+        Parser parserTika = new Parser(filePathTika, "null");
+
+        fileName = finalResult(parser2txt.getFileName(), parserTika.getFileName());
+        title = finalResult(parser2txt.getTitle(), parserTika.getTitle());
+        authors = finalResult(parser2txt.getAuthors(), parserTika.getAuthors());
+        fileAbstract = finalResult(parser2txt.getFileAbstract(), parserTika.getFileAbstract());
+        references = finalResult(parser2txt.getReferences(), parserTika.getReferences());
+        email = finalResult(parser2txt.getEmail(), parserTika.getEmail());
+        conclusion = finalResult(parser2txt.getConclusion(), parserTika.getConclusion());
+        introduction = finalResult(parser2txt.getIntroduction(), parserTika.getIntroduction());
+    }
+
+
+    private String finalResult(String resultPDF2Txt, String resultTika) {
+        String result = "";
+        if (resultTika == null && resultPDF2Txt == null)
+            result = "L'item n'a pas pu être trouvé.";
+        else if (resultPDF2Txt == null)
+            result = resultTika;
+        else if (resultTika == null)
+            result = resultPDF2Txt;
+        else if (resultTika.trim().equals(resultPDF2Txt.trim()))
+            result = resultTika;
+        else
+            result = resultPDF2Txt;
+        return result;
     }
 
     private int compareText(String txtName) {
         int compare = -1;
         String split = "";
-        txtName = txtName.substring(0, txtName.length()-4);
-        for(int i = 0; i < fichiersMeta.size(); i++) {
+        txtName = txtName.substring(0, txtName.length() - 4);
+        for (int i = 0; i < fichiersMeta.size(); i++) {
             split = fichiersMeta.get(i).split("Corpus_2022_meta")[1];
-            split = split.substring(1,split.length()-13);
+            split = split.substring(1, split.length() - 13);
 
-            if(split.equals(txtName)) {
+            if (split.equals(txtName)) {
                 compare = i;
                 break;
             }

@@ -63,7 +63,7 @@ if not os.path.exists(pathTxtTika):
 for x in all_PDF_Files:
     regex = re.search(".pdf$", x)
     filenamePDF2TXT = x.split(".")[0] + ".txt"
-    filenameTIKA = x.split(".")[0] + "_tika.txt"
+    filenameTIKA = x.split(".")[0] + ".txt"
     if regex:
         pdfFiles.append(x)
         txtFiles.append((pathTxt + filenamePDF2TXT))

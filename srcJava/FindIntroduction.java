@@ -23,11 +23,12 @@ public class FindIntroduction {
                     foundAfterIntro = true;
                 }
             }
-            System.out.println("Introduction+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++: " + introduction);
+//            System.out.println("Introduction+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++: " + introduction);
 
         } else {
-            introduction = "L'introduction n'a pas pu être trouvée";
-            System.out.println("INTRODUCTION : NOPE");
+            introduction = null;
+//            introduction = "L'introduction n'a pas pu être trouvée";
+//            System.out.println("INTRODUCTION : NOPE");
         }
         parser.setIntroduction(introduction);
     }
