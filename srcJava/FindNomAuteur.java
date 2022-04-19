@@ -5,7 +5,7 @@ public class FindNomAuteur {
     public FindNomAuteur(Parser parser) {
         String authors ="";
         if(parser.getAuthorsTab()[0].equals("")) {
-            if(!parser.getEmail().equals("")) {
+            if(!parser.getEmail().split(";")[0].equals("")) {
                 String[] emails = parser.getEmail().split(";");
                 String[] noms = new String[emails.length];
                 String[] prenoms = new String[emails.length];
