@@ -4,7 +4,7 @@ public class Parser {
 
     private String fileName = "";
     private String title = "";
-    private String[] metaAuthorsTab = {""};
+    private String[] AuthorsTab = {""};
     private String titleMeta = "";
     private String authors = "";
     private String fileAbstract = "";
@@ -43,6 +43,8 @@ public class Parser {
             new FindConclusion(this, scanner);
             this.scanner = new Scanner(file);
             new FindIntroduction(this, scanner);
+            this.scanner = new Scanner(file);
+            new FindNomAuteur(this, scanner);
 
 
             scanner.close();
@@ -86,12 +88,12 @@ public class Parser {
         this.titleMeta = titleMeta;
     }
 
-    public String[] getMetaAuthorTab() {
-        return this.metaAuthorsTab;
+    public String[] getAuthorsTab() {
+        return this.AuthorsTab;
     }
 
-    public void setMetaAuthorsTab(String[] metaAuthorsTab) {
-        this.metaAuthorsTab = metaAuthorsTab;
+    public void setAuthorsTab(String[] authorsTab) {
+        this.AuthorsTab = authorsTab;
     }
 
     public String getAuthors() {

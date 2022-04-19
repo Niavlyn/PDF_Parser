@@ -14,7 +14,7 @@ public class ReaderMeta {
                     parser.setTitleMeta(scanner.nextLine());
                 if (scanner.hasNextLine()) {
                     String allAuthors = scanner.nextLine();
-                    parser.setMetaAuthorsTab(allAuthors.split(";"));
+                    parser.setAuthorsTab(allAuthors.split(";"));
                 }
                 scanner.close();
             } catch (FileNotFoundException e) {

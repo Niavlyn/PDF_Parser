@@ -254,7 +254,7 @@ public class OutputWriterXML {
                 groupAuteurs.appendChild(baliseAuteur);
 
 
-                String name = compareMailAndName(emailsTab[i], auteurs);
+                String name = new FindNomAuteur().compareMailAndName(emailsTab[i], auteurs);
 
                 Element auteurName = doc.createElement("name");
                 if (name.equals("No match found")){
@@ -277,23 +277,23 @@ public class OutputWriterXML {
                     baliseAuteur.appendChild(email);
                 }
             }
-            //auteurs sans emails
-            for (String s: auteursTab) {
-                //Element baliseAuteur
-                Element baliseAuteur = doc.createElement("auteur");
-                groupAuteurs.appendChild(baliseAuteur);
-                if (s != null){
-                    //Element auteurName
-                    Element auteurName = doc.createElement("name");
-                    auteurName.setTextContent(s);
-                    baliseAuteur.appendChild(auteurName);
-
-                    //Element emails
-                    Element email = doc.createElement("mail");
-                    email.setTextContent("Impossible de trouver l'email correspondant à cet auteur.");
-                    baliseAuteur.appendChild(email);
-                }
-            }
+//            //auteurs sans emails
+//            for (String s: auteursTab) {
+//                //Element baliseAuteur
+//                Element baliseAuteur = doc.createElement("auteur");
+//                groupAuteurs.appendChild(baliseAuteur);
+//                if (s != null){
+//                    //Element auteurName
+//                    Element auteurName = doc.createElement("name");
+//                    auteurName.setTextContent(s);
+//                    baliseAuteur.appendChild(auteurName);
+//
+//                    //Element emails
+//                    Element email = doc.createElement("mail");
+//                    email.setTextContent("Impossible de trouver l'email correspondant à cet auteur.");
+//                    baliseAuteur.appendChild(email);
+//                }
+//            }
         }
 
         //Element abstract
@@ -354,51 +354,51 @@ public class OutputWriterXML {
     }
 
 
-    /**
-     * Retourne le nom/prénom correspondant à un mail
-     * @param mail - un seul mail
-     * @param auteurs - tous les auteurs
-     * @return
-     */
-    private String compareMailAndName(String mail, String auteurs){
-        //Aucun auteur n'a pu être trouvé.
-        //Impossible de trouver les emails des auteurs
-        if(!mail.equals("Impossible de trouver les emails des auteurs")){
-            String[] mailSplit = mail.split("@");
-            String frontPart = mailSplit[0];
-            frontPart = frontPart.toUpperCase();
-
-            if (!auteurs.equals("Aucun auteur n'a pu être trouvé.")){
-                String[] auteursSpliTab = auteurs.split(";");
-                int i = 0;
-                for (String s: auteursSpliTab) {
-                    auteursSpliTab[i] = s.toUpperCase();
-                    i++;
-                }
-
-                String[] frontPartSplit = frontPart.split("\\.");
-
-                if (frontPartSplit.length > 1) {
-
-                    String nameV1 = frontPartSplit[0] + " " + frontPartSplit[1];
-                    String nameV2 = frontPartSplit[1] + " " + frontPartSplit[0];
-
-                    for (int j = 0; j < auteursSpliTab.length; j++) {
-                        if (nameV1.equals(auteursSpliTab[j])) {
-                            auteursSpliTab[j] = null;
-                            return nameV1;
-                        } else if (nameV2.equals(auteursSpliTab[j])) {
-                            auteursSpliTab[j] = null;
-                            return nameV2;
-                        }
-                    }
-                }
-                return "No match found";
-
-            }else {
-                return "No authors";
-            }
-        }
-        return "Mail null";
-    }
+//    /**
+//     * Retourne le nom/prénom correspondant à un mail
+//     * @param mail - un seul mail
+//     * @param auteurs - tous les auteurs
+//     * @return
+//     */
+//    private String compareMailAndName(String mail, String auteurs){
+//        //Aucun auteur n'a pu être trouvé.
+//        //Impossible de trouver les emails des auteurs
+//        if(!mail.equals("Impossible de trouver les emails des auteurs")){
+//            String[] mailSplit = mail.split("@");
+//            String frontPart = mailSplit[0];
+//            frontPart = frontPart.toUpperCase();
+//
+//            if (!auteurs.equals("Aucun auteur n'a pu être trouvé.")){
+//                String[] auteursSpliTab = auteurs.split(";");
+//                int i = 0;
+//                for (String s: auteursSpliTab) {
+//                    auteursSpliTab[i] = s.toUpperCase();
+//                    i++;
+//                }
+//
+//                String[] frontPartSplit = frontPart.split("\\.");
+//
+//                if (frontPartSplit.length > 1) {
+//
+//                    String nameV1 = frontPartSplit[0] + " " + frontPartSplit[1];
+//                    String nameV2 = frontPartSplit[1] + " " + frontPartSplit[0];
+//
+//                    for (int j = 0; j < auteursSpliTab.length; j++) {
+//                        if (nameV1.equals(auteursSpliTab[j])) {
+//                            auteursSpliTab[j] = null;
+//                            return nameV1;
+//                        } else if (nameV2.equals(auteursSpliTab[j])) {
+//                            auteursSpliTab[j] = null;
+//                            return nameV2;
+//                        }
+//                    }
+//                }
+//                return "No match found";
+//
+//            }else {
+//                return "No authors";
+//            }
+//        }
+//        return "Mail null";
+//    }
 }

@@ -35,7 +35,7 @@ public class Comparator {
             }
         }
         */
-        String[] metaAuthorsTab = parser.getMetaAuthorTab();
+        String[] metaAuthorsTab = parser.getAuthorsTab();
         String authors = parser.getAuthors();
         if (metaAuthorsTab.length > 0) {
             for (String s : metaAuthorsTab) {
@@ -58,7 +58,7 @@ public class Comparator {
 
         parser.setTitleMeta(titleMeta);
         parser.setTitle(title);
-        parser.setMetaAuthorsTab(metaAuthorsTab);
+        parser.setAuthorsTab(metaAuthorsTab);
         parser.setAuthors(authors);
 
     }
