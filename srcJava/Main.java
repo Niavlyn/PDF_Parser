@@ -1,6 +1,7 @@
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
@@ -25,6 +26,9 @@ public class Main {
     private String email = "";
     private String conclusion = "";
     private String introduction = "";
+    private String corps = "";
+    private String discussion ="";
+    private HashMap<String, String> affiliation = new HashMap<>();
 //*************************************************
 
     public static void main(String args[]) throws IOException, ParserConfigurationException, TransformerException {
@@ -84,19 +88,27 @@ public class Main {
             splitFichierTxtName = splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4);
             splitFichierTxtName = splitFichierTxtName + ".txt";
             int result = main.compareText(splitFichierTxtName);
-            if (result != -1) {
-                main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(i), true, result);
+            int indexTika = main.compareTikaAndParser2txt(main.fichiersTxt.get(i));
+            if(indexTika == -1) {
+                System.out.println("ERRRRRRRRRRRRRRRRRRRREEEEEEEEEEEEEEEEEEEEEUUUUUUUUUUUUUUUUUUUUUUUUUURRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"); //Normalement ne peut pas arriver
             } else {
-                main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(i), false, result);
+                if (result != -1) {
+                    main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(indexTika), true, result);
+                } else {
+                    main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(indexTika), false, result);
+                }
+                if (main.withText) {
+                    new OutputWriter(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email);
+                }
+                if (main.withXML) {
+//                new OutputWriterXML(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email);
+                    //String path, String nomFichier, String titre, String abstracts, String auteurs,
+                    //                           String references, String emails, String introduction, String corps, String conclusion,
+                    //                           String discussion
+                    new OutputWriterXML(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email, main.introduction, main.corps, main.conclusion, main.discussion, main.affiliation);
+                    //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
+                }
             }
-            if (main.withText) {
-                new OutputWriter(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email);
-            }
-            if (main.withXML) {
-                new OutputWriterXML(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email);
-                //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
-            }
-
         }
     }
 
@@ -110,6 +122,9 @@ public class Main {
         }
         Parser parserTika = new Parser(filePathTika, "null");
 
+//        System.out.println("FILEPATHPDF2TXT : " + filePathPDF2TXT);
+//        System.out.println("FILEPATHTIKA : " + filePathTika);
+
         fileName = finalResult(parser2txt.getFileName(), parserTika.getFileName());
         title = finalResult(parser2txt.getTitle(), parserTika.getTitle());
         authors = finalResult(parser2txt.getAuthors(), parserTika.getAuthors());
@@ -118,6 +133,9 @@ public class Main {
         email = finalResult(parser2txt.getEmail(), parserTika.getEmail());
         conclusion = finalResult(parser2txt.getConclusion(), parserTika.getConclusion());
         introduction = finalResult(parser2txt.getIntroduction(), parserTika.getIntroduction());
+        corps = finalResult(parser2txt.getCorps(), parserTika.getCorps());
+        discussion = finalResult(parser2txt.getCorps(), parserTika.getCorps());
+        affiliation = parserTika.getAffilations();
     }
 
 
@@ -134,6 +152,29 @@ public class Main {
         else
             result = resultPDF2Txt;
         return result;
+    }
+
+    private int compareTikaAndParser2txt(String pathParser2txt) {
+        String[] txtsplit = pathParser2txt.split("/");
+        String txtTikaName = "";
+
+        if(txtsplit.length > 0) {
+            txtTikaName = txtsplit[txtsplit.length-1];
+        } else {
+            txtTikaName = pathParser2txt;
+        }
+
+        txtTikaName = txtTikaName.split("\\.")[0];
+
+
+        for(int i = 0; i < this.fichiersTxtTika.size(); i++) {
+            String[] path = fichiersTxtTika.get(i).split("/");
+            String name = path[path.length-1].split("\\.")[0];
+            if(name.equals(txtTikaName)) {
+                return i;
+            }
+        }
+        return -1;
     }
 
     private int compareText(String txtName) {

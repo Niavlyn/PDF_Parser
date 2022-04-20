@@ -30,8 +30,6 @@ public class Parser {
 
     public void reader(String filePath, String fileMeta) {
 
-        System.out.println("FILENAME " + filePath);
-        System.out.println("FILENAME META " + fileMeta);
 
         try {
             this.file = new File(filePath);

@@ -44,7 +44,7 @@ public class FindAffiliation {
                         }
                         if(cpt < 5) {
                             if(str.length() > 2 && str.length() < 70 && !containsOtherAuthor(parser, str)) {
-                                affiliation += "\n"+str;
+                                affiliation += str + "\n";
 //                                System.out.println("AFFILIATION : " + str);
                             }
                             cpt++;
