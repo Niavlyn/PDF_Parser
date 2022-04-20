@@ -102,13 +102,13 @@ public class FindAffiliation {
 
         }
         parser.setAffilations(hashfilliation);
-        System.out.println("AFFILIATIONS ------------------------------------------------------------------------------------\n");
-        for (String keys: parser.getAffilations().keySet()) {
-            System.out.println("KEY : " + keys);
-            System.out.println("Affiliation : " + parser.getAffilations().get(keys));
-            System.out.println("NEXT \n");
-        }
-        System.out.println("---------------------------------------------------------------------------------------------------");
+//        System.out.println("AFFILIATIONS ------------------------------------------------------------------------------------\n");
+//        for (String keys: parser.getAffilations().keySet()) {
+//            System.out.println("KEY : " + keys);
+//            System.out.println("Affiliation : " + parser.getAffilations().get(keys));
+//            System.out.println("NEXT \n");
+//        }
+//        System.out.println("---------------------------------------------------------------------------------------------------");
     }
 
     private boolean containsOtherAuthor(Parser parser, String str) {

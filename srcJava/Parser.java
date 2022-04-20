@@ -17,6 +17,7 @@ public class Parser {
     private String conclusion;
     private String introduction;
     private File file;
+    private String corps;
 
 
     public Parser(String filePath, String metaPath) {
@@ -46,6 +47,7 @@ public class Parser {
             new FindConclusion(this, scanner);
             this.scanner = new Scanner(file);
             new FindIntroduction(this, scanner);
+            new FindCorps(this, scanner);
             this.scanner = new Scanner(file);
             new FindNomAuteur(this);
 
@@ -160,5 +162,11 @@ public class Parser {
         this.introduction = introduction;
     }
 
+    public String getCorps() {
+        return corps;
+    }
 
+    public void setCorps(String corps) {
+        this.corps = corps;
+    }
 }
