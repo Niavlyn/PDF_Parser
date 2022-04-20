@@ -11,7 +11,6 @@ public class FindIntroduction {
             str = scanner.nextLine();
 
             if ((containsWord(str, "Introduction") || containsWord(str, "INTRODUCTION") || containsWord(str, "1.") || containsWord(str, "I."))) {
-                //System.out.println("\nFOUNNNNNNNNNNNNNNDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD\n");
                 foundIntroduction = true;
             }
         }
@@ -19,7 +18,7 @@ public class FindIntroduction {
         if (foundIntroduction) {
             while (scanner.hasNextLine() && !foundAfterIntro) {
                 String scan = scanner.nextLine();
-                introduction = introduction + scan;
+                introduction += scan + "\n";
                 if ((containsWord(scan, "2.") || containsWord(scan, "II."))) {
                     foundAfterIntro = true;
 
@@ -33,7 +32,7 @@ public class FindIntroduction {
 //            System.out.println("INTRODUCTION : NOPE");
         }
         parser.setIntroduction(introduction);
-        System.out.println("INTRODUCTION : " + introduction);
+        //System.out.println("INTRODUCTION : " + introduction);
     }
 
 
