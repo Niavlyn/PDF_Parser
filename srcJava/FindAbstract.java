@@ -32,7 +32,7 @@ public class FindAbstract {
             }
 
 
-            System.out.println("ABSTRACT : " + fileAbstract);
+            //System.out.println("ABSTRACT : " + fileAbstract);
         } else {
 //            fileAbstract = "Le résumé n'a pas pu être trouvé.";
             fileAbstract = null;

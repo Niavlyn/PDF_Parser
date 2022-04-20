@@ -18,6 +18,7 @@ public class Parser {
     private String introduction;
     private File file;
     private String corps;
+    private String discussion;
 
 
     public Parser(String filePath, String metaPath) {
@@ -49,8 +50,10 @@ public class Parser {
             new FindIntroduction(this, scanner);
             new FindCorps(this, scanner);
             this.scanner = new Scanner(file);
+            new FindDiscussion(this, scanner);
+            this.scanner = new Scanner(file);
             new FindNomAuteur(this);
-
+            this.scanner = new Scanner(file);
             new FindAffiliation(this);
 
             scanner.close();
@@ -168,5 +171,13 @@ public class Parser {
 
     public void setCorps(String corps) {
         this.corps = corps;
+    }
+
+    public void setDiscussion(String discussion) {
+        this.discussion = discussion;
+    }
+
+    public String getDiscussion() {
+        return this.discussion;
     }
 }

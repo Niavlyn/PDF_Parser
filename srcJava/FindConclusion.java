@@ -10,7 +10,7 @@ public class FindConclusion {
         while (scanner.hasNextLine() && !foundConclusion) {
             str = scanner.nextLine();
 
-            if ((containsWord(str, "Conclusion") || containsWord(str, "CONCLUSION")) && str.length() < 15) {
+            if ((containsWord(str, "Conclusion") || containsWord(str, "CONCLUSION"))) {
                 foundConclusion = true;
             }
         }
