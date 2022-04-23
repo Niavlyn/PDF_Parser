@@ -7,7 +7,7 @@ import shutil
 from tika import parser
 from PyPDF2 import PdfFileReader
 
-path = '../Corpus_2022/'
+path = ""
 
 
 print("                       _______                                                                                                     ")
@@ -23,26 +23,60 @@ print("  .'     '.            \_______|/      | |                .'     '.      
 print("'-----------'                          | |              '-----------'          \ \._,\ '/|_|.'   \_.'                     |_|      ")
 print("                                       |_|                                      `--'  `\"                                           ")
 
-
-
+cpt = 0
 def listdirectory(file_path):
+    global cpt
+    l = glob.glob(file_path + '//*')
+    for i in l:
+        if os.path.isdir(i):
+            listdirectory(i)
+        else:
+            print(cpt , " " + i)
+            cpt = cpt + 1
+
+
+text = input("Voulez-vous utiliser le répertoire par défaut \"PDF_Parser/Corpus_2022\" ? | O/n : ")
+
+globalpath = os.getcwd()
+if(text != 'n'):
+    path = globalpath + "/Corpus_2022/"
+else:
+    path = input("Entrez le path vers votre dossier contenant les Corpus : ")
+
+print("PATH : " + path)
+
+allCorpus = input("Voulez-vous parser tout le contenu du dossier ? | O/n : ")
+if(allCorpus == 'n'):
+    selectOrDelete = input("Voulez-vous sélectionner les fichiers à parser (S) ou selectionner les fichiers à ne pas parser (D) ? ")
+    if(selectOrDelete != 'D'):
+        listdirectory(path)
+    else:
+        listdirectory(path)
+
+
+
+
+
+
+
+def listdirectoryAndStoreThem(file_path):
     fichier = []
     l = glob.glob(file_path + '//*')
     for i in l:
         if os.path.isdir(i):
-            fichier.extend(listdirectory(i))
+            fichier.extend(listdirectoryAndStoreThem(i))
         else:
             new_name = i.replace(" ", "")
             os.rename(i, new_name)
             fichier.append(i)
     return fichier
 
-all_PDF_Files = listdirectory(path)
+all_PDF_Files = listdirectoryAndStoreThem(path)
 txtFiles = []
 txtFilesTika = []
 pdfFiles = []
 
-globalpath = os.getcwd()
+
 
 # TEST LINUX
 
