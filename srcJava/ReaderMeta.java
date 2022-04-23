@@ -24,9 +24,5 @@ public class ReaderMeta {
             String splitFichierTxtName = filePath.split("Corpus_2022_txt")[1];
             parser.setFileName(splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4));
         }
-        System.out.println();
-        System.out.println("#########################################################################");
-        System.out.println();
-        System.out.println("NOM DU FICHIER : " + parser.getFileName());
     }
 }

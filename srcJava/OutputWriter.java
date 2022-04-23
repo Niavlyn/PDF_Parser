@@ -4,11 +4,10 @@ import java.io.IOException;
 public class OutputWriter {
 
     public OutputWriter(String path, String nomFichier, String titre, String abstracts, String auteurs, String references, String emails) {
-        writeInFile(path, nomFichier, titre, abstracts, auteurs,references, emails);
+        writeInFile(path, nomFichier, titre, abstracts, auteurs, references, emails);
     }
 
     private void writeInFile(String path, String nomFichier, String titre, String abstracts, String auteurs, String references, String emails) {
-//        System.out.println(path + " " + nomFichier + " " + titre + " " + abstracts + " " + auteurs);
         try {
             FileWriter myWriter = new FileWriter(path + "/" + nomFichier + ".txt");
             myWriter.write(nomFichier + "\n");
@@ -18,9 +17,9 @@ public class OutputWriter {
             myWriter.write(abstracts + "\n");
             myWriter.write(references);
             myWriter.close();
-            System.out.println("Successfully wrote to the file.");
+            System.out.println("Fichier TXT généré avec succès pour " + nomFichier);
         } catch (IOException e) {
-            System.out.println("An error occurred.");
+            System.out.println("Une erreur est survenue lors de la génération du fichier txt.");
             e.printStackTrace();
         }
     }

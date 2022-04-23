@@ -18,11 +18,8 @@ public class FindBibliographie {
             while (scanner.hasNextLine()) {
                 references = references + scanner.nextLine();
             }
-//            System.out.println("BIBLIOGRAPHIE : " + references);
-
         } else {
             references = "La bibibliographie n'a pas pu être trouvée";
-//            System.out.println("BIBLIOGRAPHIE : NOPE");
         }
         parser.setReferences(references);
     }

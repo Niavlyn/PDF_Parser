@@ -7,7 +7,7 @@ public class Parser {
     private String fileName = "";
     private String title = "";
     private String[] AuthorsTab = {""};
-    private HashMap<String, String> affilations;
+    private HashMap<String, String> affiliations;
     private String titleMeta = "";
     private String authors = "";
     private String fileAbstract = "";
@@ -24,13 +24,11 @@ public class Parser {
     public Parser(String filePath, String metaPath) {
         new ReaderMeta(this, filePath, metaPath);
 
-        reader(filePath, metaPath);
+        reader(filePath);
         new Comparator(this, filePath);
     }
 
-    public void reader(String filePath, String fileMeta) {
-
-
+    public void reader(String filePath) {
         try {
             this.file = new File(filePath);
             this.scanner = new Scanner(file);
@@ -38,7 +36,6 @@ public class Parser {
             this.scanner = new Scanner(file);
             new FindAbstract(this, scanner);
             this.scanner = new Scanner(file);
-            System.out.println("TITRE : " + title);
             new FindBibliographie(this, scanner);
             this.scanner = new Scanner(file);
             new FindEmail(this, filePath);
@@ -112,11 +109,11 @@ public class Parser {
     }
 
     public HashMap<String, String> getAffilations() {
-        return affilations;
+        return affiliations;
     }
 
     public void setAffilations(HashMap<String, String> affilations) {
-        this.affilations = affilations;
+        this.affiliations = affilations;
     }
 
     public void setAuthors(String authors) {

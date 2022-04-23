@@ -32,9 +32,6 @@ public class FindTitle {
                         title = title + " " + line22;
                 }
             }
-
-            System.out.println("TITRE : " + title);
-
         }
         parser.setTitle(title);
     }

@@ -22,12 +22,8 @@ public class FindEmail {
                 }
             }
 
-            if (!email.isBlank()) {
-//                System.out.println("EMAILS : " + email);
-            } else {
+            if (email.isBlank()) {
                 email = null;
-//                email = "Impossible de trouver les emails des auteurs";
-//                System.out.println("EMAILS : NOPE");
             }
             scanner.close();
         } catch (FileNotFoundException e) {
