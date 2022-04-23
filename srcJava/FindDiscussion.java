@@ -24,14 +24,10 @@ public class FindDiscussion {
                     foundReferences = true;
                 }
             }
-//            System.out.println("Conclusion+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++: " + discussion);
-
         } else {
             discussion = "La discussion n'a pas pu être trouvée";
-            System.out.println("DISCUSSION: NOPE");
         }
         parser.setDiscussion(discussion);
-        System.out.println("DISCUSSION : " + discussion);
     }
 
 

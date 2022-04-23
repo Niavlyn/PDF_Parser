@@ -208,12 +208,13 @@ public class OutputWriterXML {
 
         File currentDirectory = new File(System.getProperty("user.dir"));
         File dossierXML = new File(currentDirectory + "/FinalProductionXML");
-        System.out.println(dossierXML);
 
         FileWriter writer = new FileWriter(dossierXML + "/" + nomFichier + ".xml");
         StreamResult result = new StreamResult(writer);
 
         transformer.transform(source, result);
+
+        System.out.println("Fichier XML généré avec succès pour " + nomFichier);
 
     }
 }

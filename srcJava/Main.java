@@ -8,18 +8,13 @@ import javax.xml.transform.TransformerException;
 
 
 public class Main {
-    private ArrayList<String> fichiersTxt = new ArrayList<>();
-    private ArrayList<String> fichiersTxtTika = new ArrayList<>();
-    private ArrayList<String> fichiersMeta = new ArrayList<>();
+    private final ArrayList<String> fichiersTxt = new ArrayList<>();
+    private final ArrayList<String> fichiersTxtTika = new ArrayList<>();
+    private final ArrayList<String> fichiersMeta = new ArrayList<>();
     private boolean withXML;
     private boolean withText;
-
-
-    //*************************************************
     private String fileName = "";
     private String title = "";
-    private String[] AuthorsTab = {""};
-    private String titleMeta = "";
     private String authors = "";
     private String fileAbstract = "";
     private String references = "";
@@ -29,11 +24,8 @@ public class Main {
     private String corps = "";
     private String discussion ="";
     private HashMap<String, String> affiliation = new HashMap<>();
-//*************************************************
 
-    public static void main(String args[]) throws IOException, ParserConfigurationException, TransformerException {
-
-//        System.out.println(args[0] + "----------------------------------------------------");
+    public static void main(String[] args) throws IOException, ParserConfigurationException, TransformerException {
 
         Main main = new Main();
 
@@ -56,57 +48,42 @@ public class Main {
         File dossierFinalProdAbsolu = new File(currentDirectory + "/FinalProduction");
 
 
-        //Place dans un tableau l'ensemble des fichiers des dossiers
-        //System.out.println(Arrays.toString(dossierTxt.list()));
-
-
-        //final Stream<Path> stream = Files.list(dirStream);
-
         File[] listeFichiersTxt = dossierTxt.listFiles();
         File[] listeFichiersTxtTika = dossierTika.listFiles();
         File[] listeFichiersMeta = dossierMeta.listFiles();
 
-        //Création d'un tableau contenant les noms en Strng des fichiers
-
-
         //Remplissage des tableaux
+        assert listeFichiersTxt != null;
         for (File file : listeFichiersTxt) {
-            main.fichiersTxt.add(file.getAbsolutePath().toString());
+            main.fichiersTxt.add(file.getAbsolutePath());
         }
 
+        assert listeFichiersMeta != null;
         for (File file : listeFichiersMeta) {
-            main.fichiersMeta.add(file.getAbsolutePath().toString());
+            main.fichiersMeta.add(file.getAbsolutePath());
         }
 
+        assert listeFichiersTxtTika != null;
         for (File file : listeFichiersTxtTika) {
-            main.fichiersTxtTika.add(file.getAbsolutePath().toString());
+            main.fichiersTxtTika.add(file.getAbsolutePath());
         }
 
         for (int i = 0; i < main.fichiersTxt.size(); i++) {
-            String splitFichierTxtName = " ";
+            String splitFichierTxtName;
             splitFichierTxtName = main.fichiersTxt.get(i).split("Corpus_2022_txt")[1];
             splitFichierTxtName = splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4);
             splitFichierTxtName = splitFichierTxtName + ".txt";
             int result = main.compareText(splitFichierTxtName);
             int indexTika = main.compareTikaAndParser2txt(main.fichiersTxt.get(i));
             if(indexTika == -1) {
-                System.out.println("ERRRRRRRRRRRRRRRRRRRREEEEEEEEEEEEEEEEEEEEEUUUUUUUUUUUUUUUUUUUUUUUUUURRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"); //Normalement ne peut pas arriver
+                System.err.println("Erreur : index tika == -1"); //Normalement ne peut pas arriver
             } else {
-                if (result != -1) {
-                    main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(indexTika), true, result);
-                } else {
-                    main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(indexTika), false, result);
-                }
+                main.resultComparator(main.fichiersTxt.get(i), main.fichiersTxtTika.get(indexTika), result != -1, result);
                 if (main.withText) {
                     new OutputWriter(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email);
                 }
                 if (main.withXML) {
-//                new OutputWriterXML(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email);
-                    //String path, String nomFichier, String titre, String abstracts, String auteurs,
-                    //                           String references, String emails, String introduction, String corps, String conclusion,
-                    //                           String discussion
                     new OutputWriterXML(main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email, main.introduction, main.corps, main.conclusion, main.discussion, main.affiliation);
-                    //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
                 }
             }
         }
@@ -121,9 +98,6 @@ public class Main {
             parser2txt = new Parser(filePathPDF2TXT, "null");
         }
         Parser parserTika = new Parser(filePathTika, "null");
-
-//        System.out.println("FILEPATHPDF2TXT : " + filePathPDF2TXT);
-//        System.out.println("FILEPATHTIKA : " + filePathTika);
 
         fileName = finalResult(parser2txt.getFileName(), parserTika.getFileName());
         title = finalResult(parser2txt.getTitle(), parserTika.getTitle());
@@ -140,7 +114,7 @@ public class Main {
 
 
     private String finalResult(String resultPDF2Txt, String resultTika) {
-        String result = "";
+        String result;
         if (resultTika == null && resultPDF2Txt == null)
             result = "L'item n'a pas pu être trouvé.";
         else if (resultPDF2Txt == null)
@@ -155,11 +129,11 @@ public class Main {
     }
 
     private int compareTikaAndParser2txt(String pathParser2txt) {
-        String[] txtsplit = pathParser2txt.split("/");
-        String txtTikaName = "";
+        String[] txtSplit = pathParser2txt.split("/");
+        String txtTikaName;
 
-        if(txtsplit.length > 0) {
-            txtTikaName = txtsplit[txtsplit.length-1];
+        if(txtSplit.length > 0) {
+            txtTikaName = txtSplit[txtSplit.length-1];
         } else {
             txtTikaName = pathParser2txt;
         }
@@ -179,7 +153,7 @@ public class Main {
 
     private int compareText(String txtName) {
         int compare = -1;
-        String split = "";
+        String split;
         txtName = txtName.substring(0, txtName.length() - 4);
         for (int i = 0; i < fichiersMeta.size(); i++) {
             split = fichiersMeta.get(i).split("Corpus_2022_meta")[1];

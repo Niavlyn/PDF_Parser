@@ -20,7 +20,6 @@ public class FindCorps {
         if(!foundConclusionOrDiscussion) {
             corps = "Le corps n'a pas pu être trouvé";
         }
-        //System.out.println("CORPS : " + corps);
         parser.setCorps(corps);
 
     }
