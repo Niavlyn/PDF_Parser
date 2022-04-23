@@ -16,14 +16,17 @@ javac -d ../ *.java
 cd ../
 printf "\n\n###########################################################################################\n\n"
 
-echo Choisir format de sortie : 1=texte, 2=XML, 3=texte+xml
+echo "Choisir format de sortie :"
+echo "1 : TXT | 2 : XML | 3 : TXT + XML"
 read varname
 if [ "$varname" -eq "1" ]; then
-   echo "format texte";
+   echo "## Sortie TXT selectionnée ##";
+   ARG1=${1:-t}
 elif [ "$varname" -eq "2" ]; then
-   echo "format XML";
+   echo "## Sortie XML selectionnée ##";
+   ARG1=${1:-x}
 elif [ "$varname" -eq "3" ]; then
-  echo "format texte + XML";
+  echo "## Sortie TXT + XML selectionnée ##\n";
 fi
 
 java Main -$ARG1

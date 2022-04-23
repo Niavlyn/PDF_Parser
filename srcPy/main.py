@@ -9,7 +9,6 @@ from PyPDF2 import PdfFileReader
 
 path = ""
 
-
 print("                       _______                                                                                                     ")
 print("_________   _...._     \  ___ `'.                       _________   _...._                                  __.....__              ")
 print("\        |.'      '-.   ' |--.\  \       _.._           \        |.'      '-.                           .-''         '.            ")
@@ -22,6 +21,7 @@ print("   |     | '-....-'`   /_______.'/     | |                 |     | '-....
 print("  .'     '.            \_______|/      | |                .'     '.            / /   | |_| |.'.'.-'  /    `''-...... -'   | |      ")
 print("'-----------'                          | |              '-----------'          \ \._,\ '/|_|.'   \_.'                     |_|      ")
 print("                                       |_|                                      `--'  `\"                                           ")
+print("\n\n###########################################################################################\n\n")
 
 cpt = 0
 def listdirectory(file_path):
@@ -41,13 +41,13 @@ globalpath = os.getcwd()
 if(text != 'n'):
     path = globalpath + "/Corpus_2022/"
 else:
-    path = input("Entrez le path vers votre dossier contenant les Corpus : ")
+    path = input("\nEntrez le path vers votre dossier contenant les Corpus : ")
 
 print("PATH : " + path)
 
-allCorpus = input("Voulez-vous parser tout le contenu du dossier ? | O/n : ")
+allCorpus = input("\nVoulez-vous parser tout le contenu du dossier ? | O/n : ")
 if(allCorpus == 'n'):
-    selectOrDelete = input("Voulez-vous sélectionner les fichiers à parser (S) ou selectionner les fichiers à ne pas parser (D) ? ")
+    selectOrDelete = input("\nVoulez-vous sélectionner les fichiers à parser (S) ou selectionner les fichiers à ne pas parser (D) ? ")
     if(selectOrDelete != 'D'):
         listdirectory(path)
     else:
