@@ -105,7 +105,7 @@ public class Main {
                     //String path, String nomFichier, String titre, String abstracts, String auteurs,
                     //                           String references, String emails, String introduction, String corps, String conclusion,
                     //                           String discussion
-                    new OutputWriterXML(dossierFinalProdAbsolu.toString(), main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email, main.introduction, main.corps, main.conclusion, main.discussion, main.affiliation);
+                    new OutputWriterXML(main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email, main.introduction, main.corps, main.conclusion, main.discussion, main.affiliation);
                     //fichier.getIntroduction(), fichier.getCorps(), fichier.getConclusion(), fichier.getDiscussion())
                 }
             }
