@@ -20,13 +20,13 @@ echo "Choisir format de sortie :"
 echo "1 : TXT | 2 : XML | 3 : TXT + XML"
 read varname
 if [ "$varname" -eq "1" ]; then
-   echo "## Sortie TXT selectionnée ##";
+   printf "## Sortie TXT selectionnée ##\n";
    ARG1=${1:-t}
 elif [ "$varname" -eq "2" ]; then
-   echo "## Sortie XML selectionnée ##";
+   printf "## Sortie XML selectionnée ##\n";
    ARG1=${1:-x}
 elif [ "$varname" -eq "3" ]; then
-  echo "## Sortie TXT + XML selectionnée ##\n";
+  printf "## Sortie TXT + XML selectionnée ##\n";
 fi
 
 java Main -$ARG1

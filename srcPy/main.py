@@ -8,84 +8,113 @@ from tika import parser
 from PyPDF2 import PdfFileReader
 
 path = ""
-
-print("                       _______                                                                                                     ")
-print("_________   _...._     \  ___ `'.                       _________   _...._                                  __.....__              ")
-print("\        |.'      '-.   ' |--.\  \       _.._           \        |.'      '-.                           .-''         '.            ")
-print(" \        .'```'.    '. | |    \  '    .' .._|           \        .'```'.    '.          .-,.--.       /     .-''\"'-.  `. .-,.--.  ")
-print("  \      |       \     \| |     |  '   | '                \      |       \     \   __    |  .-. |     /     /________\   \|  .-. | ")
-print("   |     |        |    || |     |  | __| |__               |     |        |    |.:--.'.  | |  | |  _  |                  || |  | | ")
-print("   |      \      /    . | |     ' .'|__   __|              |      \      /    ./ |   \ | | |  | |.' | \    .-------------'| |  | | ")
-print("   |     |\`'-.-'   .'  | |___.' /'    | |                 |     |\`'-.-'   .' `\" __ | | | |  '-.   | /\    '-.____...---.| |  '-  ")
-print("   |     | '-....-'`   /_______.'/     | |                 |     | '-....-'`    .'.''| | | |  .'.'| |// `.             .' | |      ")
-print("  .'     '.            \_______|/      | |                .'     '.            / /   | |_| |.'.'.-'  /    `''-...... -'   | |      ")
-print("'-----------'                          | |              '-----------'          \ \._,\ '/|_|.'   \_.'                     |_|      ")
-print("                                       |_|                                      `--'  `\"                                           ")
-print("\n\n###########################################################################################\n\n")
-
 cpt = 0
-def listdirectory(file_path):
+
+def print_title():
+    print(
+        "                       _______                                                                                                     ")
+    print(
+        "_________   _...._     \  ___ `'.                       _________   _...._                                  __.....__              ")
+    print(
+        "\        |.'      '-.   ' |--.\  \       _.._           \        |.'      '-.                           .-''         '.            ")
+    print(
+        " \        .'```'.    '. | |    \  '    .' .._|           \        .'```'.    '.          .-,.--.       /     .-''\"'-.  `. .-,.--.  ")
+    print(
+        "  \      |       \     \| |     |  '   | '                \      |       \     \   __    |  .-. |     /     /________\   \|  .-. | ")
+    print(
+        "   |     |        |    || |     |  | __| |__               |     |        |    |.:--.'.  | |  | |  _  |                  || |  | | ")
+    print(
+        "   |      \      /    . | |     ' .'|__   __|              |      \      /    ./ |   \ | | |  | |.' | \    .-------------'| |  | | ")
+    print(
+        "   |     |\`'-.-'   .'  | |___.' /'    | |                 |     |\`'-.-'   .' `\" __ | | | |  '-.   | /\    '-.____...---.| |  '-  ")
+    print(
+        "   |     | '-....-'`   /_______.'/     | |                 |     | '-....-'`    .'.''| | | |  .'.'| |// `.             .' | |      ")
+    print(
+        "  .'     '.            \_______|/      | |                .'     '.            / /   | |_| |.'.'.-'  /    `''-...... -'   | |      ")
+    print(
+        "'-----------'                          | |              '-----------'          \ \._,\ '/|_|.'   \_.'                     |_|      ")
+    print(
+        "                                       |_|                                      `--'  `\"                                           ")
+    print("\n\n###########################################################################################\n\n")
+
+
+print_title()
+
+
+def list_directory(file_path):
     global cpt
     l = glob.glob(file_path + '//*')
-    for i in l:
-        if os.path.isdir(i):
-            listdirectory(i)
-        else:
-            print(cpt , " " + i)
+    for k in l:
+        if os.path.isdir(k):
+            list_directory(k)
+        elif re.search(".pdf$", k) or re.search(".txt$", k):
+            print(cpt, " " + k)
             cpt = cpt + 1
 
 
-text = input("Voulez-vous utiliser le répertoire par défaut \"PDF_Parser/Corpus_2022\" ? | O/n : ")
+def get_file_in_directory(file_path, index):
+    l = glob.glob(file_path + '//*')
+    cmp = 0
+    for k in l:
+        if os.path.isdir(k):
+            list_directory(k)
+        elif cmp == index:
+            return k
+        cmp = cmp + 1
 
+
+text = input("Voulez-vous utiliser le répertoire par défaut \"PDF_Parser/Corpus_2022\" ? | O/n : ")
+default_directory = False
 globalpath = os.getcwd()
-if(text != 'n'):
+if text != 'n':
+    default_directory = True
     path = globalpath + "/Corpus_2022/"
 else:
-    path = input("\nEntrez le path vers votre dossier contenant les Corpus : ")
+    path = input("\nEntrez le path vers votre dossier contenant le corpus : ")
 
-print("PATH : " + path)
+print("PATH", path)
 
-allCorpus = input("\nVoulez-vous parser tout le contenu du dossier ? | O/n : ")
-if(allCorpus == 'n'):
-    selectOrDelete = input("\nVoulez-vous sélectionner les fichiers à parser (S) ou selectionner les fichiers à ne pas parser (D) ? ")
-    if(selectOrDelete != 'D'):
-        listdirectory(path)
-    else:
-        listdirectory(path)
-
-
-
-
-
-
-
-def listdirectoryAndStoreThem(file_path):
+# Liste les fichiers d'un dossier passé en parametre
+def listFilesAndStoreThem(file_path):
     fichier = []
     l = glob.glob(file_path + '//*')
     for i in l:
+        print("I : ", i)
+        i = str(i)
+
         if os.path.isdir(i):
-            fichier.extend(listdirectoryAndStoreThem(i))
-        else:
+            fichier.extend(listFilesAndStoreThem(i))
+        elif re.search(".pdf$", i) or re.search(".txt$", i):
             new_name = i.replace(" ", "")
             os.rename(i, new_name)
             fichier.append(i)
     return fichier
 
-all_PDF_Files = listdirectoryAndStoreThem(path)
+
+numbers = []
+all_PDF_Files = listFilesAndStoreThem(path)
+
+
+# Demande à l'utilisateur le n° des fichiers à sélectionner
+def ask_for_files():
+    print("Sélectionnez les pdf à convertir en tapant le n° du PDF et en le séparant du suivant par ENTREE.")
+    print("Pour stoper la sasie, utilisez le symbole #")
+
+    user_input = input()
+    while user_input != "#":
+        if user_input.isdigit() and cpt > int(user_input) >= 0:
+            numbers.append(user_input)
+        else:
+            print("Merci d'utiliser un nombre présent dans la liste")
+        user_input = input()
+
+
 txtFiles = []
 txtFilesTika = []
 pdfFiles = []
 
-
-
-# TEST LINUX
-
-print(os.getcwd())
-test = os.getcwd()
-path = globalpath + "/Corpus_2022/"
 pathTxt = globalpath + '/Corpus_2022_txt/'
 pathTxtTika = globalpath + '/Corpus_2022_txt_tika/'
-all_PDF_Files = os.listdir(path)
 
 if not os.path.exists(pathTxt):
     print("CREATING Corpus_2022_txt folder...")
@@ -94,19 +123,68 @@ if not os.path.exists(pathTxtTika):
     print("CREATING Corpus_2022_txt_tika folder...")
     os.mkdir(pathTxtTika)
 
-for x in all_PDF_Files:
-    regex = re.search(".pdf$", x)
-    filenamePDF2TXT = x.split(".")[0] + ".txt"
-    filenameTIKA = x.split(".")[0] + ".txt"
-    if regex:
-        pdfFiles.append(x)
-        txtFiles.append((pathTxt + filenamePDF2TXT))
-        txtFilesTika.append((pathTxtTika + filenameTIKA))
 
-    regexTxt = re.search(".txt$", x)
-    if regexTxt:
-        shutil.copyfile((path + x), (pathTxt + filenamePDF2TXT))
-        shutil.copyfile((path + x), (pathTxtTika + filenameTIKA))
+def default_behavior():
+
+    for x in all_PDF_Files:
+        regex = re.search(".pdf$", x)
+        filenamePDF2TXT = x.split(".")[0] + ".txt"
+        filenameTIKA = x.split(".")[0] + ".txt"
+        if regex:
+            pdfFiles.append(x)
+            txtFiles.append((pathTxt + filenamePDF2TXT))
+            txtFilesTika.append((pathTxtTika + filenameTIKA))
+
+        regexTxt = re.search(".txt$", x)
+        if regexTxt:
+            shutil.copyfile((path + x), (pathTxt + filenamePDF2TXT))
+            shutil.copyfile((path + x), (pathTxtTika + filenameTIKA))
+
+def for_selected_files():
+    for x in all_PDF_Files:
+        print("TYPE : ", type(x))
+        regex = re.search(".pdf$", x)
+        filenamePDF2TXT = x.split(".")[0] + ".txt"
+        filenameTIKA = x.split(".")[0] + ".txt"
+        filenamePDF2TXT = filenamePDF2TXT.rsplit('/', 1)[1]
+        filenameTIKA = filenameTIKA.rsplit('/', 1)[1]
+        if regex:
+            pdfName = x.rsplit('/', 1)[1]
+            pdfFiles.append(pdfName)
+            txtFiles.append((pathTxt + filenamePDF2TXT))
+            txtFilesTika.append((pathTxtTika + filenameTIKA))
+
+        regexTxt = re.search(".txt$", x)
+        if regexTxt:
+            filenamePDF2TXT = x.rsplit('/', 1)[1]
+            filenameTIKA = filenamePDF2TXT
+            shutil.copyfile(x, (pathTxt + filenamePDF2TXT))
+            shutil.copyfile(x, (pathTxtTika + filenameTIKA))
+
+print("PATH 2 : ", path)
+
+allCorpus = input("\nVoulez-vous parser tout le contenu du dossier ? | O/n : ")
+if allCorpus == 'n':
+    selectOrDelete = input("\nVoulez-vous sélectionner les fichiers à parser (S) ou selectionner les fichiers à ne "
+                           "pas parser (D) ? ")
+    if selectOrDelete != 'D':
+        list_directory(path)
+        ask_for_files()
+        all_PDF_Files.clear()
+        for selectedFile in numbers:
+            all_PDF_Files.append(get_file_in_directory(path, int(selectedFile)))
+
+    else:
+        list_directory(path)
+    for_selected_files()
+else:
+    all_PDF_Files = os.listdir(path)
+    if default_directory:
+        path = globalpath + "/Corpus_2022/"
+
+    else :
+        print("PATH 3 : ", path)
+    default_behavior()
 
 
 def convertPdfToTxt(filePdf, fileTxt):
@@ -117,6 +195,7 @@ def convertPdfToTxt(filePdf, fileTxt):
     # line_margin] [-W word_margin] [-F boxes_flow][-d] input.pdf...
     command = 'pdf2txt.py -o ' + fileTxt + ' ' + filePdf
     os.system(command)
+
 
 def convertTika(filePdf):
     parsed_pdf = parser.from_file(filePdf)
