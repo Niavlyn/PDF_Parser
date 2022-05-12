@@ -1,3 +1,4 @@
+import jdk.swing.interop.SwingInterOpUtils;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
@@ -11,6 +12,7 @@ import javax.xml.transform.stream.StreamResult;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.StringWriter;
 import java.util.HashMap;
 
 public class OutputWriterXML {
@@ -52,17 +54,17 @@ public class OutputWriterXML {
 
             //Element auteurName
             Element auteurName = doc.createElement("name");
-            auteurName.setTextContent(auteurs);
+            auteurName.setTextContent(replaceChars(auteurs));
             baliseAuteur.appendChild(auteurName);
 
             //Element emails
             Element email = doc.createElement("email");
-            email.setTextContent(emails);
+            email.setTextContent(replaceChars(emails));
             baliseAuteur.appendChild(email);
 
             //Element affiliation
             Element affiliation = doc.createElement("affiliation");
-            affiliation.setTextContent(emails);
+            affiliation.setTextContent(replaceChars(emails));
             baliseAuteur.appendChild(affiliation);
 
         }else if(emails.equals("Impossible de trouver les emails des auteurs")){
@@ -74,7 +76,7 @@ public class OutputWriterXML {
 
                 //Element auteurName
                 Element auteurName = doc.createElement("name");
-                auteurName.setTextContent(s);
+                auteurName.setTextContent(replaceChars(s));
                 baliseAuteur.appendChild(auteurName);
 
                 //Element emails
@@ -87,7 +89,7 @@ public class OutputWriterXML {
                 affiliation.setTextContent("Impossible de trouver l'affiliation correspondant à cet auteur");
                 for (String keys : affiliations.keySet()) {
                     if (new Comparator().isInTheKey(keys, s)) {
-                        affiliation.setTextContent(affiliations.get(keys));
+                        affiliation.setTextContent(replaceChars(affiliations.get(keys)));
                         break;
                     }
                 }
@@ -106,7 +108,7 @@ public class OutputWriterXML {
 
                 //Element emails
                 Element email = doc.createElement("mail");
-                email.setTextContent(s);
+                email.setTextContent(replaceChars(s));
                 baliseAuteur.appendChild(email);
 
                 //Element affiliation
@@ -133,16 +135,16 @@ public class OutputWriterXML {
 
                     //Element emails
                     Element email = doc.createElement("mail");
-                    email.setTextContent(emailsTab[i]);
+                    email.setTextContent(replaceChars(emailsTab[i]));
                     baliseAuteur.appendChild(email);
                 }else{
                     //Element auteurName
-                    auteurName.setTextContent(name);
+                    auteurName.setTextContent(replaceChars(name));
                     baliseAuteur.appendChild(auteurName);
 
                     //Element emails
                     Element email = doc.createElement("mail");
-                    email.setTextContent(emailsTab[i]);
+                    email.setTextContent(replaceChars(emailsTab[i]));
                     baliseAuteur.appendChild(email);
 
                     //Element affiliation
@@ -162,32 +164,32 @@ public class OutputWriterXML {
 
         //Element abstract
         Element abstractFic = doc.createElement("abstract");
-        abstractFic.setTextContent(abstracts);
+        abstractFic.setTextContent(replaceChars(abstracts));
         article.appendChild(abstractFic);
 
         //Element introduction
         Element intro = doc.createElement("introduction");
-        intro.setTextContent(introduction);
+        intro.setTextContent(replaceChars(introduction));
         article.appendChild(intro);
 
         //Element corps
         Element corp = doc.createElement("corps");
-        corp.setTextContent(corps);
+        corp.setTextContent(replaceChars(corps));
         article.appendChild(corp);
 
         //Element conclusion
         Element conclu = doc.createElement("conclusion");
-        conclu.setTextContent(conclusion);
+        conclu.setTextContent(replaceChars(conclusion));
         article.appendChild(conclu);
 
         //Element discussion
         Element discuss = doc.createElement("discussion");
-        discuss.setTextContent(discussion);
+        discuss.setTextContent(replaceChars(discussion));
         article.appendChild(discuss);
 
         //Element biblio
         Element biblio = doc.createElement("biblio");
-        biblio.setTextContent(references);
+        biblio.setTextContent(replaceChars(references));
         article.appendChild(biblio);
 
         // print XML to system console
@@ -202,12 +204,15 @@ public class OutputWriterXML {
         TransformerFactory transformerFactory = TransformerFactory.newInstance();
         Transformer transformer = transformerFactory.newTransformer();
 
+
         transformer.setOutputProperty(OutputKeys.INDENT, "yes");
 
         DOMSource source = new DOMSource(doc);
 
+
         File currentDirectory = new File(System.getProperty("user.dir"));
         File dossierXML = new File(currentDirectory + "/FinalProductionXML");
+
 
         FileWriter writer = new FileWriter(dossierXML + "/" + nomFichier + ".xml");
         StreamResult result = new StreamResult(writer);
@@ -216,5 +221,18 @@ public class OutputWriterXML {
 
         System.out.println("Fichier XML généré avec succès pour " + nomFichier);
 
+
+        String xmlString = result.getWriter().toString();
+        System.out.println(xmlString);
+
+    }
+
+    private static String replaceChars(String xml)
+    {
+        xml = xml.replace("&", "&amp;");
+        xml = xml.replaceAll("\"<([^<]*)>", "\"&lt;$1&gt;");
+        xml = xml.replaceAll("</([^<]*)>\"", "&lt;/$1&gt;\"");
+        xml = xml.replaceAll("\"([^<]*)<([^<]*)>([^<]*)\"", "\"$1&lt;$2&gt;$3\"");
+        return xml;
     }
 }

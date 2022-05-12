@@ -2,6 +2,7 @@ import glob
 import os.path
 import os
 import re
+import sys
 import time
 import shutil
 from tika import parser
@@ -70,16 +71,24 @@ if text != 'n':
     default_directory = True
     path = globalpath + "/Corpus_2022/"
 else:
-    path = input("\nEntrez le path vers votre dossier contenant le corpus : ")
+    path = input("\nEntrez le path vers votre dossier contenant le corpus 1: ")
 
 print("PATH", path)
 
 # Liste les fichiers d'un dossier passé en parametre
 def listFilesAndStoreThem(file_path):
+    global path
     fichier = []
     l = glob.glob(file_path + '//*')
+    while(len(l) == 0):
+        print("Le path que vous avez choisi ne contient aucun fichier de type pdf ou txt")
+
+        path = input("\nEntrez le path vers votre dossier contenant le corpus : ")
+        l = glob.glob(path + '//*')
+        print("LEN : " , len(l))
+    #print("LLLLLLLLLLLLLLLL : ", len(l))
     for i in l:
-        print("I : ", i)
+        #print("I : ", i)
         i = str(i)
 
         if os.path.isdir(i):
@@ -269,3 +278,7 @@ for i in range(len(txtFilesTika)):
     time.sleep(0.1)
     # Update Progress Bar
     printProgressBar(i + 1, len(txtFilesTika), prefix='Progression:', suffix='', length=50)
+
+
+
+

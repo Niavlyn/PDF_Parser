@@ -11,10 +11,12 @@ mkdir FinalProductionXML
 python3 -m pip install pdf2txt --quiet
 python3 -m pip install tika --quiet
 python3 srcPy/main.py
+python3 srcPy/cleaningFiles.py
+
 cd srcJava
 javac -d ../ *.java
 cd ../
-printf "\n\n###########################################################################################\n\n"
+#printf "\n\n###########################################################################################\n\n"
 
 echo "Choisir format de sortie :"
 echo "1 : TXT | 2 : XML | 3 : TXT + XML"

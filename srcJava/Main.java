@@ -87,6 +87,7 @@ public class Main {
                 }
             }
         }
+        main.cleanXML();
     }
 
     //Compare les résultats du parseur sur les 2 convertisseurs
@@ -166,5 +167,11 @@ public class Main {
         }
 
         return compare;
+    }
+
+    private void cleanXML() {
+        for (String file: fichiersTxt) {
+            System.out.println(file);
+        }
     }
 }
