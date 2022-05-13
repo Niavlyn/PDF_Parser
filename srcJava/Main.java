@@ -69,7 +69,6 @@ public class Main {
         }
 
         for (int i = 0; i < main.fichiersTxt.size(); i++) {
-            System.out.println("DEBUTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT--------------------------------------------------------------------------");
             String splitFichierTxtName;
             splitFichierTxtName = main.fichiersTxt.get(i).split("Corpus_2022_txt")[1];
             splitFichierTxtName = splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4);
@@ -87,7 +86,6 @@ public class Main {
                     new OutputWriterXML(main.fileName, main.title, main.fileAbstract, main.authors, main.references, main.email, main.introduction, main.corps, main.conclusion, main.discussion, main.affiliation);
                 }
             }
-            System.out.println("FINNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN----------------------------------------------------------------------------------------");
         }
         main.cleanXML();
     }
