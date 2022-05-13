@@ -122,10 +122,11 @@ public class Main {
             result = resultTika;
         else if (resultTika == null)
             result = resultPDF2Txt;
-        else if (resultTika.trim().equals(resultPDF2Txt.trim()))
-            result = resultTika;
+//        else if (resultTika.trim().equals(resultPDF2Txt.trim()))
+//            result = resultTika;
         else
-            result = resultPDF2Txt;
+            result = resultTika; //par défaut
+        result = result.trim();
         return result;
     }
 

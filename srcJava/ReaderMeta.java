@@ -9,7 +9,7 @@ public class ReaderMeta {
             File file = new File(metaPath);
             try {
                 Scanner scanner = new Scanner(file);
-                parser.setFileName(scanner.nextLine());
+                parser.setFileName(scanner.nextLine());///
                 if (scanner.hasNextLine())
                     parser.setTitleMeta(scanner.nextLine());
                 if (scanner.hasNextLine()) {
@@ -21,8 +21,14 @@ public class ReaderMeta {
                 e.printStackTrace();
             }
         } else {
-            String splitFichierTxtName = filePath.split("Corpus_2022_txt")[1];
-            parser.setFileName(splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4));
+            System.out.println("FILEPATH : "+filePath);
+            String splitFichierTxtName;
+            if (filePath.contains("Corpus_2022_txt_tika")){
+                splitFichierTxtName = filePath.split("Corpus_2022_txt_tika")[1];
+            }else {
+                splitFichierTxtName = filePath.split("Corpus_2022_txt")[1];
+            }
+            parser.setFileName(splitFichierTxtName.substring(1, splitFichierTxtName.length() - 4));///
         }
     }
 }

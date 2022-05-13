@@ -213,6 +213,7 @@ public class OutputWriterXML {
         File currentDirectory = new File(System.getProperty("user.dir"));
         File dossierXML = new File(currentDirectory + "/FinalProductionXML");
 
+        System.out.println(dossierXML + "_______________________________________________________________________________!!!" + nomFichier);
 
         FileWriter writer = new FileWriter(dossierXML + "/" + nomFichier + ".xml");
         StreamResult result = new StreamResult(writer);
