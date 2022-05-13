@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FindIntroduction {
     public FindIntroduction(Parser parser, Scanner scanner) {
         String str;
-        String introduction ="";
+        String introduction = "";
         boolean foundIntroduction = false;
         boolean foundAfterIntro = false;
 

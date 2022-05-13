@@ -31,7 +31,7 @@ public class OutputWriterXML {
 
         //Element nom du fichier
         Element nomFic = doc.createElement("preamble");
-        nomFic.setTextContent(nomFichier+".pdf");
+        nomFic.setTextContent(nomFichier + ".pdf");
         article.appendChild(nomFic);
 
         //Element titre du papier
@@ -47,7 +47,9 @@ public class OutputWriterXML {
         String[] emailsTab = emails.split(";");
 
 
-        if(emails.equals("Impossible de trouver les emails des auteurs") && auteurs.equals("Aucun auteur n'a pu être trouvé.") ){
+        if (emails.equals("Impossible de trouver les emails des auteurs") && auteurs.equals("Aucun auteur n'a pu être trouvé.")) {
+            System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+
             //Element baliseAuteur
             Element baliseAuteur = doc.createElement("auteur");
             groupAuteurs.appendChild(baliseAuteur);
@@ -67,7 +69,9 @@ public class OutputWriterXML {
             affiliation.setTextContent(replaceChars(emails));
             baliseAuteur.appendChild(affiliation);
 
-        }else if(emails.equals("Impossible de trouver les emails des auteurs")){
+        } else if (emails.equals("Impossible de trouver les emails des auteurs")) {
+            System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB");
+
             for (String s : auteursTab) {
 
                 //Element baliseAuteur
@@ -93,9 +97,10 @@ public class OutputWriterXML {
                         break;
                     }
                 }
-                baliseAuteur.appendChild(affiliation);
+
             }
-        }else if(auteurs.equals("Aucun auteur n'a pu être trouvé.")){
+        } else if (auteurs.equals("Aucun auteur n'a pu être trouvé.")) {
+            System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC");
             for (String s : emailsTab) {
                 //Element baliseAuteur
                 Element baliseAuteur = doc.createElement("auteur");
@@ -115,11 +120,28 @@ public class OutputWriterXML {
                 Element affiliation = doc.createElement("affiliation");
                 affiliation.setTextContent("Impossible de trouver l'affiliation correspondant à cet auteur");
                 //affiliation.setTextContent(emails);
+//                for (String keys : affiliations.keySet()) {
+//                    if (!new Comparator().compareMailAndName(keys, s).equals()) {
+//                        affiliation.setTextContent(replaceChars(affiliations.get(keys)));
+//                        break;
+//                    }
+//                }
+//                baliseAuteur.appendChild(affiliation);
+
+                for (String keys : affiliations.keySet()) {
+                    if (!new Comparator().compareMailAndName(keys, s).equals("No match found")
+                            || !new Comparator().compareMailAndName(keys, s).equals("No authors")
+                            || !new Comparator().compareMailAndName(keys, s).equals("Mail null")) {
+                        affiliation.setTextContent(affiliations.get(keys));
+                        break;
+                    }
+                }
                 baliseAuteur.appendChild(affiliation);
             }
-        }else{
+        } else {
+            System.out.println("DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD");
 
-            for (int i = 0; i < emailsTab.length; i++){
+            for (int i = 0; i < emailsTab.length; i++) {
                 //Element baliseAuteur
                 Element baliseAuteur = doc.createElement("auteur");
                 groupAuteurs.appendChild(baliseAuteur);
@@ -128,7 +150,7 @@ public class OutputWriterXML {
                 String name = new Comparator().compareMailAndName(emailsTab[i], auteurs);
 
                 Element auteurName = doc.createElement("name");
-                if (name.equals("No match found")){
+                if (name.equals("No match found")) {
                     //Element auteurName
                     auteurName.setTextContent("Impossible de trouver l'auteur correspondant à cet email.");
                     baliseAuteur.appendChild(auteurName);
@@ -137,7 +159,19 @@ public class OutputWriterXML {
                     Element email = doc.createElement("mail");
                     email.setTextContent(replaceChars(emailsTab[i]));
                     baliseAuteur.appendChild(email);
-                }else{
+
+                    Element affiliation = doc.createElement("affiliation");
+                    affiliation.setTextContent("Impossible de trouver l'affiliation correspondant à cet auteur");
+                    for (String keys : affiliations.keySet()) {
+                        if (!new Comparator().compareMailAndName(keys, emailsTab[i]).equals("No match found")
+                                || !new Comparator().compareMailAndName(keys, emailsTab[i]).equals("No authors")
+                                || !new Comparator().compareMailAndName(keys, emailsTab[i]).equals("Mail null")) {
+                            affiliation.setTextContent(affiliations.get(keys));
+                            break;
+                        }
+                    }
+                    baliseAuteur.appendChild(affiliation);
+                } else {
                     //Element auteurName
                     auteurName.setTextContent(replaceChars(name));
                     baliseAuteur.appendChild(auteurName);
@@ -151,12 +185,13 @@ public class OutputWriterXML {
                     Element affiliation = doc.createElement("affiliation");
                     affiliation.setTextContent("Impossible de trouver l'affiliation correspondant à cet auteur");
                     for (String keys : affiliations.keySet()) {
-                        if(new Comparator().isInTheKey(keys, auteursTab[i])) {
+                        if (!new Comparator().compareMailAndName(keys, emailsTab[i]).equals("No match found")
+                                || !new Comparator().compareMailAndName(keys, emailsTab[i]).equals("No authors")
+                                || !new Comparator().compareMailAndName(keys, emailsTab[i]).equals("Mail null")) {
                             affiliation.setTextContent(affiliations.get(keys));
                             break;
                         }
                     }
-                    //affiliation.setTextContent(emails);
                     baliseAuteur.appendChild(affiliation);
                 }
             }
@@ -228,8 +263,7 @@ public class OutputWriterXML {
 
     }
 
-    private static String replaceChars(String xml)
-    {
+    private static String replaceChars(String xml) {
         xml = xml.replace("&", "&amp;");
         xml = xml.replaceAll("\"<([^<]*)>", "\"&lt;$1&gt;");
         xml = xml.replaceAll("</([^<]*)>\"", "&lt;/$1&gt;\"");
