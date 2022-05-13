@@ -225,9 +225,9 @@ def metadata(path, pathPDF, nomFichier):
     if not titre:
         titre = ''
 
+    #Enlève l'extension du fichier
     nomFichier = nomFichier.split(".")[0]
 
-    #print(nomFichier, "<-----------------------------------------------------------------------------------------------------------------------");
     with open(path, 'w') as f:
         f.write(nomFichier + '\n' + titre + '\n' + auteurs)
 
