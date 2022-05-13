@@ -9,10 +9,13 @@ public class FindAbstract {
 
         while (scanner.hasNextLine() && !foundAbstract) {
             str = scanner.nextLine();
-            if (containsWord(str, "Abstract") || containsWord(str, "ABSTRACT")) {
+            if (containsWord(str, "Abstract") || containsWord(str, "ABSTRACT") || containsWord(str, "a b s t r a c t")){
                 foundAbstract = true;
             }
         }
+
+        boolean enter = false;
+
         if (foundAbstract) {
             if (str.length() > 9) {
                 fileAbstract = str;
@@ -20,10 +23,15 @@ public class FindAbstract {
             boolean foundIntroduction = false;
             while (scanner.hasNextLine() && !foundIntroduction) {
                 str = scanner.nextLine();
-                if (containsWord(str, "Introduction") || containsWord(str, "INTRODUCTION")) {
+                if (containsWord(str, "Introduction") || containsWord(str, "INTRODUCTION") || (containsWord(str, "1.") || containsWord(str, "I.") || containsWord(str, "1 ") && enter) ){
+                    System.out.println("ENTRE  : "+enter);
                     foundIntroduction = true;
-                } else {
+                }else if(str.isBlank()){
+                    enter = true;
+                }
+                else {
                     fileAbstract = fileAbstract + str;
+                    enter = false;
                 }
             }
             if (fileAbstract.length() > 3000) {
