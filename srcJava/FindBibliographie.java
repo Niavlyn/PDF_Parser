@@ -9,7 +9,7 @@ public class FindBibliographie {
         while (scanner.hasNextLine() && !foundReferences) {
             str = scanner.nextLine();
 
-            if ((containsWord(str, "References") || containsWord(str, "REFERENCES")) && str.length() < 15) {
+            if ((containsWord(str, "References") || containsWord(str, "REFERENCES"))) {
                 foundReferences = true;
             }
         }
