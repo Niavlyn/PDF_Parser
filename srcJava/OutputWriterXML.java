@@ -31,7 +31,7 @@ public class OutputWriterXML {
 
         //Element nom du fichier
         Element nomFic = doc.createElement("preamble");
-        nomFic.setTextContent(nomFichier);
+        nomFic.setTextContent(" "+nomFichier+".pdf");
         article.appendChild(nomFic);
 
         //Element titre du papier
