@@ -24,7 +24,6 @@ public class FindAbstract {
             while (scanner.hasNextLine() && !foundIntroduction) {
                 str = scanner.nextLine();
                 if (containsWord(str, "Introduction") || containsWord(str, "INTRODUCTION") || (containsWord(str, "1.") || containsWord(str, "I.") || containsWord(str, "1 ") && enter) ){
-                    System.out.println("ENTRE  : "+enter);
                     foundIntroduction = true;
                 }else if(str.isBlank()){
                     enter = true;
