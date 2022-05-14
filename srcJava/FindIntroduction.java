@@ -24,7 +24,7 @@ public class FindIntroduction {
         while (scanner.hasNextLine() && !foundIntroduction) {
             str = scanner.nextLine();
 
-            if (((str.contains("1.") && str.charAt(0) == '1') || str.contains(" 1. ")|| containsWord(str, "I.") || containsWord(str, "1 ") && enter) ){
+            if (((str.contains("1.") && str.charAt(0) == '1') || str.contains(" 1. ")|| (str.contains("I.") && str.charAt(0) == 'I') || str.contains(" I. ") || (str.contains("1 ") && str.charAt(0) == '1')) && enter){
                 foundIntroduction = true;
             }else if(str.isBlank()){
                 enter = true;
@@ -35,7 +35,7 @@ public class FindIntroduction {
             while (scanner.hasNextLine() && !foundAfterIntro) {
                 String scan = scanner.nextLine();
                 introduction += scan;
-                if ((containsWord(scan, "2.") || containsWord(scan, "II.") || containsWord(scan, "2 ") && enter2)) {
+                if (((scan.contains("2.") && scan.charAt(0) == '2') || scan.contains(" 2. ")|| (scan.contains("II.") && scan.charAt(0) == 'I') || scan.contains(" II. ") || (scan.contains("2 ") && scan.charAt(0) == '2')) && enter2) {
                     foundAfterIntro = true;
                 }else if(scan.isBlank()){
                     enter2 = true;
