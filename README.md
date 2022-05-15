@@ -25,13 +25,17 @@ Avancement théorique du projet :
 -
 * Sprint 1 - Du 24/01/2022 au 07/01/2022 : Lancement du projet, mise en place des différents outils. Comparaison des différents PDFParser existants.
 * Sprint 2 - Du 07/02/2022 au 28/02/2022 : Transformation des fichiers PDF en txt, récupération des données (NomFichier, Titre, Auteurs, Abstract) pour les stocker dans un fichier txt.
-* Sprint 3 - Du 28/02/2022 au 14/03/2022 : Ajout d'une sortie des données au formt XML. Récupération des adresses mails des auteurs ainsi que de la bibliographie.
+* Sprint 3 - Du 28/02/2022 au 14/03/2022 : Ajout d'une sortie des données au format XML. Récupération des adresses mails des auteurs ainsi que de la bibliographie.
+* Sprint 4 - Du 14/03/2022 au 24/04/2022 : Ajout d'un menu textuel et enrichissement des fichiers XML avec les affiliations des auteurs, le corps de l'article, la conclusion, la discussion et le nom du fichier d'origine.
+* Sprint 5 - Du 24/04/2022 au 15/05/2022 : Optimisation.
 
 Suivi de l'avancement (rendus) :
 -
 * ~~07/02/2022 : Dépôt du Sprint 1~~
 * ~~28/02/2022 : Dépôt du Sprint 2~~
 * ~~14/03/2022 : Dépôt du Sprint 3~~
+* ~~24/04/2022 : Dépôt du Sprint 4~~
+* ~~15/05/2022 : Dépôt final~~
 
 Utilisation :
 -
@@ -43,10 +47,14 @@ Prérequis :
 
 Attention, le programme fonctionne correctemment sous Linux, mais le fonctionnement du programme avec WSL sous Windows n'est pas garantit. 
 
-1. Executer depuis un terminal le script bash à l'aide de la commande ```bash scriptExecution.sh```. Par défaut, le programme génère les fichiers au format txt et au format XML.
-
-- Pour n'obtenir que des fichiers au format txt utilisez l'option ```-t```.
-- Pour n'obtenir que des fichiers au format XML utilisez l'option ```-x```.
+1. Executer depuis un terminal le script bash à l'aide de la commande ```bash scriptExecution.sh```. Suivez les instructions du menu textuel pour utiliser le parseur. Vous pouvez choisir les fichiers/dossier à parser et le format de sortie des données (TXT ou XML).
 
 2. Les fichiers produits par le programme sont disponibles dans 2 dossiers générés, un par type de fichier : ```FinalProduction``` pour les fichiers txt et ```FinalProductionXML``` pour les fichiers XML.
+
+Conseils :
+-
+
+* Vous pouvez appuyer 2 fois sur ENTREE au lancement du programme pour parser entièrement le répertoire par défaut.
+* Lorsque le programme est utilisé pour la première fois sur une session, le convertisseur téléchargera des données depuis un serveur, cette phase peut durer quelques minutes, mais ne sera pas rééfectué aux exécutions suivantes.
+
 
