@@ -15,6 +15,7 @@ public class Comparator {
         }
         String[] metaAuthorsTab = parser.getAuthorsTab();
         String authors = parser.getAuthors();
+
         if (metaAuthorsTab.length > 0) {
             for (String s : metaAuthorsTab) {
                 if (authors.isBlank()) {
@@ -34,7 +35,6 @@ public class Comparator {
         parser.setTitle(title);
         parser.setAuthorsTab(metaAuthorsTab);
         parser.setAuthors(authors);
-
     }
 
     public Comparator() {}
@@ -68,8 +68,15 @@ public class Comparator {
                     String nameV2 = frontPartSplit[1];
 
                     for (int j = 0; j < auteursSpliTab.length; j++) {
-                        if(auteursSpliTab[j].contains(nameV1) || auteursSpliTab[j].contains(nameV2)) {
+                        if (auteursSpliTab[j].contains(nameV1) || auteursSpliTab[j].contains(nameV2)) {
                             return nameV1 + " " + nameV2;
+                        }
+                    }
+                } else if(!auteurs.contains("@")){
+                    String[] test = auteurs.split(";");
+                    for(int j = 0 ; j < test.length ; j++){
+                        if((test[j].toUpperCase()).contains(frontPart)){
+                            return test[j];
                         }
                     }
                 }

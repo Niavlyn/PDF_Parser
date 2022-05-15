@@ -47,7 +47,7 @@ public class Parser {
             this.scanner = new Scanner(file);
             new FindDiscussion(this, scanner);
             this.scanner = new Scanner(file);
-            new FindNomAuteur(this);
+            new FindNomAuteur(this, scanner);
             this.scanner = new Scanner(file);
             new FindAffiliation(this);
 
